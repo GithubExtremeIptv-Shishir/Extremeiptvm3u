@@ -5,5 +5,5 @@ http://b1g.ooo:80/Zaida/Zaida/161936
 http://b1g.ooo:80/Zaida/Zaida/697057
 #EXTINF:-1 , 4k 1pl
 http://b1g.ooo:80/Zaida/Zaida/662151
-#EXTINF:-1 , Somoy Tv
+#EXTINF:-1 , tvg-logo="https://en.somoynews.tv/icon.png" , Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
