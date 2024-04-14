@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,tvg-logo="https://freeiptv25.netlify.app/images/star_sports1hd.jpg" , Star sports 1
-http://opplex.tv:8080/live/24690084/13468863/109987.m3u
+http://opplex.tv:8080/live/24690084/13468863/109987.m3u8
 #EXTINF:-1 ,TNT Sports 1
 http://b1g.ooo:80/Zaida/Zaida/697057
 #EXTINF:-1 , T Sports
