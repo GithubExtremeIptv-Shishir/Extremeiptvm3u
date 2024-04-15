@@ -10,19 +10,19 @@ https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" ,Ekushay (main server)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="" ,ntv
-
+https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
 #EXTINF:-1 tvg-logo="" ,RTV
-
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" ,Boishakhi
-
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" ,Bangla Vision
-
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" ,Desh TV
-
+https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 #EXTINF:-1 tvg-logo="" ,MyTV
-
-#EXTINF:-1 tvg-logo="" ,Maasranga 
-
+https://freeiptv25.netlify.app/live/bdix/app/Mytv2.m3u8
+#EXTINF:-1 tvg-logo="" ,Maasranga
+https://tv5.hoichoi24.com/1122/video.m3u8
 #EXTINF:-1 tvg-logo="" ,Gazi TV
 
 #EXTINF:-1 tvg-logo="" ,Channel 9
