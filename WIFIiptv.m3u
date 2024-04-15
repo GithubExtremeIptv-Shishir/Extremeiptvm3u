@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports (TV)
+http://50.50.50.60:8088/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV
+http://50.50.50.60:8088/1103/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Star_Sports_1_HD.png" , Star sports 1
+http://50.50.50.60:8088/1104/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" , Star sports 2
+http://50.50.50.60:8088/1105/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" , Sony Sports Ten 5
+http://50.50.50.60:8088/1106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" , Sony sports Ten 2
+http://50.50.50.60:8088/1107/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" , Star Sports Select 1
+http://50.50.50.60:8088/1109/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Sports Select 2
+http://50.50.50.60:8088/1110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" , A sports HD
+http://50.50.50.60:8088/1112/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
+http://50.50.50.60:8088/1202/index.m3u8
+#EXTINF:-1 tvg-logo="" , DBC News
+
+#EXTINF:-1 tvg-logo="" , Independent TV
+
+#EXTINF:-1 tvg-logo="https://www.atnnewstv.com/assets/img/logo.png" ,ATN News http://50.50.50.60:8088/1209/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png" , Duronto TV
+http://50.50.50.60:8088/1211/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" , RTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" , Zee Bangla
+http://50.50.50.60:8088/1301/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" , Star Jalsha 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" , Colors Bangla 
+http://50.50.50.60:8088/1303/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png" , Jalsha Movies 
+http://50.50.50.60:8088/1304/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" , Zee Bangla Cinema
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png" , Nick 
+http://50.50.50.60:8088/1701/index.m3u8
+#EXTINF:-1 tvg-logo="https://greyboxcreativemain.b-cdn.net/wp-content/uploads/2020/01/National-Geographic-logo.jpg" , National Geographic
+http://50.50.50.60:8088/1901/tracks-v1a1/mono.m3u8
