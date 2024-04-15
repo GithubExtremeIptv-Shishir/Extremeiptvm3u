@@ -6,7 +6,7 @@ http://b1g.ooo:80/Zaida/Zaida/697057
 #EXTINF:-1 tvg-logo="https://imgbb.host/images/sb1Iu.jpeg , T Sports (Web)
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 , T sports (TV)
-http://sonyiptv.net:8080/hamayon123/abc123/250211
+https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 , tvg-logo="https://en.somoynews.tv/icon.png" , Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 ,tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" , Jamuna TV
@@ -15,3 +15,5 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 http://b1g.ooo:80/Zaida/Zaida/662151
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20240313195004" , Star sports 2
 http://sonyiptv.net:8080/hamayon123/abc123/247160
+#EXTINF:-1 , FHD IPL
+https://freeiptv25.netlify.app/live/stream_3.m3u8
