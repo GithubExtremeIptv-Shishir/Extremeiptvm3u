@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 ,Atn news 360
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Btv palki 720p
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Btv world 360p
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Banglavision 360p
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+#EXTINF:-1 ,Bijoy tv 360p
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#EXTINF:-1 ,Channel i 360p
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+#EXTINF:-1 ,Duronto 360p
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+#EXTINF:-1 ,Ekattor 360p
+http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Deepto 360p
+http://cdn01.palki.tv:80/live/DeeptoTV-M/index.m3u8
+#EXTINF:-1 ,Ekhon tv 360p 
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8 
+#EXTINF:-1 ,Independent 360p
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 ,Independent 360p 
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 ,Green tv 360p
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+#EXTINF:-1 ,Jamuna 360p
+http://cdn01.palki.tv:80/live/JamunaTV-M/index.m3u8
+#EXTINF:-1 ,Maasranga 360p
+http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
+#EXTINF:-1 ,Mohona tv 360p
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+#EXTINF:-1 ,Maasranga 720p
+http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
+#EXTINF:-1 ,Nexus TV 360p
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 ,Ntv 360p
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 ,News 24 360p
+http://cdn01.palki.tv/live/News24-M/index.m3u8
