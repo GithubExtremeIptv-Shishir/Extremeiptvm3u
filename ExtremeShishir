@@ -8,7 +8,7 @@ https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/400px-Ekushey_Television_Logo.svg.png" ,Ekushey (main server)
-https://ekusheyserver.com/etvlivesn.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/EkusheyTv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
 https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
