@@ -97,37 +97,41 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
 http://176.119.29.52/live/00:1A:79:FD:9B:41/D0EA41E1A7E7F/48010.m3u8
-#EXTINF:-1 tvg-logo="" , Star Sports 1
-http://opplex.tv:8080/live/24690084/13468863/109987.m3u8
-#EXTINF:-1 tvg-logo="" , Star Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
+http://watchindia.net:8880/live/83023/62335/2186.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star Sports 2
 http://65.21.6.158:80/T4S00515/820172/109988?token=GhMNBEZcR1gRUgJeVlFRBVYBAgECV1xRVgcHAAJcVVFVAwYBAQNdBwNEGBoXEhZRBVtrXgVGAgFSXw4MCxQUFhJUFzpcUEdYEVMED1FfURZIFEBeDAEaClNRBgcBDQNXUQZJR0VdAUAJRAIMUVNTB0YaFlIZEF1CDAdba1ddQAoCVEdfW0EJDh9EW1Y7AgFZBVhQFVtGCBJORF5HQxoMDRRdCUkXVgwWQQdAXUZcRgBXBwEVTUZbXxcIQ0ZKGgxBI3VHSRdRHRZWCEdRCwhGDkZCRxVNRlFDPRRSR0dKUwIMVBdHDxZVQB9EWVkcOQdbClhRVBUNV14RRA0WAhoaQQxeCwxBWxc9Qw9QGl5EVQNXAAEBQxk=
-#EXTINF:-1 tvg-logo="" , Star Sports 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
 http://xtv.ooo:8080/T4S00515/820172/167577
-#EXTINF:-1 tvg-logo="" ,Star Select 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" ,Star Select 1
 http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="" , Star Select 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
 http://103.120.172.74:4700
-#EXTINF:-1 tvg-logo="" , Sony Ten 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://103.120.172.74:5400
-#EXTINF:-1 tvg-logo="" ,Sony Ten 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
 http://xtv.ooo:8080/T4S00515/820172/109984
-#EXTINF:-1 tvg-logo="" , Sony Ten 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" , Sony Ten 3
 http://xtv.ooo:8080/T4S00515/820172/109985
-#EXTINF:-1 tvg-logo="" , Sony Ten 4
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" , Sony Ten 4
 http://xtv.ooo:8080/T4S00515/820172/167595
-#EXTINF:-1 tvg-logo="" ,Sony Ten 5
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" ,Sony Ten 5
 http://xtv.ooo:8080/T4S00515/820172/109992
-#EXTINF:-1 tvg-logo="" , Ten Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
+http://143.244.60.30:80/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
-#EXTINF:-1 tvg-logo="" ,A sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
 http://xtv.ooo:8080/T4S00515/820172/219689
-#EXTINF:-1 tvg-logo="" ,Sky sports cricket 
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
+http://103.107.79.87:8080/CH8107SD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky sports cricket 
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7343/index.m3u8
-#EXTINF:-1 tvg-logo="" ,SuperSport Premier League
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png?width=2048&quality=90&format=webp" ,SuperSport Premier League
 http://202.21.104.6:88/sps-plus/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Willow HD
+#EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
 http://xtv.ooo:8080/T4S00515/820172/167583
-#EXTINF:-1 tvg-logo="" ,Willow Extra 
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow Extra 
 http://xtv.ooo:8080/T4S00515/820172/167582
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
 http://tv.cloudcdn.me:80/live.ts?channelId=116592&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -164,13 +168,17 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHyHcd8/XBz4I65.jpg" ,Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF:-1 tvg-logo="" ,T sports tv Backup 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Backup 
 http://103.107.79.87:8080/1101/video.m3u8
-#EXTINF:-1 tvg-logo="" , Star sports 2 Backup 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star sports 2 Backup 
 http://xtv.ooo:8080/T4S00515/820172/109988
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,Duronto 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto 
 https://tv5.hoichoi24.com/1103/video.m3u8
-#EXTINF:-1 tvg-logo="" , Hungama Backup (buffer)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup (buffer)
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1 Backup 
+http://opplex.tv:8080/live/24690084/13468863/109987.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" ,Star sports 1 Hindi
+http://95.214.234.140:80/T4S00515/820172/167573?token=GhMNBEZcR1gRVgRZV15VBVICVQcCUg1WA1cEUAUMAwVYUgNRBgwGBANEGBoXEhZRBVtrXgVGAgFUUQIDABQUFhJUFzpcUEdYEVMED1FfURZIFEBeDAEaClNRBgcBDw5UVANJR0VdAUAJRAUMVVRTFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQNSDxYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZXUwJVBhZK
