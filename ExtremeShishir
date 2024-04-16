@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" , Btv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" , Btv
 https://freeiptv25.netlify.app/live/bdix/app/BTV.m3u8
-#EXTINF:-1 tvg-logo="" ,Btv world
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" ,Atn bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" ,Channel i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" ,Ekushay (main server)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/400px-Ekushey_Television_Logo.svg.png" ,Ekushey (main server)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-logo="" ,ntv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
 https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
-#EXTINF:-1 tvg-logo="" ,RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" ,Boishakhi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" ,Bangla Vision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" ,Desh TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
-#EXTINF:-1 tvg-logo="" ,MyTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
 https://freeiptv25.netlify.app/live/bdix/app/Mytv2.m3u8
 #EXTINF:-1 tvg-logo="" ,Maasranga
 https://tv5.hoichoi24.com/1122/video.m3u8
@@ -127,34 +127,33 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 http://xtv.ooo:8080/T4S00515/820172/167583
 #EXTINF:-1 tvg-logo="" ,Willow Extra 
 http://xtv.ooo:8080/T4S00515/820172/167582
-#EXTINF:-1 tvg-logo="" ,Star Jalsha
-https://freeiptv25.netlify.app/live/app/StarJalshaHD/index.m3u8?token=freeiptv25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
+http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" ,Zee Bangla 
 http://watchindia.net:8880/live/83023/62335/2283.m3u8
-#EXTINF:-1 tvg-logo="" ,Jalsha Movies 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
 http://watchindia.net:8880/live/83023/62335/2282.m3u8
-#EXTINF:-1 tvg-logo="" ,Zee Bangla cinema 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla cinema 
 http://watchindia.net:8880/live/83023/62335/2287.m3u8
-#EXTINF:-1 tvg-logo="" , Sony Aath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
 http://103.107.79.87:8080/CH8110HD06/video.m3u8
-#EXTINF:-1 tvg-logo="" ,Sun Bangla 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,Sun Bangla 
 http://watchindia.net:8880/live/83023/62335/2290.m3u8
-#EXTINF:-1 tvg-logo="" ,Colors Bangla 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
 http://103.107.79.87:8080/CH8110HD05/video.m3u8
-#EXTINF:-1 tvg-logo="" , Sony Entertainment 
+#EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
 http://watchindia.net:8880/live/83023/62335/1969.m3u8
-http://watchindia.net:8880/live/83023/62335/2141.m3u8
-#EXTINF:-1 tvg-logo="" ,Zee Cinema 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
 http://watchindia.net:8880/live/83023/62335/787.m3u8
-#EXTINF:-1 tvg-logo="" ,Sony Max 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
 http://watchindia.net:8880/live/83023/62335/788.m3u8
-#EXTINF:-1 tvg-logo="" ,Star Gold 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
 http://watchindia.net:8880/live/83023/62335/785.m3u8
-#EXTINF:-1 tvg-logo="" ,Discovery Bangla 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF:-1 tvg-logo="" , Discovery hindi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery hindi
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
-#EXTINF:-1 tvg-logo="" ,National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/360px-Natgeologo.svg.png" ,National Geographic
 http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg" ,https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png" ,Wild Earth
