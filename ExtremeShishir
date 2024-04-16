@@ -14,7 +14,7 @@ https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Boishakhi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
 https://himel-op.top/portal/ditto.m3u8?id=721
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
@@ -28,7 +28,7 @@ http://103.107.79.87:8080/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
 https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713278833/ei/ETseZs3uGbS5z7sPi6-h4A0/ip/172.68.231.164/id/XhxR6cd4NWw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-n0hhpujvh-jb2s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3frBDXFWr7Y2E_RZuhaZ82MH4DNsWfkFRet0vGWyw1OujOtTMd4yBZ8/vprv/1/playlist_type/DVR/initcwndbps/947500/mh/Ti/mip/103.135.175.214/mm/44/mn/sn-n0hhpujvh-jb2s/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/mt/1713256846/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgFkbwGYrcgwSSbSn9rrXYCgM50RkH7ZieqiXjDvBNlIoCIDt9AFIesqB8ZFD_sfA18Pb4gGqn2nOj_U3Mh8KL_x5q/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgUfZxaVtImZKO_gFExYv7kiIa_VBBA3a7arzOQL3rRBYCIQDjnYyxdzFqlvXBEJ-rG0xvgQEM4WhrKTBzHcNcoS7pIg%3D%3D/playlist/index.m3u8
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
@@ -36,7 +36,7 @@ https://freeiptv25.netlify.app/live/bdix/app/Channel24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
 https://freeiptv25.netlify.app/live/bdix/app/Ekattor.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713279162/ei/WjweZu7OIK7L3LUPjPi2-AQ/ip/172.68.231.162/id/suSPQSFq8S4.13/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f337NeiOIFTwyI2lcwD26GiEKzRXrZgVeYBayEDtj618pQFzC29F3Mp5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJIPOnpJelWcGZm-dwvKjMTw3v0ICaJjfHQLA4fw0VLsCIEoRpIBSTV3LSnPM8iDKs-6XikBnYJIfb_owZQQ0_fqP/file/index.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Independent.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
 https://freeiptv25.netlify.app/live/bdix/app/Jamuna.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24 
