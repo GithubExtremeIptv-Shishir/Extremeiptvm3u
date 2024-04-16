@@ -76,7 +76,7 @@ http://watchindia.net:8880/live/83023/62335/2104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick 
 http://watchindia.net:8880/live/83023/62335/2182.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama 
-http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
+http://103.77.10.234:8080/Diamond@pk@321/4193525345453/246766?token=TxNaVBVQEQgQVVdVV1VTUQQLA1cHAAYHUAUBBgZRBAJVAAsMBA9RBVQTGRNCEUUBVF85WgJBD1NQBgMHUhsQREdUQGoPXBEIEAMEAgFWFUgXRg9eA0EPUFMBBwNSAgEIBx0QRQ9cEQgQAAAHBV0VSBdXHkcDEVsACG9QVBJeUVQWC1xAClQfEF1falVUCFYKURBcEVZBGUMNQ0QTXllHXVgdEFcPTEFTRlQXCxNUB10AEEoRBQxADxBCTRNeFXB1Fh0QUB5MVlxBWFpfE18VEEYQShEPEGoTAUNAQwFWX1RGEwgXVxofEF9QTW5SClkKUFESWgkNRkNeEgYBVBUeE1leXFwSV0FtQlhREwtHBlEFAl4RGw==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png?20100613144818" ,Cartoon Network CN
 https://himel-op.top/portal/puk.m3u8?id=6074
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" ,nick hindi
@@ -172,3 +172,4 @@ http://xtv.ooo:8080/T4S00515/820172/109988
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="" ,Duronto 
 https://tv5.hoichoi24.com/1103/video.m3u8
+#EXTINF:-1 tvg-logo="" ,Hungama http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
