@@ -38,13 +38,13 @@ https://freeiptv25.netlify.app/live/bdix/app/Ekattor.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713279162/ei/WjweZu7OIK7L3LUPjPi2-AQ/ip/172.68.231.162/id/suSPQSFq8S4.13/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f337NeiOIFTwyI2lcwD26GiEKzRXrZgVeYBayEDtj618pQFzC29F3Mp5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJIPOnpJelWcGZm-dwvKjMTw3v0ICaJjfHQLA4fw0VLsCIEoRpIBSTV3LSnPM8iDKs-6XikBnYJIfb_owZQQ0_fqP/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Jamuna.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24 
 https://freeiptv25.netlify.app/live/bdix/app/News24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
-http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+http://89.187.179.108:8080/c444a5102cea055bc3713536a50c434ffee9d81b5f90fbe2bba51bc6cd89999a1807929995c22cb961c9f2f94bdb593efff2349c5e261c42a731f3ef629d10e19b949701c32b1b44741597b014e971e4b2a8a7df1f5433b7d920887d0d478d4c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
 https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" , Deepto TV
