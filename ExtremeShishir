@@ -156,6 +156,8 @@ https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/360px-Natgeologo.svg.png" ,National Geographic
 http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg" ,https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 tvg-logo="" ,Animal Planet
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png" ,Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHyHcd8/XBz4I65.jpg" ,Discovery Science
@@ -166,3 +168,5 @@ http://103.107.79.87:8080/1101/video.m3u8
 http://xtv.ooo:8080/T4S00515/820172/109988
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Duronto 
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
