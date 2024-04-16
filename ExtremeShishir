@@ -98,7 +98,7 @@ http://176.119.29.52/live/00:1A:79:FD:9B:41/D0EA41E1A7E7F/48010.m3u8
 #EXTINF:-1 tvg-logo="" , Star Sports 1
 http://opplex.tv:8080/live/24690084/13468863/109987.m3u8
 #EXTINF:-1 tvg-logo="" , Star Sports 2
-http://103.120.172.74:4700
+http://homeip.biz/2ST_Glob/index.m3u8?token=5a8d1150ec28d5881cb5a1786a7d6ee3
 #EXTINF:-1 tvg-logo="" , Star Sports 3
 http://xtv.ooo:8080/T4S00515/820172/167577
 #EXTINF:-1 tvg-logo="" ,Star Select 1
@@ -128,15 +128,15 @@ http://xtv.ooo:8080/T4S00515/820172/167583
 #EXTINF:-1 tvg-logo="" ,Willow Extra 
 http://xtv.ooo:8080/T4S00515/820172/167582
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
-http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" ,Zee Bangla 
-http://watchindia.net:8880/live/83023/62335/2283.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=116592&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
+https://himel-op.top/portal/cdnop.ts?channelId=120
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
-http://watchindia.net:8880/live/83023/62335/2282.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla cinema 
-http://watchindia.net:8880/live/83023/62335/2287.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1 tvg-logo="" ,Zee Bangla cinema 
+http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
-http://103.107.79.87:8080/CH8110HD06/video.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,Sun Bangla 
 http://watchindia.net:8880/live/83023/62335/2290.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
@@ -146,7 +146,7 @@ http://watchindia.net:8880/live/83023/62335/1969.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
 http://watchindia.net:8880/live/83023/62335/787.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
-http://watchindia.net:8880/live/83023/62335/788.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
 http://watchindia.net:8880/live/83023/62335/785.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
