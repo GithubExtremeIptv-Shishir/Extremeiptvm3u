@@ -21,7 +21,7 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
 https://freeiptv25.netlify.app/live/bdix/app/Mytv2.m3u8
-#EXTINF:-1 tvg-logo="" ,Maasranga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://tv5.hoichoi24.com/1122/video.m3u8
 #EXTINF:-1 tvg-logo="" ,Gazi TV
 http://103.107.79.87:8080/1102/video.m3u8
