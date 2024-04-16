@@ -23,33 +23,33 @@ https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/Mytv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://tv5.hoichoi24.com/1122/video.m3u8
-#EXTINF:-1 tvg-logo="" ,Gazi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
 http://103.107.79.87:8080/1102/video.m3u8
-#EXTINF:-1 tvg-logo="" , Channel 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
 https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
-#EXTINF:-1 tvg-logo="" , ATN News 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News 
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" , Somoy News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://tv5.hoichoi24.com/1111/video.m3u8
-#EXTINF:-1 tvg-logo="" , Channel 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
 https://freeiptv25.netlify.app/live/bdix/app/Channel24.m3u8
-#EXTINF:-1 tvg-logo="" , Ekattor
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
 https://freeiptv25.netlify.app/live/bdix/app/Ekattor.m3u8
-#EXTINF:-1 tvg-logo="" ,Independent TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
 https://freeiptv25.netlify.app/live/bdix/app/Independent.m3u8
-#EXTINF:-1 tvg-logo="" ,Jamuna TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" ,News 24 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24 
 https://freeiptv25.netlify.app/live/bdix/app/News24.m3u8
-#EXTINF:-1 tvg-logo="" , DBC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" , Bijoy TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
-#EXTINF:-1 tvg-logo="" , Mohona TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
 https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
-#EXTINF:-1 tvg-logo="" , Deepto TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" , Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" , Bangla TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" , Bangla TV
 http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
