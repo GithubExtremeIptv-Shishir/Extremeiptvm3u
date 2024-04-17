@@ -1,4 +1,24 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Your Channel Name" tvg-logo="Channel Logo URL"
-http://wtc05.mi20.cc/stalker_portal/c/
-mac=00:1A:79:66:02:9A
+import csv
+
+def convert_to_m3u(mac_portal_link, csv_file_path, output_file_path):
+    m3u_content = "#EXTM3U\n\n"
+
+    # Read channel information from CSV file
+    with open(csv_file_path, 'r', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            channel_name, channel_url = row
+            mac_address = "00:1A:79:66:02:9A"  # Replace with your MAC address
+            m3u_content += f"#EXTINF:-1 tvg-name=\"{channel_name}\" tvg-id=\"{channel_name}\" tvg-logo=\"\" group-title=\"\",{channel_name}\n"
+            m3u_content += f"{mac_portal_link} mac={mac_address}\n\n"
+
+    # Write M3U content to file
+    with open(output_file_path, 'w', encoding='utf-8') as m3ufile:
+        m3ufile.write(m3u_content)
+
+# Example usage
+mac_portal_link = "http://wtc05.mi20.cc/stalker_portal/c/"
+csv_file_path = "channels.csv"
+output_file_path = "iptv_playlist.m3u"
+
+convert_to_m3u(mac_portal_link, csv_file_path, output_file_path)
