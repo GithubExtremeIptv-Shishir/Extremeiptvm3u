@@ -197,3 +197,9 @@ http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
 https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
 #EXTINF:-1 tvg-logo="" , Sony Ten 5
 http://103.120.172.74:5300
+#EXTINF:-1 tvg-logo="" ,T Sports Backup 
+http://sonyiptv.net:8080/1234567/1234567/250211
+#EXTINF:-1 tvg-logo="" ,T Sports Freeiptv
+https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
+#EXTINF:-1 tvg-logo="" ,Star sports 4K
+https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
