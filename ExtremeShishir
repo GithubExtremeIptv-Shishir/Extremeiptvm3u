@@ -184,3 +184,16 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 http://opplex.tv:8080/live/24690084/13468863/109987.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" ,Star sports 1 Hindi
 http://95.214.234.140:80/T4S00515/820172/167573?token=GhMNBEZcR1gRVgRZV15VBVICVQcCUg1WA1cEUAUMAwVYUgNRBgwGBANEGBoXEhZRBVtrXgVGAgFUUQIDABQUFhJUFzpcUEdYEVMED1FfURZIFEBeDAEaClNRBgcBDw5UVANJR0VdAUAJRAUMVVRTFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQNSDxYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZXUwJVBhZK
+
+#EXTINF:-1 tvg-logo="" ,Sony Ten 1
+https://freeiptv25.netlify.app/live/bdix/app/SonySports1.m3u8
+#EXTINF:-1 tvg-logo="" ,Sony Ten 2
+https://freeiptv25.netlify.app/live/bdix/app/SonySports2.m3u8
+#EXTINF:-1 tvg-logo="" ,Sony Ten 3
+https://freeiptv25.netlify.app/live/bdix/app/SonySports3.m3u8
+#EXTINF:-1 tvg-logo="" ,Sony Ten 3 backup
+http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
+#EXTINF:-1 tvg-logo="" ,Sony Ten 4
+https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
+#EXTINF:-1 tvg-logo="" , Sony Ten 5
+http://103.120.172.74:5300
