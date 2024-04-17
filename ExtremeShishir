@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" , Btv
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/BTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
@@ -44,7 +44,7 @@ https://freeiptv25.netlify.app/live/bdix/app/News24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
-http://89.187.179.108:8080/c444a5102cea055bc3713536a50c434ffee9d81b5f90fbe2bba51bc6cd89999a1807929995c22cb961c9f2f94bdb593efff2349c5e261c42a731f3ef629d10e19b949701c32b1b44741597b014e971e4b2a8a7df1f5433b7d920887d0d478d4c/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
 https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" , Deepto TV
@@ -74,7 +74,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=himelhimu&deviceMac=00:1A:7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY
-http://watchindia.net:8880/live/83023/62335/2104.m3u8
+https://himel-op.top/portal/cooltvopp.m3u8?id=1656
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick 
 http://watchindia.net:8880/live/83023/62335/2182.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama 
