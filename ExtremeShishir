@@ -22,7 +22,7 @@ https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
 https://freeiptv25.netlify.app/live/bdix/app/Mytv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
-https://tv5.hoichoi24.com/1122/video.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
 http://103.107.79.87:8080/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
@@ -203,3 +203,7 @@ http://sonyiptv.net:8080/1234567/1234567/250211
 https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
 #EXTINF:-1 tvg-logo="" ,Star sports 4K
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/400px-FanCode_logo.svg.png" ,Fancode 1
+https://freeiptv25.netlify.app/live/stream_10.m3u8
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2478323/6d2d0fd950e6977c7aedc78a1ea31640aad9e11f.jpg" ,Fancode 2
+https://freeiptv25.netlify.app/live/stream_11.m3u8
