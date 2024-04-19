@@ -207,3 +207,5 @@ https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
 https://freeiptv25.netlify.app/live/stream_10.m3u8
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2478323/6d2d0fd950e6977c7aedc78a1ea31640aad9e11f.jpg" ,Fancode 2
 https://freeiptv25.netlify.app/live/stream_11.m3u8
+#EXTINF:-1 ,WebSeries 
+http://b1g.ooo:80/series/Zaida/Zaida/385533.mp4
