@@ -28,7 +28,7 @@ http://103.107.79.87:8080/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
 https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News 
-http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
+http://king4k.tv:80/play/live.php?mac=00:1A:79:60:AD:32&stream=443293&extension=ts&play_token=Bie4KmW8bf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
@@ -102,7 +102,7 @@ https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star Sports 2
-http://xtv.ooo:8080/T4S00515/820172/109988
+http://starshare.live:8080/live/wasim/wasim1234/303593.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
 http://xtv.ooo:8080/T4S00515/820172/167577
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" ,Star Select 1
