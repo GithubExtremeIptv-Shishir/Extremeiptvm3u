@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" , Btv
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8?watermark=https://private-user-images.githubusercontent.com/166954839/324137527-b9c8373a-2408-4276-8ca8-177e134a005a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1Njk5NjAsIm5iZiI6MTcxMzU2OTY2MCwicGF0aCI6Ii8xNjY5NTQ4MzkvMzI0MTM3NTI3LWI5YzgzNzNhLTI0MDgtNDI3Ni04Y2E4LTE3N2UxMzRhMDA1YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQyMzM0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mN2MwYjQzOWI0YTE2ZGVmZWE1YmFhODJhMzNhMWNiNWVkMjBmNzJiZDUzZTdkOWMwYzNmZGU1OTNkZjlkZDk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.o4-fucJcr87qEVsPO4GT6zBhPxsUU8jBrGc_UoeE-U4&position=top-right&size=tiny
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
