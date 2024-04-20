@@ -12,7 +12,8 @@ http://50.50.50.60:8088/1106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" , Sony sports Ten 2
 http://50.50.50.60:8088/1107/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" ,Sony Ten 5
-http://50.50.50.60:8088/1108/index.m3u8 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" , Star Sports Select 1
+http://50.50.50.60:8088/1108/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" , Star Sports Select 1
 http://50.50.50.60:8088/1109/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Sports Select 2
 http://50.50.50.60:8088/1110/tracks-v1a1/mono.m3u8
@@ -20,7 +21,7 @@ http://50.50.50.60:8088/1110/tracks-v1a1/mono.m3u8
 http://50.50.50.60:8088/1112/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
 http://50.50.50.60:8088/1202/index.m3u8
-#EXTINF:-1 tvg-logo="" , DBC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
 http://50.50.50.60:8088/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" , Independent TV
 
@@ -35,7 +36,7 @@ http://50.50.50.60:8088/1301/tracks-v1a1/mono.m3u8
 http://50.50.50.60:8088/1302/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" , Colors Bangla 
 http://50.50.50.60:8088/1303/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" ,Star plus 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" ,Star plus 
 http://50.50.50.60:8088/1401/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png" , Jalsha Movies 
 http://50.50.50.60:8088/1304/tracks-v1a1/mono.m3u8
