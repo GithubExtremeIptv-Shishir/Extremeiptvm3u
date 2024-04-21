@@ -150,13 +150,13 @@ http://watchindia.net:8880/live/83023/62335/2290.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
-http://xtv.ooo:8080/T4S00515/820172/661644
+http://103.107.79.87:8080/CH8108HD04/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
 http://watchindia.net:8880/live/83023/62335/787.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
 http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
-http://watchindia.net:8880/live/83023/62335/785.m3u8
+http://opplex.tv:8080/live/24690084/13468863/66177.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery hindi
