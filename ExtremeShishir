@@ -210,23 +210,3 @@ https://freeiptv25.netlify.app/live/stream_10.m3u8
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2478323/6d2d0fd950e6977c7aedc78a1ea31640aad9e11f.jpg" ,Fancode 2
 https://freeiptv25.netlify.app/live/stream_11.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png", IPL VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1713600576:KeyName=prod_live_events:Signature=4w-gFY-NFTFNSFUrR2DUY2IER-LjoWi3QjTuRaSAhRz5QxZ8sD4GC2UJzQhkQXCB5yquIYmvRJKhnG1dOXY2DQ"}
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1713701139:KeyName=prod_linear:Signature=0ljU2prUS2haJRaEkk8BR2fb3kHraXZCdbw4Lre25hOV0ZJVb1eMNAicnyGNpU1Dk33Dk7AtgceNW8SKHFgZBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1713701139:KeyName=prod_linear:Signature=0ljU2prUS2haJRaEkk8BR2fb3kHraXZCdbw4Lre25hOV0ZJVb1eMNAicnyGNpU1Dk33Dk7AtgceNW8SKHFgZBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1713701139:KeyName=prod_linear:Signature=0ljU2prUS2haJRaEkk8BR2fb3kHraXZCdbw4Lre25hOV0ZJVb1eMNAicnyGNpU1Dk33Dk7AtgceNW8SKHFgZBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" ,Sony Ten 3
-https://amit.top10bhaluka.com/Jio/stream.m3u8?id=892
