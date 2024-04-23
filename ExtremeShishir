@@ -114,11 +114,11 @@ https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://xtv.ooo:8080/T4S00515/820172/109983
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
-http://xtv.ooo:8080/T4S00515/820172/109984
+http://starshare.live:8080/live/wasim/wasim1234/9403.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" , Sony Ten 3
 http://starshare.live:8080/live/wasim/wasim1234/9404.ts
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" , Sony Ten 4
-http://xtv.ooo:8080/T4S00515/820172/167595
+http://starshare.live:8080/live/wasim/wasim1234/29469.ts
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" ,Sony Ten 5
 http://xtv.ooo:8080/T4S00515/820172/109992
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
