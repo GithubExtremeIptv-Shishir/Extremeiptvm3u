@@ -134,9 +134,9 @@ http://starshare.live:8080/live/wasim/wasim1234/303595.ts
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png?width=2048&quality=90&format=webp" ,SuperSport Premier League
 http://202.21.104.6:88/sps-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
-http://xtv.ooo:8080/T4S00515/820172/167583
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow Extra 
 http://starshare.live:8080/live/wasim/wasim1234/303597.ts
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow Extra 
+https://himel-op.top/portal/puk.m3u8?id=22154
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
 http://tv.cloudcdn.me:80/live.ts?channelId=116592&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
