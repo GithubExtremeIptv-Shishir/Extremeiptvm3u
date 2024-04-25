@@ -152,11 +152,11 @@ http://starshare.live:8080/live/wasim/wasim1234/303597.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow Extra 
 https://himel-op.top/portal/puk.m3u8?id=22154
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
-http://tv.cloudcdn.me:80/live.ts?channelId=116592&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://103.107.79.87:8080/CH8110HD01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
-https://himel-op.top/portal/cdnop.ts?channelId=120
+http://103.107.79.87:8080/CH8110HD03/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://103.107.79.87:8080/CH8110HD02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla cinema 
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
@@ -164,7 +164,7 @@ http://103.107.79.87:8080/CH8110HD06/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,Sun Bangla 
 http://watchindia.net:8880/live/83023/62335/2290.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+http://103.107.79.87:8080/CH8110HD05/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
 http://103.107.79.87:8080/CH8108HD04/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
