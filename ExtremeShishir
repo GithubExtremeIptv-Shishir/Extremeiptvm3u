@@ -110,7 +110,7 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://103.107.79.87:8080/1101/video.m3u8
+http://xtv.ooo:8080/adnankb2006/86057314/167590
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 http://humiptv.live:8080/live/wasim/wasim1234/304286.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
@@ -213,10 +213,10 @@ http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
 https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
 #EXTINF:-1 tvg-logo="" , Sony Ten 5
 http://103.120.172.74:5300
-#EXTINF:-1 tvg-logo="" ,T Sports Backup 
-http://sonyiptv.net:8080/1234567/1234567/250211
 #EXTINF:-1 tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" , T Sports Freeiptv
 https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
+#EXTINF:-1 tvg-logo="" ,T Sports Backup 
+http://103.107.79.87:8080/1101/video.m3u8
 #EXTINF:-1 tvg-logo="" ,Star sports 4K
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/400px-FanCode_logo.svg.png" ,Fancode 1
