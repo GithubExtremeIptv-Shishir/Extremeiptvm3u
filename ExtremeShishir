@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://private-user-images.githubusercontent.com/166954839/325136284-ab1937f8-4d3b-40cb-83cf-bacdb1e9b2d2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM5NDY2NjYsIm5iZiI6MTcxMzk0NjM2NiwicGF0aCI6Ii8xNjY5NTQ4MzkvMzI1MTM2Mjg0LWFiMTkzN2Y4LTRkM2ItNDBjYi04M2NmLWJhY2RiMWU5YjJkMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyNFQwODEyNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZjcwNGI5NmQ0YjkzZTZiYjUxMjRhYzAwNzQ0YjYwZGNmZDQwZWE1OWFmMDg3OGRlY2JkM2QxMDc3NTI2ZDI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NOfTx3vt5VYhvSsRh0lUb0mCOl3tYH9D8FmTeP8__ss" ,EXTREME IPTV 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/134/755/png-clipart-logo-desktop-trademark-computer-trademark-computer.png" ,EXTREME IPTV 
 https://drive.usercontent.google.com/u/0/uc?id=1OdRSPReNx4V1Ouyc8Xl5xIfhU0mpieEf&export=download
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" ,Btv
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
@@ -85,32 +85,32 @@ http://sonyiptv.net:8080/hamayon123/abc123/246766
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648d9fd43e61d5ef42a1df245fde0c6890712fb5508974c0015997a8a5c2bb4dbb3959c902de620a684c5c669e4fc3740596da67ab04627d4627ccccb32dd8ca70be83e22b12ef770334638c7a07ea57027cdee51b0c802ebd0b6a798a285d26f909206b87422386d95ba14111542425521b4a3900c10c1da0e24c8ac75ca224fa5dd09b3c3ac46d1ca4d31ed9a045fdd99702c11d9449c9db63f3d2b9d317a8b3e33bf60be37e690a62159df1497e3e53c4c9cc4940d46fc49f1580d083d9946f2f8f460c78f0fec0be5f8c79a3862e897423ab4fcc01d561c43bd869dd8144c2f9eac72383d8d477867ab3a7645d5e2ff5eb72eb/41/1920x1080_5860800/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" ,Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,Disney [multi]
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/142-1427332_disney-channel-pink-logo-disney-channel-logo-2018.png" ,Disney Channel 
 http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
-#EXTINF:-1 tvg-logo="" ,Disney Hindi
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/142-1427332_disney-channel-pink-logo-disney-channel-logo-2018.png" ,Disney Hindi
 http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
-#EXTINF:-1 tvg-logo="" ,Doraemon 24/7
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/749/650/png-transparent-doraemon-logo-nobita-nobi-doraemon-television-drawing-doraemon-child-text-friendship-thumbnail.png" ,Doraemon 24/7
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
-#EXTINF:-1 tvg-logo="" ,Shinchan 24/7
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/211-2114955_shin-chan-logo1-shin-chan-logo-clipart.png" ,Shinchan 24/7
 http://starshare.live:8080/live/wasim/wasim1234/147724.ts
-#EXTINF:-1 tvg-logo="" ,Mr. Bean 24/7
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/618/786/png-clipart-video-youtube-animated-cartoon-animated-series-mr-bean-dance-thumbnail.png" ,Mr. Bean 24/7
 http://starshare.live:8080/live/wasim/wasim1234/147777.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1400px-Disney_wordmark.svg.png?20171113041617" ,Disney kids (USA)
 http://humiptv.live:8080/live/wasim/wasim1234/19832.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/200px-2016_Discovery_Kids_logo.svg.png" ,Discovery Kids
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
-#EXTINF:-1 tvg-logo="" ,Nickelodeon sonic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" ,Nickelodeon sonic
 http://starshare.live:8080/live/wasim/wasim1234/127762.ts
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2019/11/Wow-Kidz-Logo.jpg" ,Wow Kidz
 https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi
-#EXTINF:-1 tvg-logo="" ,ZooMoo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png?20220208210243" ,ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T spots 1 <web>
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://xtv.ooo:8080/adnankb2006/86057314/167590
+https://himel-op.top/portal/cooltvopp.m3u8?id=10432
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 http://humiptv.live:8080/live/wasim/wasim1234/304286.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
@@ -187,7 +187,7 @@ https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHyHcd8/XBz4I65.jpg" ,Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Backup 
-https://himel-op.top/portal/cooltvopp.m3u8?id=10432
+http://xtv.ooo:8080/adnankb2006/86057314/167590
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star sports 2 Backup 
 http://xtv.ooo:8080/T4S00515/820172/109988
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
