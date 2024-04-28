@@ -155,13 +155,13 @@ https://himel-op.top/portal/puk.m3u8?id=22154
 
 #EXTINF:-1 tvg-logo="" ,Astro Cricket 
 https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
-#EXTINF:-1 tvg-logo="" ,Astro Super sports1
+#EXTINF:-1 tvg-logo="" ,Astro Supersport 1
 http://dac.satocean.uk:8080/SK_ASTRO_SPORTS_1/index.m3u8?token=8bb9e236422ce74d8de5403a9c3e9c98
-#EXTINF:-1 tvg-logo="" ,Astro super sports 2
+#EXTINF:-1 tvg-logo="" ,Astro Supersport 2
 http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#EXTINF:-1 ,Astro sports 3
+#EXTINF:-1 ,Astro Supersport 3
 https://freeiptv25.netlify.app/live/bdix/app/ASP3.m3u8
-#EXTINF:-1 tvg-logo="" ,Astro Super Sports 4
+#EXTINF:-1 tvg-logo="" ,Astro Supersport 4
 http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 #EXTINF:-1 tvg-logo="" ,Astro Premier 
 https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
@@ -187,15 +187,15 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
-https://himel-op.top/portal/cooltvopp.m3u8?id=24600
+http://starshare.live:8080/live/wasim/wasim1234/98883.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
-https://himel-op.top/portal/cooltvopp.m3u8?id=24601
+http://starshare.live:8080/live/wasim/wasim1234/23305.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
 https://freeiptv25.netlify.app/live/app/Jalshamovies/index.m3u8?token=freeiptv25
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla cinema 
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
-https://himel-op.top/portal/ditto.m3u8?id=753
+http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,Sun Bangla 
 http://watchindia.net:8880/live/83023/62335/2290.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
