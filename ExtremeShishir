@@ -259,3 +259,16 @@ https://freeiptv25.netlify.app/live/stream_10.m3u8
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2478323/6d2d0fd950e6977c7aedc78a1ea31640aad9e11f.jpg" ,Fancode 2
 https://freeiptv25.netlify.app/live/stream_11.m3u8
 
+
+#EXTINF:-1 tvg-logo="" ,MTV Beats
+http://b1g.ooo:80/live/Zaida/Zaida/235953.ts
+#EXTINF:-1 tvg-logo="" ,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 tvg-logo="" ,Music India 
+http://b1g.ooo:80/live/Zaida/Zaida/20841.ts
+#EXTINF:-1 tvg-logo="" ,B4U Music 
+http://starshare.live:8080/live/wasim/wasim1234/7258.ts
