@@ -171,17 +171,17 @@ http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png?20240205190518" ,Astro Premier 
 https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest?cb=20230704071741" ,TNT Sports 1
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
 http://b1g.ooo:80/live/Zaida/Zaida/697057.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest?cb=20230717230828" ,TNT Sports 2
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
 http://b1g.ooo:80/live/Zaida/Zaida/697056.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest?cb=20230717230836" ,TNT SPORTS 3
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027954/5712.png" ,TNT SPORTS 3
 http://b1g.ooo:80/live/Zaida/Zaida/697055.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest?cb=20230704072048" ,TNT SPORTS 4
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027975/1491.png" ,TNT SPORTS 4
 http://b1g.ooo:80/live/Zaida/Zaida/697051.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/TNT_Sports_5_%282023%29.svg/revision/latest?cb=20230718053007" ,TNT Sports 5
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" ,TNT Sports 5
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&extension=ts&play_token=UYqln4XHHl
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/TNT_Sports_6_%282023%29.svg/revision/latest?cb=20230718052851" ,TNT Sports 6
+#EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=4G3iZxPO0H
 
 
@@ -280,11 +280,11 @@ https://freeiptv25.netlify.app/live/stream_11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237" ,MTV Beats
 http://b1g.ooo:80/live/Zaida/Zaida/235953.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434" ,9XM
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/9xm-logo-6F5824A54F-seeklogo.com.png" ,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248" ,Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314" ,Zoom
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg" ,Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908u" ,Music India 
 http://b1g.ooo:80/live/Zaida/Zaida/20841.ts
