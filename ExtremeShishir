@@ -151,6 +151,27 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 http://starshare.live:8080/live/wasim/wasim1234/303597.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow Extra 
 https://himel-op.top/portal/puk.m3u8?id=22154
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/True_Sports_1.png/revision/latest?cb=20240416004054&path-prefix=vi" ,TRUE SPORTS 1 
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4f/True_Sports_2.png/revision/latest?cb=20240416004313&path-prefix=vi" ,True Sports 2
+https://edge2.laotv.la/live/TrueSport2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/True_Sports_3.png/revision/latest?cb=20240416004540&path-prefix=vi" ,True Sports 3 
+https://edge2.laotv.la/live/TrueSport3/index.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/True_Sports_7.png/revision/latest?cb=20240416004854&path-prefix=vi" ,True Sports 7 
+https://edge1.laotv.la/live/THD7/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/True_Sports_7.png/revision/latest?cb=20240416004854&path-prefix=vi" ,TRUE SPORTS 7 VN 
+https://edge2.laotv.la/live/TSports7/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" ,TRUE SPORTS PREMIER 1 
+https://edge1.laotv.la/live/TSport1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp" ,True Sports Premier 2 
+https://edge1.laotv.la/live/TSport2/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
 https://himel-op.top/portal/cooltvopp.m3u8?id=24600
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
