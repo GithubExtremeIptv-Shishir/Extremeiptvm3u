@@ -124,7 +124,7 @@ https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
 https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
-http://xtv.ooo:8080/T4S00515/820172/109983
+http://starshare.live:8080/live/wasim/wasim1234/9402.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
 http://starshare.live:8080/live/wasim/wasim1234/9403.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" , Sony Ten 3
@@ -132,18 +132,18 @@ http://starshare.live:8080/live/wasim/wasim1234/9404.ts
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" , Sony Ten 4
 http://starshare.live:8080/live/wasim/wasim1234/29469.ts
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" ,Sony Ten 5
-http://xtv.ooo:8080/T4S00515/820172/109992
+http://starshare.live:8080/live/wasim/wasim1234/17565.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://starshare.live:8080/live/wasim/wasim1234/155.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
-http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
+http://starshare.live:8080/live/wasim/wasim1234/98.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
-http://xtv.ooo:8080/T4S00515/820172/219689
+http://xtv.ooo:8080/live/223322/223322/221417.ts
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
 https://himel-op.top/portal/puk.m3u8?id=18294
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky sports cricket 
 http://starshare.live:8080/live/wasim/wasim1234/303595.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" ,Super Sports
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" ,Super Sports Cricket 
 http://xtv.ooo:8080/live/adnankb2006/86057314/238475.ts
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png?width=2048&quality=90&format=webp" ,SuperSport Premier League
 http://202.21.104.6:88/sps-plus/index.m3u8
@@ -151,6 +151,20 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 http://starshare.live:8080/live/wasim/wasim1234/303597.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow Extra 
 https://himel-op.top/portal/puk.m3u8?id=22154
+
+
+#EXTINF:-1 tvg-logo="" ,Astro Cricket 
+https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
+#EXTINF:-1 tvg-logo="" ,Astro Super sports1
+http://dac.satocean.uk:8080/SK_ASTRO_SPORTS_1/index.m3u8?token=8bb9e236422ce74d8de5403a9c3e9c98
+#EXTINF:-1 tvg-logo="" ,Astro super sports 2
+http://b1g.ooo:80/live/Zaida/Zaida/709261.ts
+#EXTINF:-1 ,Astro sports 3
+http://starshare.live:8080/live/wasim/wasim1234/5482.ts
+#EXTINF:-1 tvg-logo="" ,Astro Super Sports 4
+http://starshare.live:8080/live/wasim/wasim1234/5483.ts
+#EXTINF:-1 tvg-logo="" ,Astro Premier 
+https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
 
 
 
