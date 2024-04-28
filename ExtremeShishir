@@ -158,9 +158,9 @@ https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 tvg-logo="" ,Astro Super sports1
 http://dac.satocean.uk:8080/SK_ASTRO_SPORTS_1/index.m3u8?token=8bb9e236422ce74d8de5403a9c3e9c98
 #EXTINF:-1 tvg-logo="" ,Astro super sports 2
-http://b1g.ooo:80/live/Zaida/Zaida/709261.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 ,Astro sports 3
-http://starshare.live:8080/live/wasim/wasim1234/5482.ts
+https://freeiptv25.netlify.app/live/bdix/app/ASP3.m3u8
 #EXTINF:-1 tvg-logo="" ,Astro Super Sports 4
 http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 #EXTINF:-1 tvg-logo="" ,Astro Premier 
