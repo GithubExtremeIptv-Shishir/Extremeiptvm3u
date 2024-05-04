@@ -8,7 +8,7 @@ http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
-https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Channel i int
 http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/400px-Ekushey_Television_Logo.svg.png" ,Ekushey (main server)
@@ -34,7 +34,7 @@ https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News 
 http://starshare.live:8080/live/wasim/wasim1234/427.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
 https://freeiptv25.netlify.app/live/bdix/app/Channel24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
@@ -184,20 +184,24 @@ https://himel-op.top/portal/puk.m3u8?id=23847
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/BeINSports1.svg/revision/latest?cb=20220419110315" ,Bein Sports 1 Eng
+http://starshare.live:8080/live/wasim/wasim1234/274194.ts
+#EXTINF:-1 tvg-logo="" ,BeinSports 2 Eng
+http://starshare.live:8080/live/wasim/wasim1234/274173.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/True_Sports_1.png/revision/latest?cb=20240416004054&path-prefix=vi" ,TRUE SPORTS 1 
-https://edge1.laotv.la/live/TrueSport6/index.m3u8
+http://xtv.ooo:8080/live/Sajid78/Sajid2244/354582.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4f/True_Sports_2.png/revision/latest?cb=20240416004313&path-prefix=vi" ,True Sports 2 
-https://edge2.laotv.la/live/TSport2/index.m3u8
+http://xtv.ooo:8080/live/Sajid78/Sajid2244/354583.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/True_Sports_3.png/revision/latest?cb=20240416004540&path-prefix=vi" ,True Sports 3 
-https://edge2.laotv.la/live/TrueSport3/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/True_Sports_7.png/revision/latest?cb=20240416004854&path-prefix=vi" ,True Sports 7 
-https://edge1.laotv.la/live/THD7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/True_Sports_7.png/revision/latest?cb=20240416004854&path-prefix=vi" ,TRUE SPORTS 7 VN 
-https://edge2.laotv.la/live/TSports7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" ,TRUE SPORTS PREMIER 1 
-https://edge1.laotv.la/live/TSport1/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp" ,True Sports Premier 2 
 https://edge1.laotv.la/live/TSport2/index.m3u8
 
@@ -221,7 +225,7 @@ http://mag.trexlive.me:80/live/Michael88/Michael88/225740.m3u8
 #EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
 http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
-https://himel-op.top/portal/cooltvopp.m3u8?id=8658
+https://freeiptv25.netlify.app/live/bdix/app/ZeeCinema.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
 http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
