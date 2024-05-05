@@ -144,17 +144,22 @@ http://starshare.live:8080/live/wasim/wasim1234/98.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
 http://xtv.ooo:8080/live/223322/223322/221417.ts
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
-https://himel-op.top/portal/puk.m3u8?id=18294
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky sports cricket 
+http://starshare.live:8080/live/wasim/wasim1234/61674.ts
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky Sports Cricket
 http://starshare.live:8080/live/wasim/wasim1234/303595.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
+http://starshare.live:8080/live/wasim/wasim1234/23334.ts 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" ,Super Sports Cricket 
-http://xtv.ooo:8080/live/adnankb2006/86057314/238475.ts
+http://starshare.live:8080/live/wasim/wasim1234/158442.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/SSBlue.png/" ,Super Sports Football 
+http://xtv.ooo:8080/live/adnankb2006/86057314/238480.ts
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png?width=2048&quality=90&format=webp" ,SuperSport Premier League
 http://202.21.104.6:88/sps-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
 http://starshare.live:8080/live/wasim/wasim1234/303597.ts
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow Extra 
-https://himel-op.top/portal/puk.m3u8?id=22154
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra 
+http://xtv.ooo:8080/live/adnankb2006/86057314/167582.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
@@ -172,17 +177,17 @@ http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
-https://himel-op.top/portal/puk.m3u8?id=19935
+http://b1g.ooo:80/Zaida/Zaida/697057
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
-https://himel-op.top/portal/puk.m3u8?id=19939
+http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027954/5712.png" ,TNT SPORTS 3
-https://himel-op.top/portal/puk.m3u8?id=19943
+http://b1g.ooo:80/live/Zaida/Zaida/697055.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027975/1491.png" ,TNT SPORTS 4
-https://himel-op.top/portal/puk.m3u8?id=23847
+http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" ,TNT Sports 5
-
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&extension=ts&play_token=cTCKhoI9Ke
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
-
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/BeINSports1.svg/revision/latest?cb=20220419110315" ,Bein Sports 1 Eng
 http://starshare.live:8080/live/wasim/wasim1234/274194.ts
