@@ -69,8 +69,6 @@ http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
 http://king4k.tv:80/play/live.php?mac=00:1A:79:60:AD:32&stream=443237&extension=ts&play_token=SgM3KOtrbq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" , Bangla Tv
-http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV
@@ -251,7 +249,7 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery-Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" ,TLC
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
-#EXTINF:-1 tvg-logo="" ,Love Nature 4K
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Love_Nature_4K_Logo_2022.jpg/revision/latest?cb=20221011073404" ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth 
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
@@ -277,8 +275,8 @@ http://xtv.ooo:8080/adnankb2006/86057314/167590
 http://xtv.ooo:8080/T4S00515/820172/109988
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto 
-https://tv5.hoichoi24.com/1103/video.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup (buffer)
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1 Backup 
