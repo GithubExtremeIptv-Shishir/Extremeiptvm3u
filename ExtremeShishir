@@ -189,16 +189,16 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&ext
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/BeINSports1.svg/revision/latest?cb=20220419110315" ,Bein Sports 1 Eng
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" ,Bein Sports 1 Eng
 http://starshare.live:8080/live/wasim/wasim1234/274194.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Bein_sports2_2017.svg/revision/latest?cb=20220419110806" ,BeinSports 2 Eng
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png" ,BeinSports 2 Eng
 http://starshare.live:8080/live/wasim/wasim1234/274173.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/True_Sports_1.png/revision/latest?cb=20240416004054&path-prefix=vi" ,TRUE SPORTS 1 
-http://xtv.ooo:8080/live/Sajid78/Sajid2244/354582.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4f/True_Sports_2.png/revision/latest?cb=20240416004313&path-prefix=vi" ,True Sports 2 
-http://xtv.ooo:8080/live/Sajid78/Sajid2244/354583.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/True_Sports_3.png/revision/latest?cb=20240416004540&path-prefix=vi" ,True Sports 3 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/True_Sports_7.png/revision/latest?cb=20240416004854&path-prefix=vi" ,True Sports 7 
@@ -206,10 +206,9 @@ http://xtv.ooo:8080/live/Sajid78/Sajid2244/354583.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/True_Sports_7.png/revision/latest?cb=20240416004854&path-prefix=vi" ,TRUE SPORTS 7 VN 
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" ,TRUE SPORTS PREMIER 1 
-
+http://xtv.ooo:8080/live/Sajid78/Sajid2244/354582.ts
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp" ,True Sports Premier 2 
-https://edge1.laotv.la/live/TSport2/index.m3u8
-
+http://xtv.ooo:8080/live/Sajid78/Sajid2244/354583.ts
 
 
 
@@ -248,6 +247,25 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHyHcd8/XBz4I65.jpg" ,Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" ,Discovery Turbo
+https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery-Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" ,TLC
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 tvg-logo="" ,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth 
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/281/795/png-transparent-united-kingdom-bbc-news-bbc-news-labour-party-news-text-logo-computer-wallpaper-thumbnail.png" ,BBC NEWS
+http://starshare.live:8080/live/wasim/wasim1234/154200.ts
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,Aljajeera English 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714910458/ei/miA3Zr-xLMfSi9oPweqUSA/ip/92.205.15.128/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIF6f701AvNaOnPT5FqDTPHEbix-49V4YVsPy7ovztoaAiEAnb-zQPZrsG2O8iml4ioDutkoGtJjW74R8DUHgsvMzw8%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" ,CNN
+http://starshare.live:8080/live/wasim/wasim1234/158078.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" ,DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Himel)
 https://himel-op.top/portal/cooltvopp.m3u8?id=10432
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Freeiptv
