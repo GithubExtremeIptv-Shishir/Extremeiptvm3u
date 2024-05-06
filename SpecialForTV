@@ -90,7 +90,7 @@ http://starshare.live:8080/live/wasim/wasim1234/147777.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/200px-2016_Discovery_Kids_logo.svg.png" ,Discovery Kids
 https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery-Kids.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://103.151.60.214:7444/1101/video.m3u8
+http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
 http://50.50.50.60:8088/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" , Star sports 2
