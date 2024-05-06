@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,Live Sports
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_1522507843.png" ,Live Sports
 http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports (TV)
 http://50.50.50.60:8088/102/index.m3u8
@@ -69,15 +69,14 @@ http://50.50.50.60:8088/402/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/360px-Colors_TV_logo.svg.png" ,Colors
 http://50.50.50.60:8088/405/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Zee cinema
-#EXTINF:-1 tvg-logo="" ,Star Movies 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
 http://50.50.50.60:8088/501/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Sony Pix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/300px-Sony_Pix_new.png" ,Sony Pix
 http://50.50.50.60:8088/503/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Gaan Bangla 
-http://50.50.50.60:8088/701/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png" ,Sangeet Bangla
 http://50.50.50.60:8088/702/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Discovery 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-700x394.png" ,Discovery 
 http://50.50.50.60:8088/801/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" ,BBC Earth
-http://50.50.50.60:8088/802/index.m3u8
