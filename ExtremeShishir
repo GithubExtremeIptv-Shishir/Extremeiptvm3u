@@ -118,7 +118,7 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
 https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://103.151.60.214:7444/1101/video.m3u8
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 http://humiptv.live:8080/live/wasim/wasim1234/304286.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla 2 (Jio)
@@ -183,13 +183,13 @@ http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
-http://b1g.ooo:80/Zaida/Zaida/697057
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/286.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
-http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=5049&deviceMac=00:1A:79:17:C0:8F
+http://xtv.ooo:8080/live/adnankb2006/86057314/346374.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027954/5712.png" ,TNT SPORTS 3
-http://b1g.ooo:80/live/Zaida/Zaida/697055.ts
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/148090.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027975/1491.png" ,TNT SPORTS 4
-http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=5049&deviceMac=00:1A:79:17:C0:8F
+http://xtv.ooo:8080/live/adnankb2006/86057314/346376.ts
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" ,TNT Sports 5
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&extension=ts&play_token=cTCKhoI9Ke
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
