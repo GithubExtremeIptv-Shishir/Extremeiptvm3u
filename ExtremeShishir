@@ -95,6 +95,10 @@ http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 http://starshare.live:8080/live/wasim/wasim1234/147724.ts
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/618/786/png-clipart-video-youtube-animated-cartoon-animated-series-mr-bean-dance-thumbnail.png" ,Mr. Bean 24/7
 http://starshare.live:8080/live/wasim/wasim1234/147777.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" ,Motu Patlu 1
+http://xtv.ooo:8080/live/adnankb2006/86057314/307079.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" ,Motu Patlu 2
+http://xtv.ooo:8080/live/adnankb2006/86057314/311373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1400px-Disney_wordmark.svg.png?20171113041617" ,Disney kids (USA)
 http://humiptv.live:8080/live/wasim/wasim1234/19832.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/200px-2016_Discovery_Kids_logo.svg.png" ,Discovery Kids
