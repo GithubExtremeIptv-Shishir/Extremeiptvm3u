@@ -119,7 +119,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
 
 
-EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
+#EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_1522507843.png" ,Live Sports WiFi
