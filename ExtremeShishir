@@ -270,6 +270,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" ,History 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/143104.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/history-tv18-logo-03D628574D-seeklogo.com.png" ,History TV 18
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/98877.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Love_Nature_4K_Logo_2022.jpg/revision/latest?cb=20221011073404" ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth 
