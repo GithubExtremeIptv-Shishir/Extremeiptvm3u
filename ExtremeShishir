@@ -115,9 +115,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T spots 1 <web>
-
+https://live-cdn.tsports.com/live-01/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715243483:KeyName=tsports-ed25519-01:Signature=b94TeXRUpHBlF-wFSeqtzJXAMrrz4v_sJbCarwTXu3LEyWj1aW8ByzU-4FujcNmGOAUmKvIfEj9mleOuE3sbAA
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
-
+https://live-cdn.tsports.com/live-02/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715243483:KeyName=tsports-ed25519-01:Signature=b94TeXRUpHBlF-wFSeqtzJXAMrrz4v_sJbCarwTXu3LEyWj1aW8ByzU-4FujcNmGOAUmKvIfEj9mleOuE3sbAA
 
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
@@ -135,11 +135,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=2496&deviceMac=00:1A:79:A8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)IPL 
-https://its-nayeemparvez.xyz/toffee/live.php?id=match-1
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715263459:KeyName=prod_live_events:Signature=FeUQcRBKS4QHkYGBimw-urfwxggzunDX1ZSCPjOoLoQBZDOez64vPP8x6vSLS7T0Dfsu8ikewKcCQ92oO7ZnAw
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png" ,Toffee [BanVSZim] (live-03)
-https://its-nayeemparvez.xyz/toffee/live.php?id=match-3
+https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715263459:KeyName=prod_live_events:Signature=FeUQcRBKS4QHkYGBimw-urfwxggzunDX1ZSCPjOoLoQBZDOez64vPP8x6vSLS7T0Dfsu8ikewKcCQ92oO7ZnAw
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291708/logo/240x240/mobile_logo_499215001714468347.png" ,Toffe (live-04)
-https://its-nayeemparvez.xyz/toffee/live.php?id=match-4
+https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715263459:KeyName=prod_live_events:Signature=FeUQcRBKS4QHkYGBimw-urfwxggzunDX1ZSCPjOoLoQBZDOez64vPP8x6vSLS7T0Dfsu8ikewKcCQ92oO7ZnAw
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
