@@ -216,6 +216,13 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&ext
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 
+#EXTINF:-1 tvg-logo="" ,Starzplay Criclife 1
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/122979.ts
+#EXTINF:-1 tvg-logo="" ,Starzplay Criclife 2
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/123062.ts
+#EXTINF:-1 tvg-logo="" ,Starzplay Criclife 3
+http://xtv.ooo:8080/live/adnankb2006/86057314/355010.ts
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/220/317/png-transparent-bein-sports-hd-logo-thumbnail.png" ,Bein Sports HD
 http://starshare.live:8080/live/Sylvia/Sylvia/18451.ts
@@ -294,7 +301,9 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/143104.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/180.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Love_Nature_4K_Logo_2022.jpg/revision/latest?cb=20221011073404" ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth In
+http://xtv.ooo:8080/live/adnankb2006/86057314/109978.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth UK
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/281/795/png-transparent-united-kingdom-bbc-news-bbc-news-labour-party-news-text-logo-computer-wallpaper-thumbnail.png" ,BBC NEWS
 http://starshare.live:8080/live/wasim/wasim1234/154200.ts
@@ -372,13 +381,13 @@ http://starshare.live:8080/live/wasim/wasim1234/7258.ts
 https://freeiptv25.netlify.app/live/bdix/app/StarMovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" ,HBO
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152373.ts
-#EXTINF:-1 tvg-logo="" ,AXN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/500px-AXN_logo_%282015%29.svg.png" ,AXN 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/98915.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/300px-Sony_Pix_new.png" ,Sony Pix
 http://50.50.50.60:8088/503/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" ,Movies Now
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/152387.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO HITS
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/98843.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/66315.ts
