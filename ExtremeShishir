@@ -240,7 +240,10 @@ http://xtv.ooo:8080/live/Sajid78/Sajid2244/354582.ts
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.webp" ,True Sports Premier 2 
 http://xtv.ooo:8080/live/Sajid78/Sajid2244/354583.ts
 
-
+#EXTINF:-1 tvg-logo="https://www.facebook.com/photo.php?fbid=651069883715174" ,Fox Cricket
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=646948&extension=m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Geo_Super.png" ,Geo Super
+https://tgaadi-web.tech/zain_tv.php?tv=91959
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
 http://starshare.live:8080/live/wasim/wasim1234/98883.ts
