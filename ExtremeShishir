@@ -356,7 +356,7 @@ https://freeiptv25.netlify.app/live/stream_11.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237" ,MTV Beats
-http://b1g.ooo:80/live/Zaida/Zaida/235953.ts
+https://keralamaxtv.com/vt/stream.m3u8?id=MTV_Beats_HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/9xm-logo-6F5824A54F-seeklogo.com.png" ,9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248" ,Sangeet Bangla
@@ -367,3 +367,18 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 http://b1g.ooo:80/live/Zaida/Zaida/20841.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" ,B4U Music 
 http://starshare.live:8080/live/wasim/wasim1234/7258.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
+https://freeiptv25.netlify.app/live/bdix/app/StarMovies.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" ,HBO
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/152373.ts
+#EXTINF:-1 tvg-logo="" ,AXN 
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/98915.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/300px-Sony_Pix_new.png" ,Sony Pix
+http://50.50.50.60:8088/503/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" ,Movies Now
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/152387.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO HITS
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/98843.ts
