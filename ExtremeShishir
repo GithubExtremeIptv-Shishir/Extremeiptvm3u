@@ -216,11 +216,11 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&ext
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 
-#EXTINF:-1 tvg-logo="" ,Starzplay Criclife 1
+#EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife1.webp" ,Starzplay Criclife 1
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/122979.ts
-#EXTINF:-1 tvg-logo="" ,Starzplay Criclife 2
+#EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/123062.ts
-#EXTINF:-1 tvg-logo="" ,Starzplay Criclife 3
+#EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife3.webp" ,Starzplay Criclife 3
 http://xtv.ooo:8080/live/adnankb2006/86057314/355010.ts
 
 
