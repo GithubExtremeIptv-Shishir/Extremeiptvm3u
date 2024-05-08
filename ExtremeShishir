@@ -132,6 +132,16 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 http://humiptv.live:8080/live/wasim/wasim1234/304286.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla 2 (Jio)
 http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)IPL 
+https://its-nayeemparvez.xyz/toffee/live.php?id=match-1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png" ,Toffee [BanVSZim] (live-03)
+https://its-nayeemparvez.xyz/toffee/live.php?id=match-3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291708/logo/240x240/mobile_logo_499215001714468347.png" ,Toffe (live-04)
+https://its-nayeemparvez.xyz/toffee/live.php?id=match-4
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
 http://starshare.live:8080/live/wasim/wasim1234/124281.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star Sports 2
