@@ -275,7 +275,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
 http://xtv.ooo:8080/63930/22722/109959
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery hindi
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/360px-Natgeologo.svg.png" ,National Geographic
