@@ -139,11 +139,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=2496&deviceMac=00:1A:79:A8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)IPL 
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715263459:KeyName=prod_live_events:Signature=FeUQcRBKS4QHkYGBimw-urfwxggzunDX1ZSCPjOoLoQBZDOez64vPP8x6vSLS7T0Dfsu8ikewKcCQ92oO7ZnAw
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|Cookie=
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png" ,Toffee [BanVSZim] (live-03)
-https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715263459:KeyName=prod_live_events:Signature=FeUQcRBKS4QHkYGBimw-urfwxggzunDX1ZSCPjOoLoQBZDOez64vPP8x6vSLS7T0Dfsu8ikewKcCQ92oO7ZnAw
+https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715328103:KeyName=prod_live_events:Signature=b01JZgZCrCXY7d7fB9_w6_XxAJRod8C-NZ-xvFvwtKysa1Jcnep2A47TATf0OXdUlIpG9Tib66wXMWMsMwgPAw
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291708/logo/240x240/mobile_logo_499215001714468347.png" ,Toffe (live-04)
-https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715263459:KeyName=prod_live_events:Signature=FeUQcRBKS4QHkYGBimw-urfwxggzunDX1ZSCPjOoLoQBZDOez64vPP8x6vSLS7T0Dfsu8ikewKcCQ92oO7ZnAw
+https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715328103:KeyName=prod_live_events:Signature=b01JZgZCrCXY7d7fB9_w6_XxAJRod8C-NZ-xvFvwtKysa1Jcnep2A47TATf0OXdUlIpG9Tib66wXMWMsMwgPAw
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
