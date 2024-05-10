@@ -123,7 +123,7 @@ https://live-cdn.tsports.com/live-02/index.m3u8|Cookie=Edge-Cache-Cookie=URLPref
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_1522507843.png" ,Live Sports WiFi
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/li8jle_sports_1522507843.png" ,Live Sports WiFi
 http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports WiFi
 http://50.50.50.60:8088/102/index.m3u8
@@ -191,9 +191,9 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/238480.ts
 http://202.21.104.6:88/sps-plus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
-http://starshare.live:8080/live/wasim/wasim1234/303597.ts
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/303596.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra 
-http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1142110&extension=m3u8
+http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1142110&extension=ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
