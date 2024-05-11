@@ -389,10 +389,12 @@ http://b1g.ooo:80/live/Zaida/Zaida/20841.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" ,B4U Music 
 http://starshare.live:8080/live/wasim/wasim1234/7258.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" ,Zing
-https://tgaadi-web.tech/zain_tv.php?tv=85651
+http://king4k.tv:80/play/live.php?mac=00:1A:79:60:AD:32&stream=440257&extension=ts&play_token=KwtWF7uBMm
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
-https://tgaadi-web.tech/zain_tv.php?tv=108253
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5049&deviceMac=00:1A:79:17:C0:8F
+
+http://xtv.ooo:8080/live/adnankb2006/86057314/66213.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" ,HBO
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/500px-AXN_logo_%282015%29.svg.png" ,AXN 
