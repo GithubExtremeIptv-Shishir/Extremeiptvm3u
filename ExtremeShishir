@@ -60,9 +60,9 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png" ,Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
-http://b1g.ooo:80/Zaida/Zaida/23755
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=B7Feesobbl7nkTSYsJFhtQ&expires=1715656055&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla 
-http://king4k.tv:80/play/live.php?mac=00:1A:79:60:AD:32&stream=443276&extension=ts&play_token=FgUx2x5kKJ
+http://xtv.ooo:8080/live/adnankb2006/86057314/245935.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" , SATV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
