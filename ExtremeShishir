@@ -162,7 +162,7 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:76:4F:39&stream=441100&extension=
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" ,Star Select 1
 http://xtv.ooo:8080/live/adnankb2006/86057314/109993.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
-https://tgaadi-web.tech/zain_tv.php?tv=56235
+http://xtv.ooo:8080/live/adnankb2006/86057314/109994.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://starshare.live:8080/live/wasim/wasim1234/9402.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
@@ -183,7 +183,7 @@ http://starshare.live:8080/live/Sylvia/Sylvia/43447.ts
 http://starshare.live:8080/live/wasim/wasim1234/61674.ts
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky Sports Cricket
-https://tgaadi-web.tech/zain_tv.php?tv=112093
+http://starshare.live:8080/live/wasim/wasim1234/303595.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
 http://starshare.live:8080/live/wasim/wasim1234/23334.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1024px-Sky_Sport_Mix_Logo_2022.svg.png" ,Sky Sports Mix
@@ -200,6 +200,8 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/303596.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra 
+http://xtv.ooo:8080/live/adnankb2006/86057314/347334.ts
+
 https://tgaadi-web.tech/zain_tv.php?tv=77295
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
@@ -218,6 +220,8 @@ http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/286.ts
+
 https://tgaadi-web.tech/zain_tv.php?tv=56441
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
 https://tgaadi-web.tech/zain_tv.php?tv=56413
@@ -316,7 +320,7 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/180.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Love_Nature_4K_Logo_2022.jpg/revision/latest?cb=20221011073404" ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth India
-https://tgaadi-web.tech/zain_tv.php?tv=108257
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/190.ts
 
 http://xtv.ooo:8080/live/adnankb2006/86057314/109978.ts
 
