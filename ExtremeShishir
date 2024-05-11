@@ -12,7 +12,7 @@ http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Channel i int
 http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/400px-Ekushey_Television_Logo.svg.png" ,Ekushey (main server)
-https://freeiptv25.netlify.app/live/bdix/app/EkusheyTv.m3u8
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
@@ -20,9 +20,9 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
-https://freeiptv25.netlify.app/live/bdix/app/BanglaVision.m3u8
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
-https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
+http://humiptv.live:8080/live/wasim/wasim1234/394.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
 https://myflixbd.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
@@ -30,23 +30,23 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
 http://starshare.live:8080/live/wasim/wasim1234/767.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
-https://freeiptv25.netlify.app/live/bdix/app/Channel9.m3u8
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/434.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News 
 http://starshare.live:8080/live/wasim/wasim1234/427.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
-https://freeiptv25.netlify.app/live/bdix/app/Channel24.m3u8
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/391.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
-https://freeiptv25.netlify.app/live/bdix/app/Ekattor.m3u8
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/428.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
 http://starshare.live:8080/live/wasim/wasim1234/423.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24 
-https://freeiptv25.netlify.app/live/bdix/app/News24.m3u8
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/3810.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
-https://freeiptv25.netlify.app/live/bdix/app/DBC.m3u8
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/420.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
 http://starshare.live:8080/live/wasim/wasim1234/408.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
@@ -80,7 +80,7 @@ http://humiptv.live:8080/live/wasim/wasim1234/204.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick 
 http://xtv.ooo:8080/live/adnankb2006/86057314/150482.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama 
-http://xtv.ooo:8080/live/415663775/826262627/150480.ts
+https://tgaadi-web.tech/zain_tv.php?tv=92287
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png?20100613144818" ,Cartoon Network CN
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648d9fd43e61d5ef42a1df245fde0c6890712fb5508974c0015997a8a5c2bb4dbb3959c902de620a684c5c669e4fc3740596da67ab04627d4627ccccb32dd8ca70be83e22b12ef770334638c7a07ea57027cdee51b0c802ebd0b6a798a285d26f909206b87422386d95ba14111542425521b4a3900c10c1da0e24c8ac75ca224fa5dd09b3c3ac46d1ca4d31ed9a045fdd99702c11d9449c9db63f3d2b9d317a8b3e33bf60be37e690a62159df1497e3e53c4c9cc4940d46fc49f1580d083d9946f2f8f460c78f0fec0be5f8c79a3862e897423ab4fcc01d561c43bd869dd8144c2f9eac72383d8d477867ab3a7645d5e2ff5eb72eb/41/1920x1080_5860800/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" ,Pogo
@@ -153,9 +153,9 @@ http://starshare.live:8080/live/wasim/wasim1234/239.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
 http://king4k.tv:80/play/live.php?mac=00:1A:79:76:4F:39&stream=441100&extension=ts&play_token=nSha8l5KNy
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" ,Star Select 1
-https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
+http://xtv.ooo:8080/live/adnankb2006/86057314/109993.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
-https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
+https://tgaadi-web.tech/zain_tv.php?tv=56235
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://starshare.live:8080/live/wasim/wasim1234/9402.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
@@ -194,7 +194,6 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/303596.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra 
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=1142110&extension=ts
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
@@ -205,31 +204,31 @@ http://dac.satocean.uk:8080/SK_ASTRO_SPORTS_1/index.m3u8?token=8bb9e236422ce74d8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 2
 http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 3
-https://freeiptv25.netlify.app/live/bdix/app/ASP3.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 4
 http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png?20240205190518" ,Astro Premier 
-https://freeiptv25.netlify.app/live/bdix/app/ASP1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/286.ts
+https://tgaadi-web.tech/zain_tv.php?tv=56441
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
-http://xtv.ooo:8080/live/adnankb2006/86057314/346374.ts
+https://tgaadi-web.tech/zain_tv.php?tv=56413
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027954/5712.png" ,TNT SPORTS 3
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/148090.ts
+https://tgaadi-web.tech/zain_tv.php?tv=85609
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027975/1491.png" ,TNT SPORTS 4
-http://xtv.ooo:8080/live/adnankb2006/86057314/346376.ts
+https://tgaadi-web.tech/zain_tv.php?tv=85610
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" ,TNT Sports 5
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&extension=ts&play_token=cTCKhoI9Ke
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife1.webp" ,Starzplay Criclife 1
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/122979.ts
+https://tgaadi-web.tech/zain_tv.php?tv=394094
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/123062.ts
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife3.webp" ,Starzplay Criclife 3
-http://xtv.ooo:8080/live/adnankb2006/86057314/355010.ts
+https://tgaadi-web.tech/zain_tv.php?tv=394096
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/220/317/png-transparent-bein-sports-hd-logo-thumbnail.png" ,Bein Sports HD
@@ -340,24 +339,24 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup (buffer)
-http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
+http://xtv.ooo:8080/live/415663775/826262627/150480.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1 Backup 
 http://opplex.tv:8080/live/24690084/13468863/109987.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" ,Star sports 1 Hindi
 http://xtv.ooo:8080/63930/22722/109986
 
 #EXTINF:-1 tvg-logo="" ,Sony Ten 1
-https://freeiptv25.netlify.app/live/bdix/app/SonySports1.m3u8
+
 #EXTINF:-1 tvg-logo="" ,Sony Ten 2
-https://freeiptv25.netlify.app/live/bdix/app/SonySports2.m3u8
+
 #EXTINF:-1 tvg-logo="" ,Sony Ten 3
-https://freeiptv25.netlify.app/live/bdix/app/SonySports3.m3u8
+
 #EXTINF:-1 tvg-logo="" ,Sony Ten 3 backup
-http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
+
 #EXTINF:-1 tvg-logo="" ,Sony Ten 4
-https://freeiptv25.netlify.app/live/bdix/app/SonySports4.m3u8
+
 #EXTINF:-1 tvg-logo="" , Sony Ten 5
-http://103.120.172.74:5300
+
 
 
 #EXTINF:-1 tvg-logo="" ,T Sports Backup 
@@ -367,9 +366,9 @@ http://103.107.79.87:8080/1101/video.m3u8
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/400px-FanCode_logo.svg.png" ,Fancode 1
-https://freeiptv25.netlify.app/live/stream_10.m3u8
+
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2478323/6d2d0fd950e6977c7aedc78a1ea31640aad9e11f.jpg" ,Fancode 2
-https://freeiptv25.netlify.app/live/stream_11.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237" ,MTV Beats
@@ -386,7 +385,7 @@ http://b1g.ooo:80/live/Zaida/Zaida/20841.ts
 http://starshare.live:8080/live/wasim/wasim1234/7258.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
-http://xtv.ooo:8080/live/adnankb2006/86057314/66213.ts
+https://tgaadi-web.tech/zain_tv.php?tv=108253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" ,HBO
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/500px-AXN_logo_%282015%29.svg.png" ,AXN 
@@ -398,7 +397,7 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO HITS
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
-http://xtv.ooo:8080/live/adnankb2006/86057314/66315.ts
+https://tgaadi-web.tech/zain_tv.php?tv=56244
 
 
 #EXTINF:-1 tvg-logo="" ,Tsports 11
@@ -406,4 +405,4 @@ https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPre
 
 
 #EXTINF:-1 tvg-logo="" ,nagotik
-https://tgaadi-web.tech/zain_tv.php?tv=100299
+https://tgaadi-web.tech/zain_tv.php?tv=77295
