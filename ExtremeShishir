@@ -64,9 +64,13 @@ http://b1g.ooo:80/Zaida/Zaida/23755
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla 
 http://king4k.tv:80/play/live.php?mac=00:1A:79:60:AD:32&stream=443276&extension=ts&play_token=FgUx2x5kKJ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" , SATV
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
 http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,Ananda TV
-http://king4k.tv:80/play/live.php?mac=00:1A:79:60:AD:32&stream=443237&extension=ts&play_token=SgM3KOtrbq
+https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
+
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
@@ -102,8 +106,12 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/311373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1400px-Disney_wordmark.svg.png?20171113041617" ,Disney kids (USA)
 http://humiptv.live:8080/live/wasim/wasim1234/19832.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/200px-2016_Discovery_Kids_logo.svg.png" ,Discovery Kids
+https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery-Kids.m3u8
+
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" ,Nickelodeon sonic
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/207.ts
+
 http://xtv.ooo:8080/live/adnankb2006/86057314/34011.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png" ,Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
