@@ -18,11 +18,14 @@ http://cdn01.palki.tv/live/NTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=c-zCtaR5tluhhFjn5futJw&expires=1715655653&user=ff39d05fef0749028389f28943b73363
+
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
-http://humiptv.live:8080/live/wasim/wasim1234/394.ts
+http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
 https://myflixbd.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
@@ -123,11 +126,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T spots 1 <web>
-https://live-cdn.tsports.com/live-01/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715548640:KeyName=tsports-ed25519-01:Signature=8__SZlsdwipRLvBDREZBhjMdYQKlSpcghBgUjE4opzaQQz-SNGqeRuzjRNhnA6XvIKYQJPWXHOb3EAT93QdbBQ
-
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
-https://live-cdn.tsports.com/live-02/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715548640:KeyName=tsports-ed25519-01:Signature=8__SZlsdwipRLvBDREZBhjMdYQKlSpcghBgUjE4opzaQQz-SNGqeRuzjRNhnA6XvIKYQJPWXHOb3EAT93QdbBQ
 
 
 
@@ -147,21 +147,23 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 http://humiptv.live:8080/live/wasim/wasim1234/304286.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla 2 (Jio)
 http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=2496&deviceMac=00:1A:79:A8:9C:32
-
-
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
+https://tgaadi-web.tech/zain_tv.php?tv=394490
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)IPL 
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715545815:KeyName=prod_live_events:Signature=ihIoVPgxnZ5SDCatoak_GzK2PoAqY-TcqaTbmJOXzFK1ZrM3qYzT1SYe9Nh7UnGClgXlO4_6GgawQe1K22RKAg
+https://its-nayeemparvez.xyz/toffee/live.php?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png" ,Toffee [BanVSZim] (live-03)
-https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715545815:KeyName=prod_live_events:Signature=ihIoVPgxnZ5SDCatoak_GzK2PoAqY-TcqaTbmJOXzFK1ZrM3qYzT1SYe9Nh7UnGClgXlO4_6GgawQe1K22RKAg
+https://its-nayeemparvez.xyz/toffee/live.php?id=match-3
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291708/logo/240x240/mobile_logo_499215001714468347.png" ,Toffe (live-04)
-
+https://its-nayeemparvez.xyz/toffee/live.php?id=match-4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
+http://50.50.50.60:8088/110/index.m3u8
+
 http://starshare.live:8080/live/wasim/wasim1234/124281.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star Sports 2
 http://starshare.live:8080/live/wasim/wasim1234/239.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
-http://king4k.tv:80/play/live.php?mac=00:1A:79:76:4F:39&stream=441100&extension=ts&play_token=nSha8l5KNy
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" ,Star Select 1
 http://xtv.ooo:8080/live/adnankb2006/86057314/109993.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
@@ -202,10 +204,11 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/303596.ts
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra 
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
+https://tgaadi-web.tech/zain_tv.php?tv=77295
+
 http://xtv.ooo:8080/live/adnankb2006/86057314/347334.ts
 
-https://tgaadi-web.tech/zain_tv.php?tv=77295
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
@@ -214,8 +217,12 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport
 http://dac.satocean.uk:8080/SK_ASTRO_SPORTS_1/index.m3u8?token=8bb9e236422ce74d8de5403a9c3e9c98
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 2
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/5481.ts
+
 http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 3
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/5482.ts
+
 http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 4
 http://starshare.live:8080/live/wasim/wasim1234/5483.ts
@@ -278,19 +285,21 @@ http://starshare.live:8080/live/wasim/wasim1234/98883.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
 http://starshare.live:8080/live/wasim/wasim1234/23305.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
-https://freeiptv25.netlify.app/live/app/Jalshamovies/index.m3u8?token=freeiptv25
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla cinema 
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
 http://opplex.tv:8080/live/223322/223322/245989.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,Sun Bangla 
 http://watchindia.net:8880/live/83023/62335/2290.m3u8
+http://humiptv.live:8080/live/wasim/wasim1234/3753.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
+http://watchindia.net:8880/live/83023/62335/2284.ts
 http://mag.trexlive.me:80/live/Michael88/Michael88/225740.m3u8
 #EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
 http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
-https://freeiptv25.netlify.app/live/bdix/app/ZeeCinema.m3u8
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/230.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
 http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
@@ -400,11 +409,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg" ,Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908u" ,Music India 
-http://b1g.ooo:80/live/Zaida/Zaida/20841.ts
+http://xtv.ooo:8080/live/adnankb2006/86057314/190028.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" ,B4U Music 
 http://starshare.live:8080/live/wasim/wasim1234/7258.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" ,Zing
-http://king4k.tv:80/play/live.php?mac=00:1A:79:60:AD:32&stream=440257&extension=ts&play_token=KwtWF7uBMm
+https://tgaadi-web.tech/zain_tv.php?tv=85651
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5049&deviceMac=00:1A:79:17:C0:8F
@@ -422,13 +431,3 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
 https://tgaadi-web.tech/zain_tv.php?tv=56244
-
-
-#EXTINF:-1 tvg-logo="" ,Tsports 11
-https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715243483:KeyName=tsports-ed25519-01:Signature=b94TeXRUpHBlF-wFSeqtzJXAMrrz4v_sJbCarwTXu3LEyWj1aW8ByzU-4FujcNmGOAUmKvIfEj9mleOuE3sbAA
-
-
-#EXTINF:-1 tvg-logo="" ,nagotik
-https://tv.top10bhaluka.com/Play.php?id=boishakhi_tv
-##EXTINF:-1 tvg-logo="" ,Boishakhi 
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=c-zCtaR5tluhhFjn5futJw&expires=1715655653&user=ff39d05fef0749028389f28943b73363
