@@ -431,3 +431,24 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
 https://tgaadi-web.tech/zain_tv.php?tv=56244
+
+
+
+#EXTINF:-1 tvg-logo="" ,A sports
+https://crichd.site/cn1/play.php?key=AKI&c=asportshd
+#EXTINF:-1 tvg-logo="" ,Sky sports
+https://crichd.site/cn1/play.php?key=AKI&c=skyscric
+#EXTINF:-1 tvg-logo="" ,Star sports 1
+https://n8.dramaticreadings.com:999/hls/1-jkstar1in.m3u8?md5=Pi8NryKbGdaH0uWbxX_kPQ&expires=1715649387
+#EXTINF:-1 tvg-logo="" ,Willow
+https://n4.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=V5ULNzF896fNiUAObx9z_A&expires=1715649124
+#EXTINF:-1 tvg-logo="" ,Sky sports
+https://n3.dramaticreadings.com:999/hls/skyscr2.m3u8?md5=czI3P3_WEYnVf8gCcK5-eA&expires=1715649325
+#EXTINF:-1 tvg-logo="" ,Super Sports 
+https://n3.dramaticreadings.com:999/hls/supercricket.m3u8?md5=LGYsBO6JDVuwCahOg8O2fg&expires=1715649358
+#EXTINF:-1 tvg-logo="" ,Tnt 3
+https://n4.dramaticreadings.com:999/hls/bbtsp3.m3u8?md5=ZbpSFzIw6JquDu9BsQSZyw&expires=1715649656
+#EXTINF:-1 tvg-logo="" ,Tnt 4
+https://n4.dramaticreadings.com:999/hls/bbtespn.m3u8?md5=fiWrbFOc_k2_sUL6Fv5_5g&expires=1715649523
+#EXTINF:-1 tvg-logo="" ,Tnt 3
+https://stream.crichd.vip/update/bteu.php
