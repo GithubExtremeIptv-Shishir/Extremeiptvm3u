@@ -136,7 +136,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/li8jle_sports_1522507843.png" ,Live Sports WiFi
+#EXTINF:-1 tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Live-TV-Sports-for-Android.png" ,Live Sports WiFi
 http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports WiFi
 http://50.50.50.60:8088/102/index.m3u8
@@ -152,13 +152,13 @@ http://humiptv.live:8080/live/wasim/wasim1234/304286.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 https://tgaadi-web.tech/zain_tv.php?tv=394490
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)IPL 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1000.m3u8
 
 https://its-nayeemparvez.xyz/toffee/live.php?id=match-1
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291605/logo/240x240/mobile_logo_183555001714457565.png" ,Toffee [BanVSZim] (live-03)
+#EXTINF:-1 tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffee (live-03)
 https://its-nayeemparvez.xyz/toffee/live.php?id=match-3
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/291708/logo/240x240/mobile_logo_499215001714468347.png" ,Toffe (live-04)m
+#EXTINF:-1 tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffe (live-04)
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-4&hls=master_1000.m3u8
 
 https://its-nayeemparvez.xyz/toffee/live.php?id=match-4
