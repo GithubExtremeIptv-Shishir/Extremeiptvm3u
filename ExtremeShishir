@@ -453,3 +453,9 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
 https://tgaadi-web.tech/zain_tv.php?tv=56244
+
+
+#EXTINF:-1 tvg-logo="" ,t sports
+https://nayeemparvez.my.id/aptv/stream.m3u8?id=29&e=.m3u8
+#EXTINF:-1 tvg-logo="" ,Tt sports 
+https://nayeemparvez.my.id/aptv/stream.m3u8?chunks=b7dc4671cafee753ebced8786453bf3b2b39b81901c537e707f0f699e89048526da83c3cebeb07aab2c92d48e3559abf4a1f79367c98fdbd0b2af68e2e2978478c6141e527165ed8d460a4953605ff59d79a204c5d6ca82bb3c390a776e6a9c66f13ceee4800c8117d644d5bf13a7df0fb01750f4fa6e2efd1144a2cc98138429dea356d6d98cfe3ef1657b7be45c2e3fde8795af5e39caaebf29f31e57750e49aca6998b939b05bd0af4e76222b5c704c393c6aa3677b79d3426025fce1166ec7dd28f9bfc781824e1fd9028c39842da828559e57b8987b5873bb8c700548c0
