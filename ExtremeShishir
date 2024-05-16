@@ -47,7 +47,7 @@ http://starshare.live:8080/live/wasim/wasim1234/423.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24 
-https://allinonereborn.tech/jio.m3u8?id=2601
+http://allinonereborn.tech/doordarshan.m3u8?id=3140
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/3810.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/420.ts
@@ -149,7 +149,7 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/52500.ts
 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio playlist)
-https://allinonereborn.tech/jio.m3u8?id=8419
+http://allinonereborn.tech/doordarshan.m3u8/?id=24049
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 http://humiptv.live:8080/live/wasim/wasim1234/304286.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla 2 (Jio)
@@ -174,7 +174,7 @@ http://starshare.live:8080/live/wasim/wasim1234/124281.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star Sports 2
 http://starshare.live:8080/live/wasim/wasim1234/239.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
-
+http://allinonereborn.tech/doordarshan.m3u8?id=858
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" ,Star Select 1
 http://xtv.ooo:8080/live/adnankb2006/86057314/109993.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
@@ -198,7 +198,7 @@ http://starshare.live:8080/live/wasim/wasim1234/155.ts
 https://allinonereborn.tech/dhoom.php?id=10444
 http://starshare.live:8080/live/wasim/wasim1234/98.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
-https://allinonereborn.tech/jio.m3u8?id=41740
+http://xtv.ooo:8080/live/adnankb2006/86057314/219689.ts
 
 http://starshare.live:8080/live/Sylvia/Sylvia/43447.ts
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
@@ -228,6 +228,8 @@ http://humsab.xyz/Wi_Cr/index.m3u8
 https://allinonereborn.tech/dhoom.php?id=2310
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/303596.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
+http://xtv.ooo:8080/live/adnankb2006/86057314/347334.ts
+
 https://tgaadi-web.tech/zain_tv.php?tv=77295
 
 http://xtv.ooo:8080/live/adnankb2006/86057314/347334.ts
@@ -255,20 +257,15 @@ http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
-https://allinonereborn.tech/jio.m3u8?id=853
-
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/286.ts
 https://tgaadi-web.tech/zain_tv.php?tv=56441
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
-https://allinonereborn.tech/jio.m3u8?id=851
-
+http://xtv.ooo:8080/live/adnankb2006/86057314/206566.ts
 https://tgaadi-web.tech/zain_tv.php?tv=56413
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027954/5712.png" ,TNT SPORTS 3
-https://allinonereborn.tech/jio.m3u8?id=852
-
-https://tgaadi-web.tech/zain_tv.php?tv=85609
+http://humiptv.live:8080/live/wasim/wasim1234/186629.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027975/1491.png" ,TNT SPORTS 4
-https://allinonereborn.tech/jio.m3u8?id=856
+http://humiptv.live:8080/live/wasim/wasim1234/186630.ts
 
 https://tgaadi-web.tech/zain_tv.php?tv=85610
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" ,TNT Sports 5
@@ -276,7 +273,7 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&ext
 #EXTINF:-1 tvg-logo="https://ia802707.us.archive.org/22/items/tnt-sports-10-2023/TNT_Sports_6_%282023%29.png" ,TNT Sports 6
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/360px-Sports18_logo.svg.png" ,Sports 18
-https://allinonereborn.tech/jio.m3u8?id=18739
+http://103.120.172.74:5500
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife1.webp" ,Starzplay Criclife 1
 https://tgaadi-web.tech/zain_tv.php?tv=394094
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
@@ -309,14 +306,19 @@ http://xtv.ooo:8080/live/Sajid78/Sajid2244/354582.ts
 http://xtv.ooo:8080/live/Sajid78/Sajid2244/354583.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" ,Fox Cricket
-https://allinonereborn.tech/jio.m3u8?id=4210
-
+http://allinonereborn.tech/doordarshan.m3u8?id=5677
 
 http://starshare.live:8080/live/wasim/wasim1234/1856.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Geo_Super.png" ,Geo Super
 http://homeip.biz/tan16450/index.m3u8
 https://tgaadi-web.tech/zain_tv.php?tv=91959
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL ENG 4K
+http://humiptv.live:8080/live/wasim/wasim1234/304290.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL BANGLA 4K
+http://humiptv.live:8080/live/wasim/wasim1234/304296.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL HINDI 4K
+http://humiptv.live:8080/live/wasim/wasim1234/304291.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
 http://starshare.live:8080/live/wasim/wasim1234/98883.ts
