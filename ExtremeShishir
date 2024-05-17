@@ -93,6 +93,8 @@ http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/239079.ts
+
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
@@ -118,6 +120,8 @@ http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B2
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uMV5rdXjJbM/maxresdefault.jpg" ,Disney Hindi
 http://humiptv.live:8080/live/wasim/wasim1234/19741.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/749/650/png-transparent-doraemon-logo-nobita-nobi-doraemon-television-drawing-doraemon-child-text-friendship-thumbnail.png" ,Doraemon 24/7
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/239003.ts
+
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/19/Shin_chan_logo.gif/520px-Shin_chan_logo.gif" ,Shinchan 24/7
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/147724.ts
@@ -227,12 +231,13 @@ http://starshare.live:8080/live/wasim/wasim1234/23334.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/148684.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" ,Super Sports Cricket 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" ,Super Sports Cricket
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/236854.ts
+ 
 http://humiptv.live:8080/live/wasim/wasim1234/303599.ts
 
 https://homeip.biz/AF_S_CR/index.m3u8
 
-https://allinonereborn.tech/dhoom.php?id=10646
 https://tgaadi-web.tech/zain_tv.php?tv=102560
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/SSBlue.png/" ,Super Sports Football 
 http://xtv.ooo:8080/live/adnankb2006/86057314/238480.ts
@@ -244,6 +249,8 @@ http://humsab.xyz/Wi_Cr/index.m3u8
 https://allinonereborn.tech/dhoom.php?id=2310
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/303596.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
+http://b1g.me:80/Craig/Craig/615351
+
 http://xtv.ooo:8080/live/adnankb2006/86057314/347334.ts
 
 https://tgaadi-web.tech/zain_tv.php?tv=77295
@@ -256,6 +263,8 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" ,Astro Cricket
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/236852.ts
+
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport
 http://abcnew.site:8880/kg14m3n1110/dssewaas123/1722
