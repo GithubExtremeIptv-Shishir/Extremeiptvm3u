@@ -39,10 +39,14 @@ http://starshare.live:8080/live/wasim/wasim1234/427.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/391.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/428.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+
 http://starshare.live:8080/live/wasim/wasim1234/423.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -50,13 +54,20 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 http://allinonereborn.tech/doordarshan.m3u8?id=3140
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/3810.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
+http://cdn01.palki.tv/live/DBC-M/index.m3u8
+
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/420.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
 http://starshare.live:8080/live/wasim/wasim1234/408.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+
 http://humiptv.live:8080/live/wasim/wasim1234/397.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" , Deepto TV
+http://cdn01.palki.tv:80/live/DeeptoTV-M/index.m3u8
+
 http://humiptv.live:8080/live/wasim/wasim1234/1034.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" ,Green tv
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" , Bangla TV
@@ -64,7 +75,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png" ,Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=n8D0MEy2W3AwnTb8_rQIXQ&expires=1715930537&user=ff39d05fef0749028389f28943b73363
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=BoM5VYMj85_U91QFhFUWug&expires=1716160194&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla 
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" , SATV
@@ -78,6 +89,8 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:C0:8F
@@ -85,7 +98,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY
 http://humiptv.live:8080/live/wasim/wasim1234/204.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick
+http://humiptv.live:8080/live/wasim/wasim1234/205.ts
+ 
 http://xtv.ooo:8080/live/adnankb2006/86057314/150482.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama
 http://allinonereborn.tech/doordarshan.m3u8?id=11305
@@ -157,15 +172,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=2496&deviceMac=00:1A:79:A8
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 https://tgaadi-web.tech/zain_tv.php?tv=394490
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1000.m3u8
 
-https://its-nayeemparvez.xyz/toffee/live.php?id=match-1
+
 #EXTINF:-1 tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffee (live-03)
-https://its-nayeemparvez.xyz/toffee/live.php?id=match-3
-#EXTINF:-1 tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffe (live-04)
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-4&hls=master_1000.m3u8
 
-https://its-nayeemparvez.xyz/toffee/live.php?id=match-4
+#EXTINF:-1 tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffe (live-04)
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
 http://50.50.50.60:8088/110/index.m3u8
@@ -180,6 +192,8 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/109993.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
 http://homeip.biz/IND_SL2/index.m3u8
 http://xtv.ooo:8080/live/adnankb2006/86057314/109994.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" ,Star sports 1 Hindi
+http://humiptv.live:8080/live/wasim/wasim1234/303587.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://starshare.live:8080/live/wasim/wasim1234/9402.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
@@ -214,6 +228,8 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/148684.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" ,Super Sports Cricket 
+http://humiptv.live:8080/live/wasim/wasim1234/303599.ts
+
 https://homeip.biz/AF_S_CR/index.m3u8
 
 https://allinonereborn.tech/dhoom.php?id=10646
@@ -242,7 +258,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" ,Astro Cricket
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport
-http://dac.satocean.uk:8080/SK_ASTRO_SPORTS_1/index.m3u8?token=8bb9e236422ce74d8de5403a9c3e9c98
+http://abcnew.site:8880/kg14m3n1110/dssewaas123/1722
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 2
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/5481.ts
 
@@ -257,12 +273,16 @@ http://starshare.live:8080/live/wasim/wasim1234/5483.ts
 
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
+http://abcnew.site:8880/kg14m3n1110/dssewaas123/28946
+
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/286.ts
 https://tgaadi-web.tech/zain_tv.php?tv=56441
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
 http://xtv.ooo:8080/live/adnankb2006/86057314/206566.ts
 https://tgaadi-web.tech/zain_tv.php?tv=56413
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027954/5712.png" ,TNT SPORTS 3
+http://abcnew.site:8880/kg14m3n1110/dssewaas123/2941
+
 http://humiptv.live:8080/live/wasim/wasim1234/186629.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/600/1690027975/1491.png" ,TNT SPORTS 4
 http://humiptv.live:8080/live/wasim/wasim1234/186630.ts
@@ -278,10 +298,10 @@ http://103.120.172.74:5500
 https://tgaadi-web.tech/zain_tv.php?tv=394094
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/123062.ts
+#EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife3.webp" ,Starzplay Criclife 
+http://humiptv.live:8080/live/wasim/wasim1234/158896.ts
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife3.webp" ,Starzplay Criclife 3
 https://tgaadi-web.tech/zain_tv.php?tv=394096
-
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/220/317/png-transparent-bein-sports-hd-logo-thumbnail.png" ,Bein Sports HD
 http://starshare.live:8080/live/Sylvia/Sylvia/18451.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" ,Bein Sports 1 Eng
@@ -385,6 +405,8 @@ http://starshare.live:8080/live/wasim/wasim1234/154200.ts
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,Aljajeera English 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" ,CNN
+http://humiptv.live:8080/live/wasim/wasim1234/158078.ts
+
 https://tgaadi-web.tech/zain_tv.php?tv=109977
 
 http://starshare.live:8080/live/wasim/wasim1234/158078.ts
@@ -398,11 +420,11 @@ http://humsab.xyz/GBanTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports (Zain TV)✅️
 https://tgaadi-web.tech/zain_tv.php?tv=122824
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Himel)
-https://himel-op.top/portal/cooltvopp.m3u8?id=10432
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Freeiptv
-https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv oplex
-http://xtv.ooo:8080/adnankb2006/86057314/167590
+
 
 
 
@@ -413,8 +435,7 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup (buffer)
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 http://xtv.ooo:8080/live/415663775/826262627/150480.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" ,Star sports 1 Hindi
-http://xtv.ooo:8080/63930/22722/109986
+
 
 
 
@@ -455,9 +476,3 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
 https://tgaadi-web.tech/zain_tv.php?tv=56244
-
-
-#EXTINF:-1 tvg-logo="" ,t sports
-https://nayeemparvez.my.id/aptv/stream.m3u8?id=29&e=.m3u8
-#EXTINF:-1 tvg-logo="" ,Tt sports 
-https://nayeemparvez.my.id/aptv/stream.m3u8?chunks=b7dc4671cafee753ebced8786453bf3b2b39b81901c537e707f0f699e89048526da83c3cebeb07aab2c92d48e3559abf4a1f79367c98fdbd0b2af68e2e2978478c6141e527165ed8d460a4953605ff59d79a204c5d6ca82bb3c390a776e6a9c66f13ceee4800c8117d644d5bf13a7df0fb01750f4fa6e2efd1144a2cc98138429dea356d6d98cfe3ef1657b7be45c2e3fde8795af5e39caaebf29f31e57750e49aca6998b939b05bd0af4e76222b5c704c393c6aa3677b79d3426025fce1166ec7dd28f9bfc781824e1fd9028c39842da828559e57b8987b5873bb8c700548c0
