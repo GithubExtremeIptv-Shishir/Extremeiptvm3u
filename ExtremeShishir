@@ -98,7 +98,9 @@ http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/239079.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Bangla
+http://b1g.me:80/live/8035/8035/407108.ts
+
 http://humiptv.live:8080/live/wasim/wasim1234/204.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick
 http://humiptv.live:8080/live/wasim/wasim1234/205.ts
@@ -138,8 +140,9 @@ https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery-Kids.m3u8
 
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" ,Nickelodeon sonic
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/207.ts
+http://b1g.me:80/live/8035/8035/672355.ts
 
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/207.ts
 http://xtv.ooo:8080/live/adnankb2006/86057314/34011.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png" ,Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
@@ -361,6 +364,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
 http://50.50.50.60:8088/306/index.m3u8
+
+http://b1g.me:80/live/8035/8035/23722.ts
 http://allinonereborn.tech/doordarshan.m3u8?id=3161
 http://opplex.tv:8080/live/223322/223322/245989.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,Sun Bangla 
@@ -379,10 +384,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1
 http://humiptv.live:8080/live/wasim/wasim1234/194.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
 https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery hindi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery Multi Language 
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/360px-Natgeologo.svg.png" ,National Geographic
 http://xtv.ooo:8080/live/223322/223322/109977.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/360px-Natgeologo.svg.png" ,National Geographic Bangla
+http://b1g.me:80/live/8035/8035/672359.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg" ,https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1600px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
@@ -472,6 +479,8 @@ http://starshare.live:8080/live/wasim/wasim1234/7258.ts
 https://tgaadi-web.tech/zain_tv.php?tv=85651
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
+http://b1g.me:80/live/8035/8035/161932.ts
+
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5049&deviceMac=00:1A:79:17:C0:8F
 
 http://xtv.ooo:8080/live/adnankb2006/86057314/66213.ts
