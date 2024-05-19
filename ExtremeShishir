@@ -99,8 +99,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Bangla
-http://b1g.me:80/live/8035/8035/407108.ts
+http://4ksuper.live:80/live/0b14WRvtZckx/oW40Zf4h4t/1531198.ts
 
+http://b1g.me:80/live/8035/8035/407108.ts
 http://humiptv.live:8080/live/wasim/wasim1234/204.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick
 http://humiptv.live:8080/live/wasim/wasim1234/205.ts
