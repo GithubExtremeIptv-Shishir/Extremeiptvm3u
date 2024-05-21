@@ -563,3 +563,5 @@ https://tgaadi-web.tech/zain_tv.php?tv=92287
 http://185.243.7.52:80/play/live.php?mac=00:1A:79:1A:02:23&stream=1141780&extension=m3u8&play_token=kIHmmSliOf
 #EXTINF:-1 tvg-logo="" ,Willow
 https://allinonereborn.tech/dhoom.php?id=2310
+#EXTINF:-1 tvg-logo="" ,Tnt sports 4
+http://starshare.live:8080/live/Sylvia/Sylvia/186630.ts
