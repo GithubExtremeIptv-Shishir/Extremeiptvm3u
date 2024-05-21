@@ -425,6 +425,8 @@ http://humiptv.live:8080/live/wasim/wasim1234/3753.ts
 http://watchindia.net:8880/live/83023/62335/2284.ts
 http://mag.trexlive.me:80/live/Michael88/Michael88/225740.m3u8
 #EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239403
+
 http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/230.ts
