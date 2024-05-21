@@ -6,7 +6,7 @@ http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://xtv.ooo:8080/live/adnankb2006/86057314/245909.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Channel i int
@@ -35,7 +35,8 @@ http://starshare.live:8080/live/Antoinette/Antoinette/767.ts
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/434.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8 
 http://starshare.live:8080/live/wasim/wasim1234/427.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
@@ -50,8 +51,10 @@ http://cdn01.palki.tv/live/Independent-M/index.m3u8
 
 http://starshare.live:8080/live/wasim/wasim1234/423.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
+http://cdn01.palki.tv:80/live/JamunaTV-M/index.m3u8
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24 
+http://starshare.live:8080/live/Antoinette/Antoinette/3810.ts
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 
 http://176.119.29.52:80/live.ts?channelId=107&uid=7435&deviceMac=00:1A:79:51:4B:3A
