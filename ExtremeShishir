@@ -109,10 +109,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
+http://watchindia.net:8880/live/69354/82115/2104.ts
+
 https://allinonereborn.tech/jio.m3u8?id=1120
-
 http://4ksuper.live:80/live/0b14WRvtZckx/oW40Zf4h4t/1531198.ts
-
 http://b1g.me:80/live/8035/8035/407108.ts
 http://humiptv.live:8080/live/wasim/wasim1234/204.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Multi Language 
@@ -258,6 +258,8 @@ http://starshare.live:8080/live/Sylvia/Sylvia/17565.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://starshare.live:8080/live/Sylvia/Sylvia/155.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
+http://121.91.61.106:8000/play/a04h/index.m3u8
+
 https://allinonereborn.tech/dhoom.php?id=10444
 http://starshare.live:8080/live/wasim/wasim1234/98.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
@@ -524,6 +526,8 @@ http://xtv.ooo:8080/live/415663775/826262627/150480.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237" ,MTV Beats
+https://tgaadi-web.tech/trex.php?tv=1118070
+
 https://keralamaxtv.com/vt/stream.m3u8?id=MTV_Beats_HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/9xm-logo-6F5824A54F-seeklogo.com.png" ,9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
@@ -572,3 +576,13 @@ http://185.243.7.52:80/play/live.php?mac=00:1A:79:1A:02:23&stream=1141780&extens
 https://allinonereborn.tech/dhoom.php?id=2310
 #EXTINF:-1 tvg-logo="" ,Tnt sports 4
 http://starshare.live:8080/live/Sylvia/Sylvia/186630.ts
+
+#EXTINF:-1 tvg-logo="" ,Sky main event
+https://eu02.dmca.run/247-skymain/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" ,Ptv sports
+http://121.91.61.106:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="" ,random
+http://148.113.5.31:8106/play/a00i/index.m3u8 
+#EXTINF:-1 tvg-logo="" ,Random
+http://148.113.5.31:8106/play/a00g/index.m3u8 
+ 
