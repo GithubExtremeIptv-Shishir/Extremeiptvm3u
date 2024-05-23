@@ -244,10 +244,11 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/220063.ts
 
 http://humiptv.live:8080/live/wasim/wasim1234/303587.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
+http://50.50.50.60:8088/119/index.m3u8
 http://103.120.172.74:1140
-
 http://starshare.live:8080/live/Sylvia/Sylvia/9402.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
+http://50.50.50.60:8088/120/index.m3u8
 http://103.120.172.74:4800 
 http://homeip.biz/IN_SNT2/index.m3u8
 http://starshare.live:8080/live/wasim/wasim1234/9403.ts
