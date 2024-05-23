@@ -244,16 +244,19 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/220063.ts
 
 http://humiptv.live:8080/live/wasim/wasim1234/303587.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
+http://103.120.172.74:1140
+
 http://starshare.live:8080/live/Sylvia/Sylvia/9402.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
+http://103.120.172.74:4800 
 http://homeip.biz/IN_SNT2/index.m3u8
-
 http://starshare.live:8080/live/wasim/wasim1234/9403.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" , Sony Ten 3
 http://starshare.live:8080/live/Sylvia/Sylvia/9404.ts
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" , Sony Ten 4
 http://starshare.live:8080/live/Sylvia/Sylvia/29469.ts
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" ,Sony Ten 5
+http://103.120.172.74:1110/
 http://starshare.live:8080/live/Sylvia/Sylvia/17565.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://starshare.live:8080/live/Sylvia/Sylvia/155.ts
