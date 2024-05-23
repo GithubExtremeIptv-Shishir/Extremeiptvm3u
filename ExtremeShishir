@@ -365,12 +365,12 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&ext
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/360px-Sports18_logo.svg.png" ,Sports 18
 http://103.120.172.74:5500
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife1.webp" ,Starzplay Criclife 1
-https://tgaadi-web.tech/zain_tv.php?tv=394094
+http://starshare.live:8080/live/Sylvia/Sylvia/122979.ts
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/123062.ts
 
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife3.webp" ,Starzplay Criclife 3
-https://tgaadi-web.tech/zain_tv.php?tv=394096
+http://starshare.live:8080/live/Antoinette/Antoinette/158897.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/220/317/png-transparent-bein-sports-hd-logo-thumbnail.png" ,Bein Sports HD
 http://starshare.live:8080/live/Sylvia/Sylvia/18451.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" ,Bein Sports 1 Eng
