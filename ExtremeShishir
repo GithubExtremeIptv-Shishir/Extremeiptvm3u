@@ -563,10 +563,6 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
 http://xtv.ooo:8080/84880014/84403300/66315
-#EXTINF:-1 tvg-logo="https://filminformation.com/wp-content/uploads/2022/09/sita-ramam-et00329656-30-05-2022-06-32-41-1068x534.jpg" ,Sita Ramam Movie 
-http://65.21.120.188:80/movie/adnankb2006/86057314/271452.mkv?token=GhMNBEZcR1gRUVJZBVFdDVQAAAdWVwEAUVZWVlFaBAZTAAdVDQVdVVBEGBoXEhZRBVtrXgVGAgJVVwMBARQUFhJUFzpcUEdYEVQEAVdeXBZIFEBeDAEaClNRBgIDAQdQVwdJR0VdAUAJRAEJVlZGGEZTTEMEFlZRDjlTUUVRVQZDC0dHGRYKDGwCUVUFCAAWXhQEFU1GUUMSRA1aRlRaT0NTDBFHVREHEVwWCVRfXRZIFFdYFApMQhtEDRZxfBRPQ1QdEVBaFgtcCBYCRgsPQkYaFl4SO0pVERJFUVJVUxFDC0dVFxhHD1Iea1sLCApRB0JdWA8XGgpAVxUYEVVZDQhFChdqRAwGEVxaTQgKGQ==
-#EXTINF:-1 tvg-logo="https://filminformation.com/wp-content/uploads/2022/09/sita-ramam-et00329656-30-05-2022-06-32-41-1068x534.jpg" ,Sita Ramam Movie 
-http://xtv.ooo:8080/movie/adnankb2006/86057314/271452.mkv
 
 #EXTINF:-1 tvg-logo="" ,Sony Aath
 https://api.himel-op.top/s*x.php?id=245989
@@ -590,3 +586,5 @@ http://148.113.5.31:8106/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Random
 http://148.113.5.31:8106/play/a00g/index.m3u8 
  
+#EXTINF:-1 tvg-logo="" ,Lapataa Ladies 
+http://starshare.live:8080/movie/Sylvia/Sylvia/320377.mp4
