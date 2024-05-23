@@ -258,8 +258,9 @@ http://starshare.live:8080/live/Sylvia/Sylvia/17565.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://starshare.live:8080/live/Sylvia/Sylvia/155.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
-http://121.91.61.106:8000/play/a04h/index.m3u8
+http://homeip.biz/PK_Ten/index.m3u8
 
+http://121.91.61.106:8000/play/a04h/index.m3u8
 https://allinonereborn.tech/dhoom.php?id=10444
 http://starshare.live:8080/live/wasim/wasim1234/98.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
@@ -545,8 +546,9 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/7258.ts
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
-http://xtv.ooo:8080/live/adnankb2006/86057314/66213.ts
+http://zeestb1.online/ditto.php?id=171
 
+http://xtv.ooo:8080/live/adnankb2006/86057314/66213.ts
 http://b1g.me:80/live/8035/8035/161932.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" ,HBO
