@@ -86,8 +86,7 @@ http://50.50.50.60:8088/102/index.m3u8
 http://50.50.50.60:8088/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" , Star sports 2
 http://50.50.50.60:8088/115/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" ,Star Select 1
-http://103.120.172.74:1030
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" , Star Sports Select 1
 http://50.50.50.60:8088/123/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
@@ -141,9 +140,9 @@ http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold
 http://50.50.50.60:8088/402/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
-http://flbl1.112421.net:8082/4151871/mpegts?token=LEAXDBWKSV89
+http://103.120.172.74:4100
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/360px-Natgeologo.svg.png" ,National Geographic
 http://opplex.tv:8080/live/223322/223322/109977.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1600px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
