@@ -187,10 +187,14 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,Kids Creation BD
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
+             TSports App
+
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T spots 1 <web>
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
-
+             
+              Ban vs Usa
+ 
 #EXTINF:-1 tvg-logo="https://www.crifosports.com/wp-content/webp-express/webp-images/uploads/2024/05/Bangladesh-vs-USA-Series.jpg.webp",Bangladesh vs USA (Auto quality)
 
 #EXTINF:-1 tvg-logo="https://www.crifosports.com/wp-content/webp-express/webp-images/uploads/2024/05/Bangladesh-vs-USA-Series.jpg.webp" ,Bangladesh vs USA Full HD
@@ -210,8 +214,6 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 http://starshare.live:8080/live/Sylvia/Sylvia/304286.ts
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla 2 (Jio)
-
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)
@@ -230,7 +232,7 @@ http://starshare.live:8080/live/wasim/wasim1234/124281.ts
 http://starshare.live:8080/live/Sylvia/Sylvia/239.ts
 
 http://xtv.ooo:8080/live/adnankb2006/86057314/220060.ts
-http://starshare.live:8080/live/wasim/wasim1234/239.ts
+http://starshare.live:8080/live/Antoinette/Antoinette/239.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
 http://homeip.biz/IN_ST3_HD/index.m3u8
 
@@ -283,21 +285,29 @@ http://flbl1.112421.net:8082/3238121/mpegts?token=LEAXDBWKSV89
 http://starshare.live:8080/live/Sylvia/Sylvia/303595.ts
 http://homeip.biz/team_Cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
+http://flbl1.112421.net:8082/3238141/mpegts?token=LEAXDBWKSV89
+
 http://starshare.live:8080/live/Sylvia/Sylvia/23334.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1024px-Sky_Sport_Mix_Logo_2022.svg.png" ,Sky Sports Mix
+http://flbl1.112421.net:8082/3238171/mpegts?token=LEAXDBWKSV89
+
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/148684.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" ,Sky Sports Main Event
+http://flbl1.112421.net:8082/323816/mpegts?token=LEAXDBWKSV89
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" ,Super Sports Cricket
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" ,SuperSport Cricket
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=772350&extension=ts&play_token=yvYsNEsvri
 
 http://opplex.tv:8080/live/223322/223322/238475.ts
 http://humiptv.live:8080/live/wasim/wasim1234/303599.ts
 https://homeip.biz/AF_S_CR/index.m3u8
 https://tgaadi-web.tech/zain_tv.php?tv=102560
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/SSBlue.png/" ,Super Sports Football 
-http://xtv.ooo:8080/live/adnankb2006/86057314/238480.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" ,SuperSport Grandstand 
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=772351&extension=ts&play_token=0Kr2KCEo58
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png?width=1140&quality=90&format=webp" ,SuperSport Football 
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=278517&extension=ts&play_token=uPz01XZEgU
 
+http://xtv.ooo:8080/live/adnankb2006/86057314/238480.ts
 
 #EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
 http://flbl1.112421.net:8082/4165179/mpegts?token=LEAXDBWKSV89
@@ -306,6 +316,7 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/303596.ts
 http://xtv.ooo:8080/84880014/84403300/167583
 http://humsab.xyz/Wi_Cr/index.m3u8
 https://allinonereborn.tech/dhoom.php?id=2310
+https://allinonereborn.tech/dhoom.php?id=2310
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
 http://flbl1.112421.net:8082/361988/mpegts?token=LEAXDBWKSV89
 
@@ -313,7 +324,6 @@ https://tgaadi-web.tech/trex.php?tv=1142110
 http://185.243.7.52:80/play/live.php?mac=00:1A:79:1A:02:23&stream=1141780&extension=ts&play_token=kIHmmSliOf
 http://xtv.ooo:8080/live/adnankb2006/86057314/220064.ts
 http://xtv.ooo:8080/84880014/84403300/167582
-http://b1g.me:80/live/8035/8035/260994.ts
 http://xtv.ooo:8080/live/adnankb2006/86057314/347334.ts
 https://tgaadi-web.tech/zain_tv.php?tv=77295
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports (Afg)
@@ -590,24 +600,12 @@ https://api.himel-op.top/s*x.php?id=245989
 https://tgaadi-web.tech/zain_tv.php?tv=92287
 
 #EXTINF:-1 tvg-logo="" ,Willow xtra 
-http://185.243.7.52:80/play/live.php?mac=00:1A:79:1A:02:23&stream=1141780&extension=m3u8&play_token=kIHmmSliOf
-#EXTINF:-1 tvg-logo="" ,Willow
-https://allinonereborn.tech/dhoom.php?id=2310
-#EXTINF:-1 tvg-logo="" ,Tnt sports 4
-http://starshare.live:8080/live/Sylvia/Sylvia/186630.ts
 
-#EXTINF:-1 tvg-logo="" ,Sky main event
-https://eu02.dmca.run/247-skymain/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" ,Ptv sports
-http://121.91.61.106:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="" ,random
-http://148.113.5.31:8106/play/a00i/index.m3u8 
-#EXTINF:-1 tvg-logo="" ,Random
-http://148.113.5.31:8106/play/a00g/index.m3u8 
+
 #EXTINF:-1 tvg-logo="" ,Sony yay tgadi
 https://tgaadi-web.tech/TP/mpd.php?contentID=45
 #EXTINF:-1 tvg-logo="" ,Yay 
-https://tp.snehiptv-s14.workers.dev/45.mpd
+
 
 
 #EXTINF:-1 tvg-logo="" ,Lapataa Ladies 
