@@ -587,6 +587,11 @@ http://121.91.61.106:8000/play/a00l/index.m3u8
 http://148.113.5.31:8106/play/a00i/index.m3u8 
 #EXTINF:-1 tvg-logo="" ,Random
 http://148.113.5.31:8106/play/a00g/index.m3u8 
- 
+#EXTINF:-1 tvg-logo="" ,Sony yay tgadi
+https://tgaadi-web.tech/TP/mpd.php?contentID=45
+#EXTINF:-1 tvg-logo="" ,Yay 
+https://tp.snehiptv-s14.workers.dev/45.mpd
+
+
 #EXTINF:-1 tvg-logo="" ,Lapataa Ladies 
 http://starshare.live:8080/movie/Sylvia/Sylvia/320377.mp4
