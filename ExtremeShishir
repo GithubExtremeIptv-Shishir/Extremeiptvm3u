@@ -441,14 +441,9 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/304296.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL HINDI 4K
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/304291.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,Star 4K
-https://tgaadi-web.tech/api/spice.php?tv=9074
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Eng FHD
-https://tgaadi-web.tech/api/spice.php?tv=9076
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Bangla FHD
-https://tgaadi-web.tech/api/spice.php?tv=15865
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Hindi FHD
-https://tgaadi-web.tech/api/spice.php?tv=15859
-
+http://b1g.uk:80/live/Colin/Colin/662136.ts
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Eng FHD (No Ads)
+http://b1g.uk:80/live/Colin/Colin/662135.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
