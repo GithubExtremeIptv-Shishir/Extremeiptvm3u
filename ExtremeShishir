@@ -207,6 +207,7 @@ http://50.50.50.60:8088/102/index.m3u8
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/52500.ts
 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
+
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 http://starshare.live:8080/live/Sylvia/Sylvia/304286.ts
 #EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla 2 (Jio)
@@ -412,12 +413,25 @@ http://starshare.live:8080/live/wasim/wasim1234/1856.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Geo_Super.png" ,Geo Super
 http://homeip.biz/tan16450/index.m3u8
 https://tgaadi-web.tech/zain_tv.php?tv=91959
+
+            IPL SPECIAL (4K & FHD)
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL ENG 4K
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/304290.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL BANGLA 4K
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/304296.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL HINDI 4K
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/304291.ts
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,Star 4K
+https://tgaadi-web.tech/api/spice.php?tv=9074
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Eng FHD
+https://tgaadi-web.tech/api/spice.php?tv=9076
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Bangla FHD
+https://tgaadi-web.tech/api/spice.php?tv=15865
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Hindi FHD
+https://tgaadi-web.tech/api/spice.php?tv=15859
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
