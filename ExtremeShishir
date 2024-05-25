@@ -202,8 +202,8 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.crifosports.com/wp-content/webp-express/webp-images/uploads/2024/05/Bangladesh-vs-USA-Series.jpg.webp",Bangladesh vs USA (Auto quality)
 https://kingkhan.website/api/live/onlive.m3u8
-#EXTINF:-1 tvg-logo="https://www.crifosports.com/wp-content/webp-express/webp-images/uploads/2024/05/Bangladesh-vs-USA-Series.jpg.webp" ,Bangladesh vs USA Full HD
-
+#EXTINF:-1 tvg-logo="https://www.crifosports.com/wp-content/webp-express/webp-images/uploads/2024/05/Bangladesh-vs-USA-Series.jpg.webp" ,Bangladesh vs USA HD
+https://video-weaver.bom01.hls.live-video.net/v1/playlist/CtIF9sEhAuqWPRbVf4qm2wpniRbLa7yb0Qnj9WNbVm7U8aT8DSy_51qn6ztjTeH-pJm-sVAmri0SzlMA7-TAxtkkLZEHzKtlP8umTfTGE4ndsAPKvGODyLyIpV-Au2liov57QFsfZWCEd3H_6ATRv6tiPx5YTd59DhYePu8iWP1iFMqSNaS0mrMi40WjzMrnbY80GJOsMFCa_sMPrfmJhJ65DEMEkQ4xytt13CeyuKCC8WPWRYxrh0_Mazv1DGAm3EeIgT6ds4-UBdKa1Midh6hEOMrjE6YlLUI0XqnHHuvNVRDZ_XzWkBqCdrF8oAikwNNdYOgtJ3qEvzgFU3JTLi6aZT2GmFm83Cxy0ppC25Fl6_cWnTumpZFvfNlY1aulm7J0DoHZ3sWEL9a5buDexDVLP42WWCg5-NNRL3Jt-Q3OXZqUrQ-4LBcfD0gNHO9tvkecA04iQgfBdaxa7rjaxyr4kpqiqU1nKwMaj7Thau8DijYJIl-lNKjb2RothA958xm3qFbudSt_y_bP8MqW6tB0lObVlGFkw28elWwTA1JiNVtQb2yjbiWNm8X09CH4YTYaq8OrpNzcWL0WCqdYlfeOAGc9C1qpzq3ufWn6z0ljDYQwck9_qJ7B9SqpGlbkKmU0ab8viOLgnnjXESdmdTBUaori_Bi_6-kVl6NECmZZomQsg1fyg0ZQsdLATqmhasEkLoXD5rP6--EJE1QRfHfORjKTkkkFWn3110YBEsLgbN2J9w9KJWHgryL1vO1YrcTMf48t3md_EJ2G_VRKxWIUnZvN2-iiWDTb3_OQ_BLDcmkkISDeD88dXAHsvxAJSNBQXQyltZudHDWxL3HRlshErDLb8t3_FEJtpfl1BouD3JYfh5cv_Mp0Fq5HvPL84-iD34JOj_BjyW6IQ1rEW_lLWUbNSjQums4JIVHzbI2cSmr5hlConh8ss3u4KW-stuKXb2QaDJLbRNXGftpzED2X9SABKgl1cy13ZXN0LTIwwAk.m3u8
 
 #EXTINF:-1 tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
