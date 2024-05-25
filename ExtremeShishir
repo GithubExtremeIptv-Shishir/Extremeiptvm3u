@@ -496,7 +496,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=4280&deviceMac=00:1A:79:17:C1
 http://xtv.ooo:8080/live/193747281/8284748291/221261.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/230.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
-http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
+http://xtv.ooo:8080/live/193747281/8284748291/221259.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
 http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=4280&deviceMac=00:1A:79:17:C1:7F
 
@@ -560,9 +560,8 @@ https://tgaadi-web.tech/zain_tv.php?tv=122824
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Freeiptv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv oplex
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Tv.cloudcdn.me)
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
@@ -587,6 +586,7 @@ http://xtv.ooo:8080/live/415663775/826262627/150480.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237" ,MTV Beats
 https://tgaadi-web.tech/trex.php?tv=1118070
 
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 https://keralamaxtv.com/vt/stream.m3u8?id=MTV_Beats_HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/9xm-logo-6F5824A54F-seeklogo.com.png" ,9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
