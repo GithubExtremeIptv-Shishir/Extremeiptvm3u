@@ -123,6 +123,8 @@ http://watchindia.net:8880/live/69354/82115/2104.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Multi Language 
 https://tgaadi-web.tech/zain_tv.php?tv=100808
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick
+http://xtv.ooo:8080/live/193747281/8284748291/150482.ts
+
 http://212.102.60.24:49893/ghLs2zdZSnFvTT00002b8f3b313e8776332c8da287676058966bca7f62f8f3e4bd/video.m3u8?token=69014f87964c1c64393e14e83dc586a2
 http://tgaadi-web.tech/api/aadi.php?tv=11662
 https://tgaadi-web.tech/zain_tv.php?tv=111078
@@ -163,9 +165,9 @@ http://humiptv.live:8080/live/wasim/wasim1234/147724.ts
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/618/786/png-clipart-video-youtube-animated-cartoon-animated-series-mr-bean-dance-thumbnail.png" ,Mr. Bean 24/7
 http://starshare.live:8080/live/Sylvia/Sylvia/147777.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" ,Motu Patlu 1
-http://xtv.ooo:8080/live/adnankb2006/86057314/307079.ts
+http://xtv.ooo:8080/live/193747281/8284748291/307079.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" ,Motu Patlu 2
-http://xtv.ooo:8080/live/adnankb2006/86057314/311373.ts
+http://xtv.ooo:8080/live/193747281/8284748291/311373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1400px-Disney_wordmark.svg.png?20171113041617" ,Disney kids (USA)
 http://starshare.live:8080/live/Sylvia/Sylvia/19832.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/200px-2016_Discovery_Kids_logo.svg.png" ,Discovery Kids
