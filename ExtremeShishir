@@ -272,8 +272,9 @@ http://starshare.live:8080/live/Sylvia/Sylvia/17565.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://starshare.live:8080/live/Sylvia/Sylvia/155.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
-http://homeip.biz/PK_Ten/index.m3u8
+http://flbl1.112421.net:8082/4153883/mpegts?token=LEAXDBWKSV89
 
+http://homeip.biz/PK_Ten/index.m3u8
 http://121.91.61.106:8000/play/a04h/index.m3u8
 https://allinonereborn.tech/dhoom.php?id=10444
 http://starshare.live:8080/live/wasim/wasim1234/98.ts
@@ -282,6 +283,8 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/219689.ts
 
 http://starshare.live:8080/live/Sylvia/Sylvia/43447.ts
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
+http://flbl1.112421.net:8082/4153868/mpegts?token=LEAXDBWKSV89
+
 http://starshare.live:8080/live/Sylvia/Sylvia/61674.ts
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky Sports Cricket
@@ -309,13 +312,15 @@ https://homeip.biz/AF_S_CR/index.m3u8
 https://tgaadi-web.tech/zain_tv.php?tv=102560
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" ,SuperSport Grandstand
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/171916.ts
+http://b1g.uk:80/live/Colin/Colin/52066.ts
 
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/171916.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=125441&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png?width=1140&quality=90&format=webp" ,SuperSport Action 
+http://b1g.uk:80/live/Colin/Colin/52063.ts
+
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/157948.ts
 
-http://flbl1.112421.net:8082/4151134/mpegts?token=LEAXDBWKSV89
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png?width=1140&quality=90&format=webp" ,SuperSport Football 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=278517&extension=ts&play_token=uPz01XZEgU
 
@@ -458,12 +463,16 @@ http://b1g.uk:80/live/Colin/Colin/662135.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
+http://xtv.ooo:8080/live/193747281/8284748291/245898.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/98883.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/23305.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla cinema 
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
