@@ -116,8 +116,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/204.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=78849&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/204.ts
 http://watchindia.net:8880/live/69354/82115/2104.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Multi Language 
 https://tgaadi-web.tech/zain_tv.php?tv=100808
