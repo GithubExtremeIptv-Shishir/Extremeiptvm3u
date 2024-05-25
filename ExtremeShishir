@@ -559,8 +559,9 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup (buffer)
-http://xtv.ooo:8080/live/193747281/8284748291/150480.ts
+http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=1097664&extension=ts&play_token=VBiiGyb62A
 
+http://xtv.ooo:8080/live/193747281/8284748291/150480.ts
 http://starshare.live:8080/live/Sylvia/Sylvia/18456.ts
 http://xtv.ooo:8080/live/415663775/826262627/150480.ts
 
