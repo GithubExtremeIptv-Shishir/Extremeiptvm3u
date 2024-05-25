@@ -197,7 +197,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
              
-              Ban vs Usa
+             
  
 #EXTINF:-1 tvg-logo="https://www.crifosports.com/wp-content/webp-express/webp-images/uploads/2024/05/Bangladesh-vs-USA-Series.jpg.webp",Bangladesh vs USA (Auto quality)
 
@@ -390,12 +390,18 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&ext
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/360px-Sports18_logo.svg.png" ,Sports 18
 http://103.120.172.74:5500
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife1.webp" ,Starzplay Criclife 1
+http://b1g.uk:80/live/Colin/Colin/705325.ts
+
 http://starshare.live:8080/live/Sylvia/Sylvia/122979.ts
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/123062.ts
 
 #EXTINF:-1 tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife3.webp" ,Starzplay Criclife 3
+http://b1g.uk:80/live/Colin/Colin/701063.ts
+
 http://starshare.live:8080/live/Antoinette/Antoinette/158897.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/400px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" ,ICC Men's T20 World Cup
+http://b1g.uk:80/live/Colin/Colin/705330.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/220/317/png-transparent-bein-sports-hd-logo-thumbnail.png" ,Bein Sports HD
 http://starshare.live:8080/live/Sylvia/Sylvia/18451.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" ,Bein Sports 1 Eng
@@ -475,6 +481,7 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239403
 
 http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
+http://xtv.ooo:8080/live/193747281/8284748291/221261.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/230.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
 http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4280&deviceMac=00:1A:79:17:C1:7F
@@ -580,8 +587,9 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/7258.ts
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
-http://zeestb1.online/ditto.php?id=171
+http://xtv.ooo:8080/live/193747281/8284748291/66213.ts
 
+http://zeestb1.online/ditto.php?id=171
 http://xtv.ooo:8080/live/adnankb2006/86057314/66213.ts
 http://b1g.me:80/live/8035/8035/161932.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5049&deviceMac=00:1A:79:17:C0:8F
@@ -594,6 +602,8 @@ http://50.50.50.60:8088/503/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" ,Movies Now
 http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO HITS
+http://xtv.ooo:8080/live/193747281/8284748291/350957.ts
+
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/152372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
 http://xtv.ooo:8080/84880014/84403300/66315
