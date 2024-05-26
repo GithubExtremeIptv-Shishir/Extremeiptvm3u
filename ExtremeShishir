@@ -131,8 +131,9 @@ https://tgaadi-web.tech/zain_tv.php?tv=111078
 http://humiptv.live:8080/live/wasim/wasim1234/205.ts
 http://xtv.ooo:8080/live/adnankb2006/86057314/150482.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama
-https://tgaadi-web.tech/zain_tv.php?tv=92287
+https://tgaadi-web.tech/api/spice.php?tv=9400
 
+https://tgaadi-web.tech/zain_tv.php?tv=92287
 http://allinonereborn.tech/doordarshan.m3u8?id=11305
 https://tgaadi-web.tech/zain_tv.php?tv=92287
 
