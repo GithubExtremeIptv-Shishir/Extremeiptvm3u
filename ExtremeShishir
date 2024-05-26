@@ -634,12 +634,14 @@ https://tgaadi-web.tech/zain_tv.php?tv=92287
 
 #EXTINF:-1 tvg-logo="" ,Sony yay tgadi
 https://tgaadi-web.tech/TP/mpd.php?contentID=45
-#EXTINF:-1 tvg-logo="" ,Yay 
 
 
 
-#EXTINF:-1 tvg-logo="" ,Lapataa Ladies 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",Lapataa Ladies 
 http://starshare.live:8080/movie/Sylvia/Sylvia/320377.mp4
-
-##EXTINF:-1 tvg-logo="" ,crichd Asport 
-https://crichd.site/cn1/play.php?key=AKI&c=asportshd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Dhanak_theatrical_release_poster.jpg",Dhanak
+http://starshare.live:8080/movie/Sylvia/Sylvia/70256.mkv
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Rockstar-Movie-Poster.jpg",Rockstar
+http://starshare.live:8080/movie/Sylvia/Sylvia/72358.mp4
+#EXTINF:-1 group-title="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fd%2Fgracenote%2Fd22c145aa72f1ce21797175d959239b5.jpg" tvg-logo="",Soul
+http://starshare.live:8080/movie/Sylvia/Sylvia/315673.mkv
