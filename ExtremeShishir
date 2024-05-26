@@ -37,8 +37,9 @@ https://myflixbd.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
-http://starshare.live:8080/live/Antoinette/Antoinette/767.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=13860&deviceMac=00:1A:79:00:37:47
 
+http://starshare.live:8080/live/Antoinette/Antoinette/767.ts
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=2191a50904c3eea61
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
@@ -572,6 +573,8 @@ https://tgaadi-web.tech/zain_tv.php?tv=122824
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Freeiptv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Tv.cloudcdn.me)
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=13860&deviceMac=00:1A:79:00:37:47
+
 http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
