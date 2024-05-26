@@ -138,9 +138,8 @@ http://allinonereborn.tech/doordarshan.m3u8?id=11305
 https://tgaadi-web.tech/zain_tv.php?tv=92287
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup backup
-https://allinonereborn.tech/jio.m3u8?id=1094
-
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:74:4F:FB&stream=1097664&extension=ts&play_token=DBFsOSfv34
+https://allinonereborn.tech/jio.m3u8?id=1094
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" ,Super Hungama 
 http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=1097666&extension=m3u8&play_token=OZYUwVj6QF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png?20100613144818" ,Cartoon Network CN
