@@ -229,9 +229,6 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/52500.ts
 
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
-http://starshare.live:8080/live/Sylvia/Sylvia/304286.ts
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" , IPL Bangla (Jio)
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png" ,Toffe (live-01)
 https://hdstreamz.vip/wp-content/plugins/news-plugins/bz.php
@@ -242,6 +239,8 @@ http://hdstreamz.vip/wp-content/plugins/news-plugins/bz.php
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
+http://watchindia.net:8880/live/32990/80955/2232.ts
+
 http://xtv.ooo:8080/193747281/8284748291/220065
 http://50.50.50.60:8088/110/index.m3u8
 http://starshare.live:8080/live/wasim/wasim1234/124281.ts
