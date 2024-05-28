@@ -3,12 +3,17 @@
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/134/755/png-clipart-logo-desktop-trademark-computer-trademark-computer.png" ,EXTREME IPTV 
 https://drive.usercontent.google.com/u/0/uc?id=1OdRSPReNx4V1Ouyc8Xl5xIfhU0mpieEf&export=download
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" ,Btv
+http://xtv.ooo:8080/193747281/8284748291/245930
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100658.ts
+
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100648.ts
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100663.ts
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Channel i int
 http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=2496&deviceMac=00:1A:79:A8:9C:32
@@ -17,6 +22,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100687.ts
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
@@ -37,34 +43,43 @@ https://myflixbd.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
-http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=13860&deviceMac=00:1A:79:00:37:47
-
 http://starshare.live:8080/live/Antoinette/Antoinette/767.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=13860&deviceMac=00:1A:79:00:37:47
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=2191a50904c3eea61
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100661.ts
 
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/434.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100650.ts
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8 
 http://starshare.live:8080/live/wasim/wasim1234/427.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
+http://starshare.live:8080/live/Antoinette/Antoinette/391.ts
+
+http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/391.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100673.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/428.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100677.ts
 
+http://xtv.ooo:8080/live/193747281/8284748291/245916.ts
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100710.ts
 
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 http://cdn01.palki.tv:80/live/JamunaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100706.ts
+
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 
 http://starshare.live:8080/live/Antoinette/Antoinette/3810.ts
@@ -73,20 +88,24 @@ http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=7435&deviceMac=00:1A:79:51:4B
 http://allinonereborn.tech/doordarshan.m3u8?id=3140
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/3810.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100666.ts
 
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 http://cdn01.palki.tv/live/DBC-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
-https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100655.ts
 
+https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 http://starshare.live:8080/live/wasim/wasim1234/408.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
-http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100681.ts
 
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
 http://humiptv.live:8080/live/wasim/wasim1234/397.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" , Deepto TV
-http://cdn01.palki.tv:80/live/DeeptoTV-M/index.m3u8
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100704.ts
 
+http://cdn01.palki.tv:80/live/DeeptoTV-M/index.m3u8
 http://humiptv.live:8080/live/wasim/wasim1234/1034.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" ,Green tv
 http://starshare.live:8080/live/Sylvia/Sylvia/257227.ts
@@ -102,10 +121,13 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1298.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/3802.ts
 http://starshare.live:8080/live/Antoinette/Antoinette/3802.ts
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=4b9f3e6dd79cbd091
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100676.ts 
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" , SATV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100693.ts
 
 http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,Ananda TV
@@ -115,12 +137,14 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
-http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+http://xtv.ooo:8080/live/193747281/8284748291/245949.ts
 
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV
-http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=13860&deviceMac=00:1A:79:00:37:47
 
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/433.ts
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/239079.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:C0:8F
