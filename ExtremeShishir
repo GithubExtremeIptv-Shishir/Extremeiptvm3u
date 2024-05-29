@@ -482,27 +482,17 @@ http://starshare.live:8080/live/wasim/wasim1234/1856.ts
 http://homeip.biz/tan16450/index.m3u8
 https://tgaadi-web.tech/zain_tv.php?tv=91959
 
-            IPL SPECIAL (4K & FHD)
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL ENG 4K
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/304290.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL BANGLA 4K
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/304296.ts
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/416/png-transparent-4k-resolution-ultra-high-definition-television-display-resolution-4k-uhd-logo-television-text-trademark-thumbnail.png" ,IPL HINDI 4K
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/304291.ts
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,Star 4K
-http://b1g.uk:80/live/Colin/Colin/662136.ts
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" ,IPL Eng FHD (No Ads)
-http://b1g.uk:80/live/Colin/Colin/662135.ts
+           
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/95769.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
 http://xtv.ooo:8080/live/193747281/8284748291/245898.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/98883.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/95778.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/23305.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
