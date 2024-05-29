@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,Duronto
-https://nayeemparvez.my.id/aptv/stream.m3u8?id=36&e=.m3u8
-#EXTINF:-1 tvg-logo="" ,Duronto
-https://nayeemparvez.my.id/aptv/stream.m3u8?id=36
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/134/755/png-clipart-logo-desktop-trademark-computer-trademark-computer.png" ,EXTREME IPTV 
 https://drive.usercontent.google.com/u/0/uc?id=1OdRSPReNx4V1Ouyc8Xl5xIfhU0mpieEf&export=download
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" ,Btv
@@ -55,9 +51,9 @@ http://sansat.net:88/live/02029761595924/9d089925dc60a821/100661.ts
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/434.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/427.ts
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/100650.ts
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8 
-http://starshare.live:8080/live/wasim/wasim1234/427.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
@@ -152,11 +148,12 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/433.ts
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/239079.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
+http://livetvbox.live:8080/live/T20C227070225533/202210886677/427.ts
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
-http://watchindia.net:8880/live/32990/80955/2104.ts
-
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/96187.ts
+
+http://watchindia.net:8880/live/32990/80955/2104.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=78849&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/204.ts
 http://watchindia.net:8880/live/69354/82115/2104.ts
