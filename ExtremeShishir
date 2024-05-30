@@ -51,14 +51,19 @@ http://sansat.net:88/live/02029761595924/9d089925dc60a821/100661.ts
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/434.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
+https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
+
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/100650.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/427.ts
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+http://starshare.live:8080/live/T20C227070225533/202210886677/391.ts
 
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 http://starshare.live:8080/live/Antoinette/Antoinette/391.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
@@ -93,9 +98,9 @@ http://sansat.net:88/live/02029761595924/9d089925dc60a821/100666.ts
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 http://cdn01.palki.tv/live/DBC-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
-http://xtv.ooo:8080/live/193747281/8284748291/245946.ts
-
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/100655.ts
+
+http://xtv.ooo:8080/live/193747281/8284748291/245946.ts
 https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 http://starshare.live:8080/live/Antoinette/Antoinette/408.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
@@ -215,7 +220,7 @@ https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery-Kids.m3u8
 
 https://starplay2.netlify.app/m3u/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" ,Nickelodeon sonic
-https://allinonereborn.tech/jio.m3u8?id=1134
+http://xtv.ooo:8080/live/193747281/8284748291/34011.ts
 
 http://b1g.me:80/live/8035/8035/672355.ts
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/207.ts
@@ -226,6 +231,8 @@ http://xtv.ooo:8080/live/adnankb2006/86057314/34011.ts
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2019/11/Wow-Kidz-Logo.jpg" ,Wow Kidz
 https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/529-5298972_wowkidz-action-is-a-part-of-wowkidz-and.png" ,Wow Kidz Action 
+http://xtv.ooo:8080/live/193747281/8284748291/314753.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png?20220208210243" ,ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,Kids Creation BD
@@ -294,28 +301,32 @@ http://50.50.50.60:8088/119/index.m3u8
 http://103.120.172.74:1140
 http://starshare.live:8080/live/Sylvia/Sylvia/9402.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
+http://xtv.ooo:8080/live/193747281/8284748291/167571.ts
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/93733.ts
 http://50.50.50.60:8088/120/index.m3u8
 http://103.120.172.74:4800 
 http://homeip.biz/IN_SNT2/index.m3u8
-http://starshare.live:8080/live/wasim/wasim1234/9403.ts
+http://starshare.live:8080/live/Antoinette/Antoinette/9403.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" , Sony Ten 3
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/93734.ts
 http://starshare.live:8080/live/Sylvia/Sylvia/9404.ts
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" , Sony Ten 4
 http://livetvbox.live:8080/live/T20C227070225533/202210886677/29469.ts
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" ,Sony Ten 5
+http://starshare.live:8080/live/T20C227070225533/202210886677/98870.ts
+
 http://103.120.172.74:1110/
 http://starshare.live:8080/live/Sylvia/Sylvia/17565.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://starshare.live:8080/live/Sylvia/Sylvia/155.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
-http://flbl1.112421.net:8082/4153883/mpegts?token=GWV3XREOPY
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93418.ts
 
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=772302&extension=m3u8&play_token=Qxbog3WJHW
 http://homeip.biz/PK_Ten/index.m3u8
 http://121.91.61.106:8000/play/a04h/index.m3u8
 https://allinonereborn.tech/dhoom.php?id=10444
-http://starshare.live:8080/live/wasim/wasim1234/98.ts
+http://starshare.live:8080/live/Antoinette/Antoinette/98.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
 http://xtv.ooo:8080/live/adnankb2006/86057314/219689.ts
 
@@ -392,7 +403,7 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/236852.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport
-http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
+http://xtv.ooo:8080/live/193747281/8284748291/352087.ts
 
 http://abcnew.site:8880/kg14m3n1110/dssewaas123/1722
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 2
@@ -516,7 +527,7 @@ http://humiptv.live:8080/live/wasim/wasim1234/3753.ts
 http://watchindia.net:8880/live/83023/62335/2284.ts
 http://mag.trexlive.me:80/live/Michael88/Michael88/225740.m3u8
 #EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239403
+http://watchindia.net:8880/live/32990/80955/2141.ts
 
 http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=4280&deviceMac=00:1A:79:17:C1:7F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
