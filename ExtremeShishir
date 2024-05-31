@@ -679,7 +679,7 @@ https://tgaadi-web.tech/TP/mpd.php?contentID=45
 #EXTINF:-1 tvg-logo="" ,Sky Sports cricket 
 http://45.137.206.58:29806/ghLs2zdZSnFvST000ae2b827343e876c160a8db5c5404d62ac77c25243d2d6c5808a2a6ac1/index.m3u8?token=e2622bd3b758f8c94d0316f67ba6d670
 #EXTINF:-1 tvg-logo="" ,Sky Sports cricket 
-http://143.244.60.14:49893/ghLs2zdZSnFvST000ae2b827343e876c160a8db5c5404d62ac77c25243d2d6c5808a2a6ac1/index.m3u8?token=e2622bd3b758f8c94d0316f67ba6d670
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",Lapataa Ladies 
