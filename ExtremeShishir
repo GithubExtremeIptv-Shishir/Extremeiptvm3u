@@ -596,8 +596,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://humsab.xyz/GBanTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports (Zain TV)✅️
 https://tgaadi-web.tech/zain_tv.php?tv=122824
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Himel)
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (opplex.tv)
+http://xtv.ooo:8080/live/193747281/8284748291/167590.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Freeiptv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Tv.cloudcdn.me)
@@ -671,15 +671,6 @@ https://api.himel-op.top/s*x.php?id=245989
 #EXTINF:-1 tvg-logo="" ,hungama 2
 https://tgaadi-web.tech/zain_tv.php?tv=92287
 
-#EXTINF:-1 tvg-logo="" ,Willow xtra 
-
-
-#EXTINF:-1 tvg-logo="" ,Sony yay tgadi
-https://tgaadi-web.tech/TP/mpd.php?contentID=45
-#EXTINF:-1 tvg-logo="" ,Sky Sports cricket 
-http://45.137.206.58:29806/ghLs2zdZSnFvST000ae2b827343e876c160a8db5c5404d62ac77c25243d2d6c5808a2a6ac1/index.m3u8?token=e2622bd3b758f8c94d0316f67ba6d670
-#EXTINF:-1 tvg-logo="" ,Sky Sports cricket 
-https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",Lapataa Ladies 
