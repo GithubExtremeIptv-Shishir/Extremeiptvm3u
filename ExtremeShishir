@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/134/755/png-clipart-logo-desktop-trademark-computer-trademark-computer.png" ,EXTREME IPTV 
 https://drive.usercontent.google.com/u/0/uc?id=1OdRSPReNx4V1Ouyc8Xl5xIfhU0mpieEf&export=download
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" ,Btv
-http://xtv.ooo:8080/193747281/8284748291/245930
+http://xtv.ooo:8080/live/193747281/8284748291/245930.ts
+
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/100658.ts
@@ -61,9 +62,9 @@ https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
-http://starshare.live:8080/live/T20C227070225533/202210886677/391.ts
-
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+http://starshare.live:8080/live/T20C227070225533/202210886677/391.ts
 http://starshare.live:8080/live/Antoinette/Antoinette/391.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 http://cdn01.palki.tv/live/Channel24-M/index.m3u8
