@@ -263,12 +263,20 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" ,World Cup Eng Toffee
-https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,World Cup Bangla Toffee
-https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffe (live-04)
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/400px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" ,ICC Men's T20 World Cup 01 (Cloud CDN)
+http://tv.cloudcdn.me:80/live.ts?channelId=128709&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/400px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" ,ICC Men's T20 World Cup 02 (Cloud CDN)
+http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/400px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" ,ICC Men's T20 World Cup Hindi (Cloud CDN)
+http://tv.cloudcdn.me:80/live.ts?channelId=128699&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/400px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" ,ICC Men's T20 World Cup Willow FHD(Cloud CDN)
+http://tv.cloudcdn.me:80/live.ts?channelId=88853&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/400px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" ,ICC Men's T20 World Cup 4K (Cloud CDN)
+http://tv.cloudcdn.me:80/live.ts?channelId=102423&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
