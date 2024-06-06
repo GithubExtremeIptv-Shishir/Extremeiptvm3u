@@ -51,8 +51,6 @@ http://sansat.net:88/live/02029761595924/9d089925dc60a821/100704.ts
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="Bangla",Ekhon TV 
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Nagorik TV
-http://starshare.live:8080/live/T20C227070225533/202210886677/3802.ts
 #EXTINF:-1 group-title="Bangla",Gaan Bangla 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/100676.ts
 #EXTINF:-1 group-title="Bangla",SATV
@@ -100,22 +98,36 @@ http://sansat.net:88/live/02029761595924/9d089925dc60a821/93732.ts
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/93733.ts
 #EXTINF:-1 group-title="Sports",Sony Ten 3
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/93734.ts
+#EXTINF:-1 group-title="Sports",Sony ten 5
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/93723.ts
 #EXTINF:-1 group-title="Sports",Sky Sports Main Event 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/102247.ts
 #EXTINF:-1 group-title="Sports",Sky Sports  Action 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/102329.ts
 #EXTINF:-1 group-title="Sports",Sky Sports Mix
-http://flbl1.112421.net:8082/3238171/mpegts?token=GWV3XREOPY
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/102248.ts
 #EXTINF:-1 group-title="Sports",Sky Sports Football 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/102245.ts
 #EXTINF:-1 group-title="Sports",SuperSport Football 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/116686.ts
 
+#EXTINF:-1 group-title="Sports",TNT SPORTS 1
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/102234.ts
+#EXTINF:-1 group-title="Sports",TNT SPORTS 2
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/102235.ts
+#EXTINF:-1 group-title="Sports",TNT SPORTS 3
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/102236.ts
+#EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/102233.ts
+#EXTINF:-1 group-title="Sports",Astro Cricket (webasia)
+http://webo.asia:80/live/Matthew123/Matthew123/20812.ts
+#EXTINF:-1 group-title="Sports",Astro Cricket watchindia
+http://watchindia.net:8880/live/32990/80955/2174.ts
 
 
 
 #EXTINF:-1 group-title="Cartoon",Duronto 
-http://starshare.live:8080/live/T20C227070225533/202210886677/433.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Cartoon",Sony Yay Hindi
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/96187.ts
 #EXTINF:-1 group-title="Cartoon",Nick
@@ -145,6 +157,8 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/95769.ts
 #EXTINF:-1 group-title="Kolkata",Zee Bangla 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/95778.ts
+#EXTINF:-1 group-title="Kolkata",Sony Aath 
+http://sansat.net:88/live/02029761595924/9d089925dc60a821/100696.ts
 #EXTINF:-1 group-title="Kolkata",Jalsha Movies 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/95770.ts
 #EXTINF:-1 group-title="Kolkata",Zee Bangla Cinema 
@@ -209,12 +223,6 @@ http://sansat.net:88/live/02029761595924/9d089925dc60a821/93668.ts
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/577063.ts
 #EXTINF:-1 group-title="ENGLISH Movies",Movies Now 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/93659.ts
-
-
-#EXTINF:-1 group-title="Toffee",Toffee Eng New
-https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
-#EXTINF:-1 group-title="Toffee",Toffee Ban New 
-https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?m3u8=https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 
 #EXTINF:-1 group-title="Wifi",Live Sports
