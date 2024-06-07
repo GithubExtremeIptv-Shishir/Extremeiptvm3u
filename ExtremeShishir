@@ -37,8 +37,9 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
-http://starshare.live:8080/live/Sylvia/Sylvia/398.ts
+http://78.40.140.202:9322/86e4228d28529a5ebeb4ba3920d26b135376b37781200b5e3462/index.m3u8?token=97738718b682cb8d6658253ffffa0c58fd99d32726d8427569d9e515e221e251330b51a4812c437e5d569c1148565ed47262749b2b9525147af7e5a7073e306a9ef4219a50ce-b79b5e374596680cf5aa349a32f23d52
 
+http://starshare.live:8080/live/Sylvia/Sylvia/398.ts
 https://myflixbd.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
