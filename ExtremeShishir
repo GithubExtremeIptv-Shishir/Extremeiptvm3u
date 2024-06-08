@@ -677,9 +677,14 @@ https://api.himel-op.top/s*x.php?id=245989
 #EXTINF:-1 tvg-logo="" ,hungama 2
 https://tgaadi-web.tech/zain_tv.php?tv=92287
 
-#EXTINF:-1 tvg-logo="https://horoscope.astrosage.com/wp-content/uploads/2018/03/bangladehs-vs-india.jpg" ,Ban Vs IND
-https://1rdk.short.gy/Ban-VS-Ind/Join-TG-@HimelOP_Official.m3u8 
-
+#EXTINF:-1 tvg-logo="" ,Sky Sports Cricket FHD
+http://78.40.140.209:9110/86e4228d28529a5ebeb4ba3920d37c14577cba6a813e19583f6708eb03b0adbe7153d8e6206fbf/index.m3u8?token=dc9437f5609ba8a2ba550963da775b72a7f11bbf20fb79d9935567b90149c8d9f4ffb3dc9b11b095e85f620cdcfa30a2a765d0aee6316fd60d1020f0357e5df97a0becd41286-7495b31bda7dabb21e4610c88b193c66
+#EXTINF:-1 tvg-logo="" ,Astro Cricket 50 FPS
+http://78.40.140.209:9222/86e4228d28529a5ebeb4ba3920d37c14577cba6a812c0155327b07e703adbdaa7755/index.m3u8?token=645c84a77614628a82c8418ce3eb088d319b6b88199837308449f6ef0561513deb6e82a02d935d36c61c226f480b4b638e3d0834c22cd67b5ea7d5b969e1664faa6552ef5eda-3c20ea7163b9edb6b6a94686d349db28
+#EXTINF:-1 tvg-logo="" ,Willow 60 FPS
+http://78.40.140.209:9222/86e4228d28529a5ebeb4ba3920c8711e467ebc759b390d56297814eb06bbbda07c40d5e4/index.m3u8?token=51297ca6f429581ca1dc15f61a74dd23472a593c85e18268d779a1a434103152190819dcdfeedf362e91efff94f62067a8b3846811bef3c1ab614355bd7150b92947d759b0c6-4b709b8e2b5fc12bc20c1ce601be94e4
+#EXTINF:-1 tvg-logo="" ,Willow xtra 
+http://78.40.140.209:9222/86e4228d28529a5ebeb4ba3920c8711e467ebc759b390d56297814eb06bbbbb96653d0/index.m3u8?token=2b72d33e24608ddb1562aaa9e5179b638fc8fe2fc1172f796dcaa879a640a3a8852e933e9fa42a26df6bd97f7fc26113da844a998c8dae12f155e7deae44f6497d8db2b3d92f-e676dc3ce152ebf549b22e6e9818223a
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",Lapataa Ladies 
 http://starshare.live:8080/movie/Sylvia/Sylvia/320377.mp4
