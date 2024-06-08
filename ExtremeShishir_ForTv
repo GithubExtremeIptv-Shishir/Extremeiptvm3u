@@ -139,6 +139,13 @@ http://78.40.140.209:9110/86e4228d28529a5ebeb4ba3920d37c14577cba6a813d06573f770a
 #EXTINF:-1 group-title="Sony TV",Ten Sports FHD
 http://78.40.140.209:9110/86e4228d28529a5ebeb4ba3920c46b134b64af718c39015e307513ed02b0bfaf/index.m3u8?token=9f7b24e254bcd1b1c570afaf9acc383d432b6813ecd0961957129ca775c6cf1aa1c8bade99f7dae9d57b495cfdd32065bff738fc71e358928b8457e3ab74940c8bbc246bfb26-cc8f086a9d26cfa5a804f591a6036919
 
+
+#EXTINF:-1 group-title="Toffee",Toffee Eng
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717856573:KeyName=prod_live_events:Signature=UF5r6kxC8204ufD39hE_Akf5fqmEdUMQVU860S4oGO360kklkb1TvXVwq96-VUMJYSoxbtGkkfVb8fuf4NlZDA
+#EXTINF:-1 group-title="Toffee",Toffee Ban
+https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717856573:KeyName=prod_live_events:Signature=UF5r6kxC8204ufD39hE_Akf5fqmEdUMQVU860S4oGO360kklkb1TvXVwq96-VUMJYSoxbtGkkfVb8fuf4NlZDA
+
+
 #EXTINF:-1 group-title="Cartoon",Duronto 
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Cartoon",Sony Yay Hindi
