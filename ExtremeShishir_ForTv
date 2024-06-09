@@ -67,9 +67,9 @@ http://humsab.xyz/GBanTv/index.m3u8
 #EXTINF:-1 group-title="Sports",Gazi
 http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1
-http://sansat.net:88/live/02029761595924/9d089925dc60a821/93724.ts
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=8063
 #EXTINF:-1 group-title="Sports",Star Sports 2
-http://sansat.net:88/live/02029761595924/9d089925dc60a821/93726.ts
+http://vo01.mohdtv.com:8880/live/hdtv0405dda140a6/15954034/55272.ts
 #EXTINF:-1 group-title="Sports",Star Sports 3
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/93727.ts
 #EXTINF:-1 group-title="Sports",Star Sports Select 1
@@ -119,10 +119,7 @@ http://sansat.net:88/live/02029761595924/9d089925dc60a821/102235.ts
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/102236.ts
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/102233.ts
-#EXTINF:-1 group-title="Sports",Astro Cricket (webasia)
-http://webo.asia:80/live/Matthew123/Matthew123/20812.ts
-#EXTINF:-1 group-title="Sports",Astro Cricket watchindia
-http://watchindia.net:8880/live/32990/80955/2174.ts
+
 
 #EXTINF:-1 group-title="Sony TV" ,Sky Sports Cricket FHD
 http://78.40.140.209:9110/86e4228d28529a5ebeb4ba3920d37c14577cba6a813e19583f6708eb03b0adbe7153d8e6206fbf/index.m3u8?token=dc9437f5609ba8a2ba550963da775b72a7f11bbf20fb79d9935567b90149c8d9f4ffb3dc9b11b095e85f620cdcfa30a2a765d0aee6316fd60d1020f0357e5df97a0becd41286-7495b31bda7dabb21e4610c88b193c66
