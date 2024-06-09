@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",BTV
-http://sansat.net:88/live/02029761595924/9d089925dc60a821/100659.ts
+https://tgaadi-web.tech/api/spice.php?tv=5849
 #EXTINF:-1 group-title="Bangla",BTV world 
-http://sansat.net:88/live/02029761595924/9d089925dc60a821/100658.ts
+https://tgaadi-web.tech/api/spice.php?tv=5850
 #EXTINF:-1 group-title="Bangla",Atn Bangla 
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel I
@@ -10,7 +10,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=7245&deviceMac=00:1A:79:B0:A9:
 #EXTINF:-1 group-title="Bangla",Ekushey
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Bangla",NTV
-http://tv.cloudcdn.me:80/live.ts?channelId=109&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=3188
 #EXTINF:-1 group-title="Bangla",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="Bangla",Boishakhi 
@@ -20,7 +20,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Desh TV
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1 group-title="Bangla",MyTv
-http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=3178
 #EXTINF:-1 group-title="Bangla",Maasranga 
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla",Gazi TV 
@@ -28,7 +28,7 @@ http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 9
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla",ATN News
-https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
+https://tgaadi-web.tech/api/spice.php?tv=8978
 #EXTINF:-1 group-title="Bangla",Somoy News
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
@@ -44,7 +44,7 @@ https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",DBC News 
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Mohona TV 
-http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=3172
 #EXTINF:-1 group-title="Bangla",Deepto TV 
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Bangla TV
@@ -67,13 +67,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:
 #EXTINF:-1 group-title="Sports",Gazi
 http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1
-http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=669
 #EXTINF:-1 group-title="Sports",Star Sports 2
-http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=670
 #EXTINF:-1 group-title="Sports",Star Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=858
 #EXTINF:-1 group-title="Sports",Star Sports Select 1
-http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=5675
 #EXTINF:-1 group-title="Sports",Star Sports Select 2
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Star Sports 1 Hindi 
@@ -122,7 +122,7 @@ http://flbl1.112421.net:8082/323743/mpegts?token=GWV3XREOPY
 
 
 #EXTINF:-1 group-title="Cartoon",Duronto 
-http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=3189
 #EXTINF:-1 group-title="Cartoon",Sony Yay Hindi
 http://flbl1.112421.net:8082/4151806/mpegts?token=GWV3XREOPY
 #EXTINF:-1 group-title="Cartoon",Nick
@@ -212,7 +212,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH Movies",Star Movies 
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://tgaadi-web.tech/api/spice.php?tv=2745
 #EXTINF:-1 group-title="ENGLISH Movies",HBO
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="ENGLISH Movies",Movies Now 
