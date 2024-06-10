@@ -10,7 +10,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=7245&deviceMac=00:1A:79:B0:A9:
 #EXTINF:-1 group-title="Bangla",Ekushey
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Bangla",NTV
-https://tgaadi-web.tech/api/spice.php?tv=3188
+http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="Bangla",Boishakhi 
@@ -28,7 +28,7 @@ http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 9
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla",ATN News
-https://tgaadi-web.tech/api/spice.php?tv=8978
+http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla",Somoy News
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
@@ -44,7 +44,7 @@ https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",DBC News 
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Mohona TV 
-https://tgaadi-web.tech/api/spice.php?tv=3172
+http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla",Deepto TV 
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Bangla TV
@@ -119,7 +119,8 @@ http://flbl1.112421.net:8082/351794/mpegts?token=GWV3XREOPY
 http://flbl1.112421.net:8082/329644/mpegts?token=GWV3XREOPY
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
 http://flbl1.112421.net:8082/323743/mpegts?token=GWV3XREOPY
-
+#EXTINF:-1 group-title="Sports",Star Sports 1 (flex.tv)
+http://filex.tv:8080/live/Amin-stream/1234/52094.ts
 
 #EXTINF:-1 group-title="Cartoon",Duronto 
 https://tgaadi-web.tech/api/spice.php?tv=3189
