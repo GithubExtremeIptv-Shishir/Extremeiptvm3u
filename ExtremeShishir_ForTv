@@ -30,7 +30,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=7245&deviceMac=00:1A:79:B0:A9:
 #EXTINF:-1 group-title="Bangla",ATN News
 http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla",ATN News mix
-http://mixbix.xyz:8080/live/N4mGNBEAHp2T/JXzmGmwyMaMF/303611.ts
+http://mixbix.xyz:8080/live/N4mGNBEAHp2T/JXzmGmwyMaMF/303611.m3u8
 #EXTINF:-1 group-title="Bangla",Somoy News
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
