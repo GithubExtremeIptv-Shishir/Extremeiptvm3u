@@ -18,7 +18,7 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Bangla Vision 
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Desh TV
-https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdXTclI_zKGNSjN7I9gwFrI/ts
 #EXTINF:-1 group-title="Bangla",MyTv
 https://allinonereborn.tech/jio.m3u8?id=2590
 #EXTINF:-1 group-title="Bangla",Maasranga 
@@ -57,7 +57,8 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-
+#EXTINF:-1 group-title="Bangla",Nagorik TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
 #EXTINF:-1 group-title="Sports",T sports
 http://50.50.50.60:8088/102/index.m3u8
 #EXTINF:-1 group-title="Sports",T sports (cloudcdn)
@@ -128,6 +129,8 @@ https://retosbd.com/toffe/toffe.php?id=match-2
 https://retosbd.com/toffe/toffe.php?id=match-3
 #EXTINF:-1 group-title="Toffee",Bangla 2
 https://retosbd.com/toffe/toffe.php?id=match-4
+#EXTINF:-1 group-title="Toffee",Toffee ENG 
+
 #EXTINF:-1 group-title="Cartoon",Duronto 
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Cartoon",Sony Yay Hindi
@@ -222,6 +225,59 @@ https://tgaadi-web.tech/api/spice.php?tv=2745
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="ENGLISH Movies",Movies Now 
 https://tplay.dinesh29.com.np/live/tataplay-universal/movies-now-hd/index.ts
+
+#EXTINF:-1 group-title="Hoichoi",LIVE SPORTS 
+https://tv5.hoichoi24.com/1000/index.m3u8
+#EXTINF:-1 group-title="Hoichoi",Nagorik 
+https://tv5.hoichoi24.com/1102/index.m3u8
+#EXTINF:-1 group-title="Hoichoi",Duronto 
+https://tv5.hoichoi24.com/1005/index.m3u8
+#EXTINF:-1 group-title="Hoichoi",Star Sports 1
+https://tv5.hoichoi24.com/1005/index.m3u8
+#EXTINF:-1 group-title="Hoichoi",PTV Sports 
+https://tv5.hoichoi24.com/1018/index.m3u8
+#EXTINF:-1 group-title="Hoichoi",PTV Sports 2
+https://tv5.hoichoi24.com/1026/index.m3u8
+#EXTINF:-1 group-title="Hoichoi",Zee Bangla 
+https://tv5.hoichoi24.com/1405/index.m3u8
+
+#EXTINF:-1 group-title="Starflix",Toffee Eng Vip
+https://shounwifi.net/ott-player/tofee-english.m3u8
+#EXTINF:-1 group-title="Starflix",Toffee Ban Vip
+https://shounwifi.net/ott-player/tofee-bangla.m3u8
+#EXTINF:-1 group-title="Starflix",live 1 Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
+#EXTINF:-1 group-title="Starflix",Tsports
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVLXUEbrBHZudPOsZgoN1mg/ts
+#EXTINF:-1 group-title="Starflix",Gazi TV 
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWTyGwHvQ7o1ZU_2Yl2ixqo/ts
+#EXTINF:-1 group-title="Starflix",Nagorik (starflix)
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
+#EXTINF:-1 group-title="Starflix",Star Sports 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZZyg9QHc4eEGBUxrMgmtwo/ts
+#EXTINF:-1 group-title="Starflix",Star Sports 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJen1icWEJFH-hAAest2aDTA/ts
+#EXTINF:-1 group-title="Starflix",SuperSport Cricket 
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZG32OL3XibVkkkMSJvRGPY/ts
+#EXTINF:-1 group-title="Starflix",Astro Cricket 
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJecZsyp0lMxipO5FrS0-SnA/ts
+#EXTINF:-1 group-title="Starflix",Astro Cricket 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR-bBIdKmAhKOe04ohQxbbg/ts
+#EXTINF:-1 group-title="Starflix",Willow HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbimBGbKgzEG3Jp2u5kxXN4/ts
+#EXTINF:-1 group-title="Starflix",Sky Sports Cricket 
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSx_LMFPAlenvNHM9fUXCVQ/ts
+#EXTINF:-1 group-title="Starflix",Ten Cricket 
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSvxoik1hu_h3wAldT56B60/ts
+#EXTINF:-1 group-title="Starflix",Ten Sports 
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJePXLKfByYoML-ihG5oGZIc/ts
+#EXTINF:-1 group-title="Starflix",NTV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcc9UZunvtp99HyqTq-Q9-A/ts
+#EXTINF:-1 group-title="Starflix",Satv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcj86b-nw45IyJR-0H_b1t8/ts
+#EXTINF:-1 group-title="Starflix",RTV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYyQnpAJU3zClssHNIztU8M/ts
+
 
 
 #EXTINF:-1 group-title="Wifi",Live Sports
