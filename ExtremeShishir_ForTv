@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",BTV
-https://t.ly/YByI8/btv.m3u8
-#EXTINF:-1 group-title="Bangla",BTV ts
-https://t.ly/btv.ts
+https://allinonereborn.tech/jio.m3u8?id=6079
 #EXTINF:-1 group-title="Bangla",BTV world 
-https://tgaadi-web.tech/api/spice.php?tv=5850
+https://allinonereborn.tech/jio.m3u8?id=2575
 #EXTINF:-1 group-title="Bangla",Atn Bangla 
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel I
@@ -12,7 +10,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=7245&deviceMac=00:1A:79:B0:A9:
 #EXTINF:-1 group-title="Bangla",Ekushey
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Bangla",NTV
-http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://allinonereborn.tech/jio.m3u8?id=2592
 #EXTINF:-1 group-title="Bangla",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="Bangla",Boishakhi 
@@ -22,17 +20,13 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Desh TV
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1 group-title="Bangla",MyTv
-https://tgaadi-web.tech/api/spice.php?tv=3178
+https://allinonereborn.tech/jio.m3u8?id=2590
 #EXTINF:-1 group-title="Bangla",Maasranga 
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla",Gazi TV 
 http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 9
-http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Bangla",ATN News
-http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Bangla",ATN News mix
-http://mixbix.xyz:8080/live/N4mGNBEAHp2T/JXzmGmwyMaMF/303611.m3u8
+https://allinonereborn.tech/jio.m3u8?id=2571
 #EXTINF:-1 group-title="Bangla",Somoy News
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
@@ -71,21 +65,21 @@ http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:
 #EXTINF:-1 group-title="Sports",Gazi
 http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1
-https://tgaadi-web.tech/api/spice.php?tv=669
+https://allinonereborn.tech/jio.m3u8?id=364
 #EXTINF:-1 group-title="Sports",Star Sports 2
-https://tgaadi-web.tech/api/spice.php?tv=670
+https://allinonereborn.tech/jio.m3u8?id=8346
 #EXTINF:-1 group-title="Sports",Star Sports 3
-https://tgaadi-web.tech/api/spice.php?tv=858
+https://allinonereborn.tech/jio.m3u8?id=367
 #EXTINF:-1 group-title="Sports",Star Sports Select 1
-https://tgaadi-web.tech/api/spice.php?tv=5675
+https://allinonereborn.tech/jio.m3u8?id=361
 #EXTINF:-1 group-title="Sports",Star Sports Select 2
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Star Sports 1 Hindi 
-http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://allinonereborn.tech/jio.m3u8?id=365
 #EXTINF:-1 group-title="Sports",Ten Sports 
-http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://allinonereborn.tech/jio.m3u8?id=41747
 #EXTINF:-1 group-title="Sports",PTV Sports 
-http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://allinonereborn.tech/jio.m3u8?id=769
 #EXTINF:-1 group-title="Sports",Astro Cricket 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 #EXTINF:-1 group-title="Sports",Willow HD
@@ -123,7 +117,7 @@ http://flbl1.112421.net:8082/3517931/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 2
 http://flbl1.112421.net:8082/351794/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 3
-http://flbl1.112421.net:8082/329644/mpegts?token=YCLJ8ENQ8D
+http://flbl1.112421.net:8082/323742/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
 http://flbl1.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
 
@@ -131,19 +125,17 @@ http://flbl1.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Cartoon",Duronto 
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Cartoon",Sony Yay Hindi
-http://flbl1.112421.net:8082/4151806/mpegts?token=YCLJ8ENQ8D
+http://allinonereborn.tech/allinone.php?id=34198
 #EXTINF:-1 group-title="Cartoon",Nick
 https://tplay.dinesh29.com.np/live/tataplay-universal/nick/index.ts
 #EXTINF:-1 group-title="Cartoon",Hungama
 https://tgaadi-web.tech/api/iptv.php?tv=22175
-#EXTINF:-1 group-title="Cartoon",Super Hungama 
-https://tplay.dinesh29.com.np/live/tataplay-universal/super-hungama/index.ts
 #EXTINF:-1 group-title="Cartoon",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon",Cartoon Network 
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648d9fd43e61d5ef42a1df245fde0c6890712fb5508974c0015997a8a5c2bb4dbb3959c902de620a684c5c669e4fc3740596da67ab04627d4627ccccb32dd8ca70be83e22b12ef770334638c7a07ea57027cdee51b0c802ebd0b6a798a285d26f909206b87422386d95ba14111542425521b4a3900c10c1da0e24c8ac75ca224fa5dd09b3c3ac46d1ca4d31ed9a045fdd99702c11d9449c9db63f3d2b9d317a8b3e33bf60be37e690a62159df1497e3e53c4c9cc4940d46fc49f1580d083d9946f2f8f460c78f0fec0be5f8c79a3862e897423ab4fcc01d561c43bd869dd8144c2f9eac72383d8d477867ab3a7645d5e2ff5eb72eb/41/1920x1080_5860800/index.m3u8
 #EXTINF:-1 group-title="Cartoon",Disney Hindi 
-https://tplay.dinesh29.com.np/live/tataplay-universal/disney/index.ts
+https://allinonereborn.tech/jio.m3u8?id=1091
 #EXTINF:-1 group-title="Cartoon",Discovery Kids 
 http://sansat.net:88/live/02029761595924/9d089925dc60a821/96341.ts
 #EXTINF:-1 group-title="Cartoon",Gubbare
@@ -172,14 +164,14 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1669&e=.m3u8
 #EXTINF:-1 group-title="Entertainment Hindi",Set India
 http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Entertainment Hindi",Zee cinema HD
-http://flbl1.112421.net:8082/4151871/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/4151871/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Entertainment Hindi",Sony Max 
-http://flbl1.112421.net:8082/4151793/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/4151793/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Entertainment Hindi",Star Gold 
-http://flbl1.112421.net:8082/4151809/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/4151809/mpegts?token=YCLJ8ENQ8D
 
 #EXTINF:-1 group-title="Adventure",National Geographic 
-https://tplay.dinesh29.com.np/live/tataplay-universal/national-geographic-hd/index.ts
+https://allinonereborn.tech/jio.m3u8?id=41812
 #EXTINF:-1 group-title="Adventure",Discovery 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="Adventure",Animal Planet 
@@ -208,7 +200,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 #EXTINF:-1 group-title="Music",MTV Beats 
-https://tplay.dinesh29.com.np/live/tataplay-universal/mtv-beats-hd/index.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Music",9xm
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 group-title="Music",Sangeet Bangla 
