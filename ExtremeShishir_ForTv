@@ -89,47 +89,49 @@ http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=7245&deviceMac=00:1A:79:B0:A9
 #EXTINF:-1 group-title="Sports",Astro Cricket 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 #EXTINF:-1 group-title="Sports",Willow HD
-http://flbl1.112421.net:8082/4151859/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/4165179/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Willow xtra 
-http://flbl1.112421.net:8082/361988/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/361988/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Sky Sports cricket 
-http://flbl1.112421.net:8082/3238121/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/3238121/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",SuperSport Cricket 
-http://flbl1.112421.net:8082/4151136/mpegts?token=GWV3XREOPY
+http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Sony Ten 1
-http://flbl1.112421.net:8082/4151836/mpegts?token=GWV3XREOPY
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Sony Ten 2
-http://flbl1.112421.net:8082/4151837/mpegts?token=GWV3XREOPY
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Sony Ten 3
-http://flbl1.112421.net:8082/4151803/mpegts?token=GWV3XREOPY
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Sports",Sony ten 4
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Sony ten 5
-http://50.50.50.60:8088/121/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Sky Sports Main Event 
+http://flbl1.112421.net:8082/323816/mpegts?token=YCLJ8ENQ8D
+#EXTINF:-1 group-title="Sports",SUPERSPORT Grandstand 
 http://145.239.5.177:8080/567/index.m3u8 
 #EXTINF:-1 group-title="Sports",Sky Sports  Action 
-http://flbl1.112421.net:8082/3238101/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/3238101/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Sky Sports Mix
-http://flbl1.112421.net:8082/3238171/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/3238171/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Sky Sports Football 
-http://flbl1.112421.net:8082/3238141/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",SuperSport Football 
-http://flbl1.112421.net:8082/3238141/mpegts?token=GWV3XREOPY
-
+http://flbl1.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 1
-http://flbl1.112421.net:8082/3517931/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/3517931/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 2
-http://flbl1.112421.net:8082/351794/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/351794/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 3
-http://flbl1.112421.net:8082/329644/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/329644/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
-http://flbl1.112421.net:8082/323743/mpegts?token=GWV3XREOPY
-#EXTINF:-1 group-title="Sports",Star Sports 1 (flex.tv)
-http://filex.tv:8080/live/Amin-stream/1234/52094.ts
+http://flbl1.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
+
 
 #EXTINF:-1 group-title="Cartoon",Duronto 
-https://tgaadi-web.tech/api/spice.php?tv=3189
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Cartoon",Sony Yay Hindi
-http://flbl1.112421.net:8082/4151806/mpegts?token=GWV3XREOPY
+http://flbl1.112421.net:8082/4151806/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Cartoon",Nick
 https://tplay.dinesh29.com.np/live/tataplay-universal/nick/index.ts
 #EXTINF:-1 group-title="Cartoon",Hungama
