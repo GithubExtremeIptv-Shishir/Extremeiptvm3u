@@ -58,28 +58,32 @@ https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Nagorik TV
-https://t.ly/nagoriktv.ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/hoichoi.m3u8?id=1102
 #EXTINF:-1 group-title="Sports",T sports
 http://50.50.50.60:8088/102/index.m3u8
 #EXTINF:-1 group-title="Sports",T sports (cloudcdn)
 http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Sports",Nagorik TV BDIX 
+https://himel-op.top/Join-Telegram-@HimelOP_Official/hoichoi.m3u8?id=1102
 #EXTINF:-1 group-title="Sports",Gazi
 http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1
-https://allinonereborn.tech/jio.m3u8?id=364
+https://allinonereborn.tech/doordarshan.m3u8?id=669
 #EXTINF:-1 group-title="Sports",Star Sports 2
-https://allinonereborn.tech/jio.m3u8?id=8346
+https://allinonereborn.tech/doordarshan.m3u8?id=670
 #EXTINF:-1 group-title="Sports",Star Sports 3
-https://allinonereborn.tech/jio.m3u8?id=367
-#EXTINF:-1 group-title="Sports",Star Sports Select 1
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
 https://allinonereborn.tech/jio.m3u8?id=361
-#EXTINF:-1 group-title="Sports",Star Sports Select 2
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Star Sports 1 Hindi 
 https://allinonereborn.tech/jio.m3u8?id=365
-#EXTINF:-1 group-title="Sports",Ten Sports 
+#EXTINF:-1 group-title="Sports",Ten Sports HD 
 https://allinonereborn.tech/jio.m3u8?id=41747
-#EXTINF:-1 group-title="Sports",PTV Sports 
+#EXTINF:-1 group-title="Sports",Ten Cricket HD
+http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Sports",PTV Sports HD 
 https://allinonereborn.tech/jio.m3u8?id=769
 #EXTINF:-1 group-title="Sports",Astro Cricket 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
