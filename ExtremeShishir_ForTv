@@ -361,3 +361,5 @@ http://50.50.50.60:8088/503/index.m3u8
 http://50.50.50.60:8088/702/index.m3u8
 #EXTINF:-1 group-title="Wifi",Discovery 
 http://50.50.50.60:8088/801/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Wifi",Yo
+http://flbl1.112421.net:8082/4126654/mpegts?token=YCLJ8ENQ8D 
