@@ -238,6 +238,10 @@ http://bdix.proximitybd.xyz/op.php?id=167575
 https://hdstreamz.vip/sports/mu1.php?e=.m3u8|referer=https://t.me/live_cricket_24
 #EXTINF:-1 group-title="Live link",Disney
 http://bdix.proximitybd.xyz/xxx.php?id=167551
+#EXTINF:-1 group-title="tv.digitalview",Duronto 
+http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/395.ts
+#EXTINF:-1 group-title="tv.digitalview",Duronto 
+http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/395.m3u8
 
 #EXTINF:-1 group-title="Hoichoi",LIVE SPORTS 
 https://tv5.hoichoi24.com/1000/index.m3u8
@@ -265,7 +269,7 @@ http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVLXUEbrBHZudPOsZgoN1mg/ts
 #EXTINF:-1 group-title="Starflix",Gazi TV 
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWTyGwHvQ7o1ZU_2Yl2ixqo/ts
 #EXTINF:-1 group-title="Starflix",Nagorik (starflix)
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/m3u8
 #EXTINF:-1 group-title="Starflix",Star Sports 1
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZZyg9QHc4eEGBUxrMgmtwo/ts
 #EXTINF:-1 group-title="Starflix",Star Sports 2
