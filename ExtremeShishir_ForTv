@@ -125,8 +125,12 @@ http://flbl1.112421.net:8082/351794/mpegts?token=YCLJ8ENQ8D
 http://flbl1.112421.net:8082/323742/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
 http://flbl1.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
-#EXTINF:-1 group-title="Sports",SSP vipegor
-http://vipegor.top:8080/live/VIP0157171137461960/ac01a36cba81/7340.ts
+#EXTINF:-1 group-title="Sports",SS Cricket 
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:26:75:03&stream=531516&extension=ts
+#EXTINF:-1 group-title="Sports",SS Cricket M3u
+http://buckpoolgame.xyz:8080/play/live.php?mac=00:1A:79:26:75:03&stream=531516&extension=m3u8
+#EXTINF:-1 group-title="Sports",sony max ip xtv
+https://fmhu.short.gy/sonymax.ts
 #EXTINF:-1 group-title="Toffee",English 1
 https://retosbd.com/toffe/toffe.php?id=match-1
 #EXTINF:-1 group-title="Toffee",Bangla 1
