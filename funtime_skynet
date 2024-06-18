@@ -34,7 +34,7 @@ http://103.109.56.116/live/skyfeed1024/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
 http://103.109.56.116/live/skyfeed1014/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
-http://103.109.56.116/live/skyfeed1014/index.m3u8
+http://103.109.56.116/live/funtime108/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24
 http://103.109.56.116/live/funtime109/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
