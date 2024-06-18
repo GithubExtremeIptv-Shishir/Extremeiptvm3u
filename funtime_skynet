@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
+http://103.109.56.116/live/funtime107/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/360px-Sports18_logo.svg.png" ,Sports 18
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
+http://103.109.56.116/live/funtime112/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
+http://103.109.56.116/live/funtime111/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png?20100613144818" ,Cartoon Network
+http://103.109.56.116/live/funtime110/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" ,Pogo
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,Aljajeera 
+http://103.109.56.116/live/skyfeed1024/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24
+http://103.109.56.116/live/funtime109/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
+http://103.109.56.116/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1600px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
+http://103.109.56.116/live/funtime1025/index.m3u8
+#EXTINF:-1 tvg-logo="https://ia902805.us.archive.org/4/items/TV-SHARJAHTV/TV-SHARJAHTV_itemimage.jpg" ,Sharjah TV
+http://103.109.56.116/live/skyfeed1022/index.m3u8
