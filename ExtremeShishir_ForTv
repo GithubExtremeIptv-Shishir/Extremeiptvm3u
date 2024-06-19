@@ -364,7 +364,9 @@ http://50.50.50.60:8088/503/index.m3u8
 http://50.50.50.60:8088/702/index.m3u8
 #EXTINF:-1 group-title="Wifi",Discovery 
 http://50.50.50.60:8088/801/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Wifi",Willow Ts
+#EXTINF:-1 group-title="Wifi",Willow.Ts
 http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu_BortgMH4emgECVHS3nEK8v_5SPphfHmM2w0Ajkc2se3to0-vT3GMdXZWIuq6max5C3kT_xSQCN5aQgNEu0xZU?ext=.ts
-#EXTINF:-1 group-title="Wifi",Willow m3u
-http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu_BortgMH4emgECVHS3nEK8v_5SPphfHmM2w0Ajkc2se3to0-vT3GMdXZWIuq6max5C3kT_xSQCN5aQgNEu0xZU?ext=.m3u8
+#EXTINF:-1 group-title="Wifi",Willow ts
+http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu_BortgMH4emgECVHS3nEK8v_5SPphfHmM2w0Ajkc2se3to0-vT3GMdXZWIuq6max5C3kT_xSQCN5aQgNEu0xZU?ext=ts
+#EXTINF:-1 group-title="Wifi",Willow x
+http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu_BortgMH4emgECVHS3nEK8v_5SPphfHmM2w0Ajkc2se3to0-vT3GMdXZWIuq6max5C3kT_xSQCN5aQgNEu0xZU
