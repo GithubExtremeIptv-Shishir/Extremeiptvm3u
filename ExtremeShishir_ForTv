@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",BTV
-https://allinonereborn.tech/jio.m3u8?id=6079
+http://sansat.net:88/live/02027092234115/BROF45SRPZJFXGG/100658.ts
 #EXTINF:-1 group-title="Bangla",BTV world 
-https://allinonereborn.tech/jio.m3u8?id=2575
+https://tgaadi-web.tech/zain_tv.php?tv=100272
 #EXTINF:-1 group-title="Bangla",Atn Bangla 
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel I
-http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://sansat.net:88/live/02027092234115/BROF45SRPZJFXGG/100663.ts
 #EXTINF:-1 group-title="Bangla",Ekushey
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Bangla",NTV
-https://allinonereborn.tech/jio.m3u8?id=2592
+https://tgaadi-web.tech/zain_tv.php?tv=100303
 #EXTINF:-1 group-title="Bangla",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="Bangla",Boishakhi 
@@ -20,13 +20,13 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Desh TV
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdXTclI_zKGNSjN7I9gwFrI/ts
 #EXTINF:-1 group-title="Bangla",MyTv
-https://allinonereborn.tech/jio.m3u8?id=2590
+http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla",Maasranga 
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla",Gazi TV 
 http://50.50.50.60:8088/106/index.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 9
-https://allinonereborn.tech/jio.m3u8?id=2571
+https://tgaadi-web.tech/zain_tv.php?tv=100275
 #EXTINF:-1 group-title="Bangla",Somoy News
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
@@ -88,11 +88,11 @@ http://sansat.net:88/live/02027092234115/BROF45SRPZJFXGG/93417.ts
 #EXTINF:-1 group-title="Sports",Astro Cricket 
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 #EXTINF:-1 group-title="Sports",Willow HD
-http://flbl1.112421.net:8082/4165179/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/4165179/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Willow xtra 
-http://flbl1.112421.net:8082/361988/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/361988/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Sky Sports cricket 
-http://flbl1.112421.net:8082/3238121/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/3238121/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",SuperSport Cricket 
 http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Sony Ten 1
@@ -106,28 +106,28 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0
 #EXTINF:-1 group-title="Sports",Sony ten 5
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports",Sky Sports Main Event 
-http://flbl1.112421.net:8082/323816/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/323816/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",SUPERSPORT Grandstand 
 http://145.239.5.177:8080/567/index.m3u8 
 #EXTINF:-1 group-title="Sports",Sky Sports  Action 
-http://flbl1.112421.net:8082/3238101/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/3238101/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Sky Sports Mix
-http://flbl1.112421.net:8082/3238171/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/3238171/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",Sky Sports Football 
-http://flbl1.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",SuperSport Football 
-http://flbl1.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 1
-http://flbl1.112421.net:8082/3517931/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/3517931/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 2
-http://flbl1.112421.net:8082/351794/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/351794/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 3
-http://flbl1.112421.net:8082/323742/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/323742/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
-http://flbl1.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
+http://flbl16.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",ten sp
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772302&extension=ts
-#EXTINF:-1 group-title="Sports",ten sp
+#EXTINF:-1 group-title="Sports",ten spm
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772302&extension=m3u8
 
 #EXTINF:-1 group-title="Toffee",English 1
