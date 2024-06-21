@@ -169,7 +169,7 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/130714.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
-http://watchindia.net:8880/live/32990/80955/2232.ts
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/55273.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star Sports 2
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/55272.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
@@ -179,8 +179,6 @@ http://watchindia.net:8880/live/32990/80955/2292.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" , Star Select 2
 http://watchindia.net:8880/live/32990/80955/1071.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" ,Star sports 1 Hindi
-http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/55273.ts
-#EXTINF:-1 tvg-logo="" ,World Cup Hindi 
 http://xtv.ooo:8080/live/475483/2407516/220063.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
@@ -196,29 +194,31 @@ http://starshare.live:8080/live/Xw2fdKU6e8/XRgneaygHd/98870.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://vip2102.112421.net:2050/H2swoKeZ6h/O7mWsebxfc/323363
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772302&extension=m3u8&play_token=lH1bf9M2UQ
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/31665.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772357&extension=m3u8&play_token=ANEP4bsSJF
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
 http://vo01.mohdtv.com:8880/live/hdtv0405dda140a6/15954034/31676.ts
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky Sports Cricket
-http://fortv.cc:8080/live/71352691/90941631/45940.ts
+http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu97MUWkkM-7SJq9w-7heSXVC14PoAq9NJMtXXXJl9axuhV_vUPuPfqQu-uc5qgrqdE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
-http://flbl1.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
+http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu82BTUxONmBDj25rt7E40yqmyQL07SiT49hBQ01GeCxnJi2HSKYwelIMobraljKYg8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1024px-Sky_Sport_Mix_Logo_2022.svg.png" ,Sky Sports Mix
-http://flbl1.112421.net:8082/3238171/mpegts?token=YCLJ8ENQ8D
+http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu_jlk5GdwS5F9khjSGQdC-0X1-3UBU_h2UqVUDMRJi0KKNT4Ql5YdONcub43XqZ7p4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" ,Sky Sports Main Event
-http://flbl1.112421.net:8082/323816/mpegts?token=YCLJ8ENQ8D
+http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu8zE9LJ7jgDB3ODqOSkBnTcyxcpX7zZVQZ3xszhTIuJFgs2NNnyWWYdyqhNWiz299w
+#EXTINF:-1 tvg-logo="" ,Sky Sports Action 
+http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KrgLWaJVNfUeeEL0HGASWu-UgaVc7Bda0hRfegmXRWefMaEhesirU3wBXbz5WN0zc-kzjgpHh7WWaMWdUUdrRQY
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" ,SuperSport Cricket
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=278521&extension=m3u8&play_token=AmvKZ9yM4d
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60792.ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" ,SuperSport Grandstand
 http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png?width=1140&quality=90&format=webp" ,SuperSport Action 
-http://flbl1.112421.net:8082/3238101/mpegts?token=YCLJ8ENQ8D
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60581.ts
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png?width=1140&quality=90&format=webp" ,SuperSport Football 
-http://flbl1.112421.net:8082/3238141/mpegts?token=YCLJ8ENQ8D
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60582.ts
 #EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
-http://fortv.cc:8080/live/71352691/90941631/58847.ts
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/31569.ts
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
 http://flbl16.112421.net:8082/361988/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports (Afg)
