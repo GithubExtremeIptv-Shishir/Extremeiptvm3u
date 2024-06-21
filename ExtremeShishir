@@ -4,17 +4,17 @@ https://drive.usercontent.google.com/u/0/uc?id=1OdRSPReNx4V1Ouyc8Xl5xIfhU0mpieEf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" ,Btv
 http://xtv.ooo:8080/live/475483/2407516/245930.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU-O9UCxjcb4T-KH9SRQ5TA/ts
+http://xtv.ooo:8080/live/475483/2407516/245922.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS8ni5wftBtf3zIgP6T0TzI/ts
+http://208.86.19.13:81/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" ,Channel i int
 http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/400px-Ekushey_Television_Logo.svg.png" ,Ekushey (main server)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcc9UZunvtp99HyqTq-Q9-A/ts
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
@@ -24,7 +24,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcR1WBOmd-e8nQvftb3Z9cw/ts
+http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/398.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
