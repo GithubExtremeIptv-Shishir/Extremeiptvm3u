@@ -18,7 +18,7 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
@@ -32,7 +32,7 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFnKNc5uv82A7BIZwS1LhC4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=5489&deviceMac=00:1A:79:41:8E:82
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
-http://xtv.ooo:8080/live/475483/2407516/245905.ts
+http://b1g.uk:80/live/3521/3521/615378.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
