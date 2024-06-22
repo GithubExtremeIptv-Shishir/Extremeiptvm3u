@@ -68,14 +68,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=13860&deviceMac=00:1A:79:00:37
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" , SATV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,Ananda TV
 https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://radiofoorti.fm/images/whitelogo.png" ,Radio Foorti
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -91,11 +91,9 @@ http://xtv.ooo:8080/live/193747281/8284748291/150482.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama
 http://xtv.ooo:8080/live/475483/2407516/150480.ts
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup backup
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:74:4F:FB&stream=1097664&extension=ts&play_token=DBFsOSfv34
-https://allinonereborn.tech/jio.m3u8?id=1094
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" ,Super Hungama 
 https://tplay.dinesh29.com.np/live/tataplay-universal/super-hungama/index.ts
 
