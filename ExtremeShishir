@@ -91,9 +91,7 @@ http://xtv.ooo:8080/live/193747281/8284748291/150482.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama
 http://xtv.ooo:8080/live/475483/2407516/150480.ts
 
-https://tgaadi-web.tech/api/spice.php?tv=9400
-https://tgaadi-web.tech/zain_tv.php?tv=92287
-http://allinonereborn.tech/doordarshan.m3u8?id=11305
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup backup
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:74:4F:FB&stream=1097664&extension=ts&play_token=DBFsOSfv34
@@ -106,7 +104,7 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" ,Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uMV5rdXjJbM/maxresdefault.jpg" ,Disney Channel 
-http://bdix.proximitybd.xyz/xxx.php?id=167551
+http://xtv.ooo:8080/live/475483/2407516/167551.ts
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uMV5rdXjJbM/maxresdefault.jpg" ,Disney Hindi
 https://tplay.dinesh29.com.np/live/tataplay-universal/disney/index.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/749/650/png-transparent-doraemon-logo-nobita-nobi-doraemon-television-drawing-doraemon-child-text-friendship-thumbnail.png" ,Doraemon 24/7
