@@ -24,7 +24,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
-http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/398.ts
+http://xtv.ooo:8080/live/475483/2407516/245964.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
@@ -50,7 +50,7 @@ https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" , Bijoy TV
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQQtcmqDxZplK1uCFdPr78g/ts
+http://tv.cloudcdn.me:80/live.ts?channelId=85&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png" , Mohona TV
 http://xtv.ooo:8080/live/475483/2407516/245920.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" , Deepto TV
@@ -80,8 +80,7 @@ https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
-http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/395.ts
-http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/433.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
 http://vipegor.top:8080/live/VIP0157171137461960/ac01a36cba81/7326.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Multi Language 
