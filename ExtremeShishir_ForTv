@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Bangla",BTV
 http://sansat.net:88/live/02027092234115/BROF45SRPZJFXGG/100658.ts
 #EXTINF:-1 group-title="Bangla",BTV world 
-https://tgaadi-web.tech/zain_tv.php?tv=100272
+
 #EXTINF:-1 group-title="Bangla",Atn Bangla 
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel I
@@ -61,8 +61,8 @@ https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=chGvi4c5NMFL7XfYl2F5mw&expires=1718415582&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 group-title="Sports",T sports
 http://50.50.50.60:8088/102/index.m3u8
-#EXTINF:-1 group-title="Sports",T sports (cloudcdn)
-http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Sports",T sports (Akash)
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Sports",Nagorik TV BDIX 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/hoichoi.m3u8?id=1102
 #EXTINF:-1 group-title="Sports",Gazi
