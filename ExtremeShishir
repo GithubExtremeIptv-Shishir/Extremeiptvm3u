@@ -384,25 +384,15 @@ http://humsab.xyz/GBanTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports (Zain TV)✅️
 https://tgaadi-web.tech/zain_tv.php?tv=122824
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (opplex.tv)
-http://xtv.ooo:8080/live/193747281/8284748291/167590.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv Freeiptv
-
+http://xtv.ooo:8080/live/475483/2407516/245901.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Tv.cloudcdn.me)
 http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=13860&deviceMac=00:1A:79:00:37:47
 
-http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup (buffer)
-http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=1097664&extension=ts&play_token=VBiiGyb62A
-
-http://xtv.ooo:8080/live/193747281/8284748291/150480.ts
-http://starshare.live:8080/live/Sylvia/Sylvia/18456.ts
-http://xtv.ooo:8080/live/415663775/826262627/150480.ts
 
 
 
@@ -414,9 +404,6 @@ http://xtv.ooo:8080/live/415663775/826262627/150480.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237" ,MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
-https://tgaadi-web.tech/trex.php?tv=1118070
-http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-https://keralamaxtv.com/vt/stream.m3u8?id=MTV_Beats_HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/9xm-logo-6F5824A54F-seeklogo.com.png" ,9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248" ,Sangeet Bangla
@@ -432,15 +419,10 @@ http://livetvbox.live:8080/live/T20C227070225533/202210886677/7258.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
 http://xtv.ooo:8080/live/193747281/8284748291/66213.ts
-
-http://zeestb1.online/ditto.php?id=171
-http://xtv.ooo:8080/live/adnankb2006/86057314/66213.ts
-http://b1g.me:80/live/8035/8035/161932.ts
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=5049&deviceMac=00:1A:79:17:C0:8F
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" ,HBO
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/152373.ts
+http://fortv.cc:8080/live/71352691/90941631/9264.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/500px-AXN_logo_%282015%29.svg.png" ,AXN 
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/98915.ts
+http://vo01.mohdtv.com:8880/live/hdtv0405dda140a6/15954034/31868.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/300px-Sony_Pix_new.png" ,Sony Pix
 http://50.50.50.60:8088/503/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" ,Movies Now
