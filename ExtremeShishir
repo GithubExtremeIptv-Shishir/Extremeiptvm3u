@@ -285,9 +285,9 @@ http://homeip.biz/tan16450/index.m3u8
 
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
-http://watchindia.net:8880/live/32990/80955/2281.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
-http://watchindia.net:8880/live/32990/80955/2283.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla cinema 
