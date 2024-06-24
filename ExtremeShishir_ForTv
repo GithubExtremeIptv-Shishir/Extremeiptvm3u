@@ -138,7 +138,10 @@ https://retosbd.com/toffe/toffe.php?id=match-2
 https://retosbd.com/toffe/toffe.php?id=match-3
 #EXTINF:-1 group-title="Toffee",Bangla 2
 https://retosbd.com/toffe/toffe.php?id=match-4
-#EXTINF:-1 group-title="Toffee",Toffee ENG 
+#EXTINF:-1 group-title="Toffee",Toffee ENG  short
+https://fmrx.short.gy/Toffee_Live_Bangla/Join@AbidDthOfficial/ABID_DTH.ts
+#EXTINF:-1 group-title="Toffee",Toffee ENG full
+http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLNvTb__FmoIaKEnBn3lkxOg/ts
 
 #EXTINF:-1 group-title="Cartoon",Duronto 
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
