@@ -125,10 +125,9 @@ http://flbl16.112421.net:8082/351794/mpegts?token=YCLJ8ENQ8D
 http://flbl16.112421.net:8082/323742/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
 http://flbl16.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
-#EXTINF:-1 group-title="Sports",Un ip
+#EXTINF:-1 group-title="Sports",Un ips
 https://fmhu.short.gy/iptv.ts
-#EXTINF:-1 group-title="Sports",Un fil
-http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/52109
+
 
 #EXTINF:-1 group-title="Toffee",English 1
 https://retosbd.com/toffe/toffe.php?id=match-1
