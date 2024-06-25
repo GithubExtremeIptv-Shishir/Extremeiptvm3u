@@ -125,10 +125,10 @@ http://flbl16.112421.net:8082/351794/mpegts?token=YCLJ8ENQ8D
 http://flbl16.112421.net:8082/323742/mpegts?token=YCLJ8ENQ8D
 #EXTINF:-1 group-title="Sports",TNT SPORTS 4 (Espn)
 http://flbl16.112421.net:8082/323743/mpegts?token=YCLJ8ENQ8D
-#EXTINF:-1 group-title="Sports",ten sp
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772302&extension=ts
-#EXTINF:-1 group-title="Sports",ten spm
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772302&extension=m3u8
+#EXTINF:-1 group-title="Sports",Un ip
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/69342
+#EXTINF:-1 group-title="Sports",Un fil
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/52109
 
 #EXTINF:-1 group-title="Toffee",English 1
 https://retosbd.com/toffe/toffe.php?id=match-1
@@ -138,10 +138,7 @@ https://retosbd.com/toffe/toffe.php?id=match-2
 https://retosbd.com/toffe/toffe.php?id=match-3
 #EXTINF:-1 group-title="Toffee",Bangla 2
 https://retosbd.com/toffe/toffe.php?id=match-4
-#EXTINF:-1 group-title="Toffee",Toffee ENG  short
-https://fmrx.short.gy/Toffee_Live_Bangla/Join@AbidDthOfficial/ABID_DTH.ts
-#EXTINF:-1 group-title="Toffee",Toffee ENG full
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLNvTb__FmoIaKEnBn3lkxOg/ts
+
 
 #EXTINF:-1 group-title="Cartoon",Duronto 
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:A9:0C
