@@ -14,7 +14,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89&uid=2496&deviceMac=00:1A:79:A8:9C:
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/400px-Ekushey_Television_Logo.svg.png" ,Ekushey (main server)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
-http://tv.cloudcdn.me:80/live.ts?channelId=109&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/1311693.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
@@ -62,7 +62,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png" ,Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=13860&deviceMac=00:1A:79:00:37:47
 
@@ -82,7 +82,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/433.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
-http://vipegor.top:8080/live/VIP0157171137461960/ac01a36cba81/7326.ts
+https://tgaadi-web.tech/jiotv.php?tv=5008
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Multi Language 
 https://tgaadi-web.tech/zain_tv.php?tv=100808
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick group-title="Kids"
