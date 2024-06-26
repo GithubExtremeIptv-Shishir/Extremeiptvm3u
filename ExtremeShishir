@@ -22,13 +22,13 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=349627&extension=m3u8
+http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/394.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,MyTV
 http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFnKNc5uv82A7BIZwS1LhC4/ts
+http://xtv.ooo:8080/live/475483/2407516/245901.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=5489&deviceMac=00:1A:79:41:8E:82
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
@@ -41,7 +41,7 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
 http://xtv.ooo:8080/live/475483/2407516/245915.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24
@@ -62,7 +62,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png" ,Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=13860&deviceMac=00:1A:79:00:37:47
 
@@ -73,7 +73,7 @@ https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/411.ts
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://radiofoorti.fm/images/whitelogo.png" ,Radio Foorti
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
 
@@ -82,7 +82,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/433.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
-https://tgaadi-web.tech/jiotv.php?tv=5008
+http://108.181.123.111:8070/live/romaniamedia/8cc105f9f2/1355.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Multi Language 
 https://tgaadi-web.tech/zain_tv.php?tv=100808
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick group-title="Kids"
@@ -150,7 +150,7 @@ http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports WiFi
 http://50.50.50.60:8088/102/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://113.212.111.246:8080/hls/col12.m3u8
+http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/130714.ts
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" ,Toffee Eng 1
 https://retosbd.com/toffe/toffe.php?id=match-1
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,Toffee ban 1
@@ -192,7 +192,7 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772302&ex
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772357&extension=m3u8&play_token=ANEP4bsSJF
 #EXTINF:-1 group-title="Sports" tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
-http://vo01.mohdtv.com:8880/live/hdtv0405dda140a6/15954034/31676.ts
+https://tgaadi-web.tech/5G/play.php?tv=48601
 #EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky Sports Cricket
 http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/2006743.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
@@ -212,7 +212,7 @@ http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60581.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png?width=1140&quality=90&format=webp" ,SuperSport Football 
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60582.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
-http://watchindia.net:8880/live/32990/80955/2145.ts
+http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/2071446.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
 http://xtv.ooo:8080/live/475483/2407516/347334.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports (Afg)
