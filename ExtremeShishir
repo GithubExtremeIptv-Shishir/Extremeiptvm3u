@@ -158,7 +158,7 @@ https://retosbd.com/toffe/toffe.php?id=match-4
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" , Star Sports 1
-http://flbl16.112421.net:8082/4151818/mpegts?token=YCLJ8ENQ8D
+http://abcnew.site:8880/live/kg14m3n1110/dssewaas123/55273.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" , Star Sports 2
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/55272.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" , Star Sports 3
@@ -169,7 +169,18 @@ http://194.120.144.74:8070/live/romaniamedia/8cc105f9f2/82628.ts
 http://193.151.109.30:8070/live/romaniamedia/8cc105f9f2/16619.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" ,Star sports 1 Hindi
 http://194.120.144.224:8070/romaniamedia/8cc105f9f2/3630
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" ,Astro Cricket
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
+http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/2071446.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
+http://xtv.ooo:8080/live/475483/2407516/347334.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky Sports Cricket
+http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/2006743.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" ,SuperSport Cricket
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60792.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://xtv.ooo:8080/live/475483/2407516/109983.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
@@ -180,41 +191,33 @@ http://xtv.ooo:8080/live/475483/2407516/109985.ts
 http://xtv.ooo:8080/live/475483/2407516/167595.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" ,Sony Ten 5
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/98870.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
+http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
 http://watchindia.net:8880/live/32990/80955/2161.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" , Ten Sports
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772302&extension=m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,A sports
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=772357&extension=m3u8&play_token=ANEP4bsSJF
-#EXTINF:-1 group-title="Sports" tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
-https://tgaadi-web.tech/5G/play.php?tv=48601
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1134.1507600280.png" ,Sky Sports Cricket
-http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/2006743.ts
+http://xtv.ooo:8080/live/475483/2407516/219689.ts
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png" ,Sky Sports Football
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/2870.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1024px-Sky_Sport_Mix_Logo_2022.svg.png" ,Sky Sports Mix
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=348785&extension=m3u8
+http://jafupro.com:80/live/1234567890/1234567890/13002.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" ,Sky Sports Main Event
-http://watchindia.net:8880/live/32990/80955/2091.ts
+http://jafupro.com:80/live/1234567890/1234567890/13001.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="" ,Sky Sports Action 
-http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" ,SuperSport Cricket
-http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60792.ts
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/2880.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" ,SuperSport Grandstand
 http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png?width=1140&quality=90&format=webp" ,SuperSport Action 
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60581.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png?width=1140&quality=90&format=webp" ,SuperSport Football 
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60582.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo-980x490.jpg" ,Willow HD
-http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/2071446.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" ,Willow xtra
-http://xtv.ooo:8080/live/475483/2407516/347334.ts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/350/674/png-transparent-kabul-ariana-television-network-ariana-afghanistan-tolo-news-live-television-blue-text-thumbnail.png" ,ATN sports (Afg)
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" ,Astro Cricket
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/semxy.m3u8?id=58129
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport
 http://xtv.ooo:8080/live/193747281/8284748291/352087.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 2
@@ -240,8 +243,6 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&ext
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/360px-Sports18_logo.svg.png" ,Sports 18
 http://103.120.172.74:5500
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/3-CricLifeMax-Logo_Web-site-logo-150x120pxl_.png" ,Criclife Max
-http://webo.asia:80/live/Matthew123/Matthew123/701063.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife1.webp" ,Starzplay Criclife 1
 http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
