@@ -83,17 +83,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=7245&deviceMac=00:1A:79:B0:
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/433.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
 http://108.181.123.111:8070/live/romaniamedia/8cc105f9f2/1355.ts
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Multi Language 
-https://tgaadi-web.tech/zain_tv.php?tv=100808
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick group-title="Kids"
+#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/C4DJZxrv4uh-78bwqmYtJ-H-r6RsuUyN6I08zJHomvgSjb_757SzNpbPyUkl7u1T_qXCYhb7=s160-c-k-c0x00ffffff-no-rj" , Nick Bangla 
+http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLLVayPcMJhdBPi_QQrItPfI/ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , Nick
 http://xtv.ooo:8080/live/193747281/8284748291/150482.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama
 http://xtv.ooo:8080/live/475483/2407516/150480.ts
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" , Hungama Backup backup
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:74:4F:FB&stream=1097664&extension=ts&play_token=DBFsOSfv34
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" ,Super Hungama 
 https://tplay.dinesh29.com.np/live/tataplay-universal/super-hungama/index.ts
 
