@@ -62,7 +62,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png" ,Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
-http://113.212.111.246:8080/hls/col12.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=13860&deviceMac=00:1A:79:00:37:47
 
@@ -122,8 +122,6 @@ http://xtv.ooo:8080/live/193747281/8284748291/34011.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png" ,Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2019/11/Wow-Kidz-Logo.jpg" ,Wow Kidz
-https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.seekpng.com/png/full/529-5298972_wowkidz-action-is-a-part-of-wowkidz-and.png" ,Wow Kidz Action 
 http://xtv.ooo:8080/live/193747281/8284748291/314753.ts
 #EXTINF:-1 group-title="Kids"
@@ -147,7 +145,7 @@ http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports WiFi
 http://50.50.50.60:8088/102/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/130714.ts
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" ,Toffee Eng 1
 https://retosbd.com/toffe/toffe.php?id=match-1
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,Toffee ban 1
