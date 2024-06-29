@@ -221,7 +221,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport
 http://xtv.ooo:8080/live/475483/2407516/352087.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 2
-http://xtv.ooo:8080/live/475483/2407516/352088.ts
+http://abcnew.site:8880/kg14m3n1110/dssewaas123/1722
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 3
 http://xtv.ooo:8080/live/475483/2407516/352089.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro Supersport 4
@@ -351,16 +351,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" ,CNA group-title="English News"
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports (dhoom)
-http://humsab.xyz/GBanTv/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports (Zain TV)✅️
-https://tgaadi-web.tech/zain_tv.php?tv=122824
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (opplex.tv)
 http://xtv.ooo:8080/live/475483/2407516/245901.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Tv.cloudcdn.me)
 http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
