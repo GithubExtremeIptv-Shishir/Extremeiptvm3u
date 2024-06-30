@@ -82,7 +82,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/433.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
-http://abcnew.site:8880/live/kg14m3n1110/dssewaas123/55261.ts
+http://iptvtree.net:8080/live/romaniamedia/8cc105f9f2/1355.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/C4DJZxrv4uh-78bwqmYtJ-H-r6RsuUyN6I08zJHomvgSjb_757SzNpbPyUkl7u1T_qXCYhb7=s160-c-k-c0x00ffffff-no-rj" , Nick Bangla 
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jDQ08ZtCTGfPrf6bBXXVzB/ts
 
@@ -299,6 +299,16 @@ http://xtv.ooo:8080/live/193747281/8284748291/221261.ts
 http://xtv.ooo:8080/live/193747281/8284748291/221259.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
 http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=4280&deviceMac=00:1A:79:17:C1:7F
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwfLYv.png" ,Star Gold Select 
+http://newlife3.wanicelife.com:8880/live/kg14m3n1110/dssewaas123/55256.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwC1kv.jpg" ,Star Gold Romance 
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwqio7.jpg" ,Star Gold 2
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwBpgs.png" ,Star Gold Thrills
+http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/189473.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwKrgf.jpg" ,Sony max 2
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 group-title="Science & Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
 https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery.m3u8
@@ -334,18 +344,7 @@ http://xtv.ooo:8080/live/475483/2407516/355552.ts
 #EXTINF:-1 group-title="Science & Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" ,BBC Earth UK
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
-#EXTINF:-1 group-title="English News" tvg-logo="https://w7.pngwing.com/pngs/281/795/png-transparent-united-kingdom-bbc-news-bbc-news-labour-party-news-text-logo-computer-wallpaper-thumbnail.png" ,BBC NEWS
-http://195.181.175.69:2080/67/index.m3u8
-#EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,Aljajeera English 
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" ,CNN
 
-#EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" ,CNN International EU
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" ,DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" ,CNA group-title="English News"
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (opplex.tv)
 http://xtv.ooo:8080/live/475483/2407516/245901.ts
@@ -356,11 +355,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=7245&deviceMac=00:1A:79:B0:A9:
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/400px-FanCode_logo.svg.png" ,Fancode 1
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://theme.zdassets.com/theme_assets/2478323/6d2d0fd950e6977c7aedc78a1ea31640aad9e11f.jpg" ,Fancode 2
 
 
 
@@ -375,9 +369,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908u" ,Music India 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" ,B4U Music 
-http://livetvbox.live:8080/live/T20C227070225533/202210886677/7258.ts
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/28901.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" ,Zing
-
+http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://seeklogo.com/images/S/star-movies-logo-81C48CF0CA-seeklogo.com.png" ,Star Movies 
 http://xtv.ooo:8080/live/193747281/8284748291/66213.ts
@@ -386,19 +380,35 @@ http://fortv.cc:8080/live/71352691/90941631/9264.ts
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/500px-AXN_logo_%282015%29.svg.png" ,AXN 
 http://vo01.mohdtv.com:8880/live/hdtv0405dda140a6/15954034/31868.ts
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/300px-Sony_Pix_new.png" ,Sony Pix
-http://50.50.50.60:8088/503/index.m3u8
+http://xtv.ooo:8080/live/901289/345467/109966.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" ,Movies Now
 http://xtv.ooo:8080/live/adnankb2006/86057314/66271.ts
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO HITS
 http://xtv.ooo:8080/live/193747281/8284748291/350957.ts
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" ,Star Movies Select 
 http://xtv.ooo:8080/84880014/84403300/66315
-
-#EXTINF:-1 group-title="Kolkata" tvg-logo="" ,Sony Aath
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://iili.io/dFjpPRe.jpg" ,&flix
+http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/55.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://iili.io/dFwJQkP.png" ,Colors Infinity
+http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/87330.ts
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://iili.io/dFw2vWu.jpg" ,Zee Cafe
+http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/275061.ts
+#EXTINF:-1 group-title="Kolkata" tvg-logo="" ,Sony Aath Backup 
 https://api.himel-op.top/s*x.php?id=245989
 
-#EXTINF:-1 group-title="Kids" tvg-logo="" ,hungama 2
-https://tgaadi-web.tech/zain_tv.php?tv=92287
+#EXTINF:-1 group-title="English News" tvg-logo="https://w7.pngwing.com/pngs/281/795/png-transparent-united-kingdom-bbc-news-bbc-news-labour-party-news-text-logo-computer-wallpaper-thumbnail.png" ,BBC NEWS
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,Aljajeera English 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" ,CNN
+
+#EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" ,CNN International EU
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" ,DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" ,CNA group-title="English News"
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg",Lapataa Ladies 
