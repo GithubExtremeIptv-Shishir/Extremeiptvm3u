@@ -30,7 +30,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/767.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
-http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/288271.ts
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1Uz3j06ybM26-vuRcaBclV/ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
 http://128.0.104.39:8070/romaniamedia/8cc105f9f2/69342
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
@@ -71,7 +71,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=7245&deviceMac=00:1A:79:B0:A9
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,Ananda TV 
 https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
-https://mtlivestream.site/asian/ytlive/index.m3u8
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3wqlV58a5sqijh7hu-N0_M/ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/411.ts
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://radiofoorti.fm/images/whitelogo.png" ,Radio Foorti
@@ -82,7 +82,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP1
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" , Duronto Backup
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/433.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Sony_Yay_new.png/300px-Sony_Yay_new.png" , Sony YAY Hindi
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hOhYZBRpykcN9biGIee6kU/ts
+http://abcnew.site:8880/live/kg14m3n1110/dssewaas123/55261.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/C4DJZxrv4uh-78bwqmYtJ-H-r6RsuUyN6I08zJHomvgSjb_757SzNpbPyUkl7u1T_qXCYhb7=s160-c-k-c0x00ffffff-no-rj" , Nick Bangla 
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jDQ08ZtCTGfPrf6bBXXVzB/ts
 
@@ -277,9 +277,9 @@ http://homeip.biz/tan16450/index.m3u8
 
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" ,Star Jalsha
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/55255.ts
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" ,Zee Bangla 
-http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/288400.ts
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" ,Jalsha Movies 
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla cinema 
