@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/134/755/png-clipart-logo-desktop-trademark-computer-trademark-computer.png",EXTREME IPTV
 https://skyfire.vimeocdn.com/1719849407-0x78936b3b71225f5d4d9cf3fe3abba6e364b92163/d8226679-2b62-4ea2-8a5b-31d308642976/v2/playlist/av/primary/playlist.m3u8?pathsig=8c953e4f~UMcLtmQ3s3qsxIuVRMOvhEZuSyRqt0DLrhZgkiiJ--s&qsr=1&rh=4t53wy&sf=ts
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/632px-Bangladesh_Television_Logo.svg.png?20230916000550" ,Btv
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://e7.pngegg.com/pngimages/134/755/png-clipart-logo-desktop-trademark-computer-trademark-computer.png" ,Btv
 http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/288269.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0QWUIaTh8EAkcG4JXwhFvX/m3u8
