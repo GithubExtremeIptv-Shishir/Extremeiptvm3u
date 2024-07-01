@@ -205,9 +205,9 @@ http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/2870.ts
 http://jafupro.com:80/live/1234567890/1234567890/13002.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" ,Sky Sports Main Event
 http://jafupro.com:80/live/1234567890/1234567890/13001.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="" ,Sky Sports Action 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQKhRj.jpg" ,Sky Sports Action 
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/2880.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" ,SuperSport Grandstand
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQfuLB.jpg" ,SuperSport Grandstand
 http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png?width=1140&quality=90&format=webp" ,SuperSport Action 
 http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/60581.ts
@@ -228,13 +228,13 @@ http://mytvhd.ath.cx:8080/live/dmtn/8juZjFZ%405ZfzpZkF/34134.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png?20240205190518" ,Astro Premier 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNT Sports 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQqeF1.png" ,TNT Sports 1
 http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/2040487.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/600/1690027877/1540.png" ,TNT Sports 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQqrtR.png" ,TNT Sports 2
 http://jafupro.com:80/live/1234567890/1234567890/13007.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/600/1690027954/5712.png" ,TNT SPORTS 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQBqAb.png" ,TNT SPORTS 3
 https://jafupro.com:443/live/1234567890/1234567890/13008.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/600/1690027975/1491.png" ,TNT SPORTS 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQBul1.png" ,TNT SPORTS 4
 https://jafupro.com:443/live/1234567890/1234567890/13009.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" ,TNT Sports 5
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&extension=ts&play_token=cTCKhoI9Ke
@@ -242,11 +242,11 @@ http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82252&ext
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:78:9E:00&stream=82253&extension=ts&play_token=apwv84ZytT
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/360px-Sports18_logo.svg.png" ,Sports 18
 http://103.120.172.74:5500
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife1.webp" ,Starzplay Criclife 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQCy4S.png" ,Starzplay Criclife 1
 http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife2.webp" ,Starzplay Criclife 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQnCGV.png" ,Starzplay Criclife 2
 http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mhdsportv.com/wp-content/uploads/2023/07/criclife3.webp" ,Starzplay Criclife 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/dFQn5Zv.png" ,Starzplay Criclife 3
 http://tv.cloudcdn.me:80/live.ts?channelId=125423&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" ,Bein Sports HD USA
 http://mytvhd.ath.cx:8080/live/dmtn/8juZjFZ%405ZfzpZkF/4626.ts
@@ -431,7 +431,7 @@ http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%
 https://api.himel-op.top/s*x.php?id=245989
 
 #EXTINF:-1 group-title="English News" tvg-logo="https://w7.pngwing.com/pngs/281/795/png-transparent-united-kingdom-bbc-news-bbc-news-labour-party-news-text-logo-computer-wallpaper-thumbnail.png" ,BBC NEWS
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+http://bravesoftset.xyz:80/live/Pepsi123/Pepsi123/982890.ts
 #EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,Aljajeera English 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" ,CNN
@@ -440,7 +440,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" ,DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" ,CNA group-title="English News"
+#EXTINF:-1 group-title="English News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" ,CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
