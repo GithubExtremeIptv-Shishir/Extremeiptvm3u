@@ -290,6 +290,12 @@ http://xtv.ooo:8080/live/901289/345467/245989.m3u8
 http://watchindia.net:8880/live/32990/80955/2290.ts
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
 http://watchindia.net:8880/live/32990/80955/2284.ts
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://iili.io/dF4Z1YG.jpg" ,Colors Bangla Cinema 
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnKqV2VszQWwZb3VMol_pUfn/ts
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://iili.io/dF4PX9V.jpg" ,Enterr10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dF4D8XV.jpg" ,Akash AATH
+http://tv.cloudcdn.me:80/live.ts?channelId=79&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrazzJ.png" ,Colors HD
 http://xtv.ooo:8080/live/901289/345467/66168.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrlYts.png" ,Star Plus
@@ -334,6 +340,9 @@ http://xtv.ooo:8080/live/901289/345467/66171.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrLxse.png" ,Colors Rishtey
 http://xtv.ooo:8080/live/901289/345467/66188.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrazzJ.png" ,Enter 10
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+
 #EXTINF:-1 group-title="Science & Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
 https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery.m3u8
 #EXTINF:-1 group-title="Science & Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery Multi Language 
