@@ -285,20 +285,29 @@ http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/440px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla cinema 
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/638px-Sony_Aath_logo.svg.png" , Sony Aath
-http://watchindia.net:8880/live/32990/80955/2286.ts
+http://xtv.ooo:8080/live/901289/345467/245989.m3u8
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" ,Sun Bangla 
 http://watchindia.net:8880/live/32990/80955/2290.ts
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png" ,Colors Bangla 
 http://watchindia.net:8880/live/32990/80955/2284.ts
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrazzJ.png" ,Colors HD
+http://xtv.ooo:8080/live/901289/345467/66168.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrlYts.png" ,Star Plus
+http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/17.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrE2cl.png" ,Zee TV
+http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/13.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.setindia.com/assests/images/logo.png" , Sony Entertainment 
-http://watchindia.net:8880/live/32990/80955/2141.ts
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/55280.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" ,Zee Cinema 
 http://xtv.ooo:8080/live/193747281/8284748291/221261.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png" ,Sony Max 
 http://xtv.ooo:8080/live/193747281/8284748291/221259.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1376px-Star_Gold_2020.svg.png" ,Star Gold 
 http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=4280&deviceMac=00:1A:79:17:C1:7F
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrtshN.png" ,Colors Cineplex 
+http://xtv.ooo:8080/live/475483/2407516/206315.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrvTLQ.jpg" ,& Pictures 
+http://xtv.ooo:8080/live/901289/345467/66183.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwfLYv.png" ,Star Gold Select 
 http://newlife3.wanicelife.com:8880/live/kg14m3n1110/dssewaas123/55256.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwC1kv.jpg" ,Star Gold Romance 
@@ -309,7 +318,22 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=7245&deviceMac=00:1A:79:B0:
 http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/189473.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFwKrgf.jpg" ,Sony max 2
 http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFryVOG.jpg" ,B4U Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dF42e9t.png" ,Zee Bollywood 
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrgOKl.jpgq" ,Sony Wah
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrPX72.png" ,Sony Sab
+http://xtv.ooo:8080/live/901289/345467/104194.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dF4JaiQ.jpg" ,Sony Pal
+http://xtv.ooo:8080/live/475483/2407516/104192.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dF4KNSV.jpg" ,Star Bharat 
+http://xtv.ooo:8080/live/901289/345467/66171.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrSoWx.png" ,& TV
+http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://iili.io/dFrLxse.png" ,Colors Rishtey
+http://xtv.ooo:8080/live/901289/345467/66188.ts
 #EXTINF:-1 group-title="Science & Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" ,Discovery Bangla 
 https://raw.githubusercontent.com/lshowers/my-iptv/main/Discovery.m3u8
 #EXTINF:-1 group-title="Science & Adventure" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" , Discovery Multi Language 
