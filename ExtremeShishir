@@ -90,7 +90,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j
 http://xtv.ooo:8080/live/193747281/8284748291/150482.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" ,Hungama
-http://xtv.ooo:8080/live/475483/2407516/150480.ts
+http://xtv.ooo:8080/live/475483/2407516/150480.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" ,Super Hungama 
 http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/66162.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png?20100613144818" ,Cartoon Network CN
