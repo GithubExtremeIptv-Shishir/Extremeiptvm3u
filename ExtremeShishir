@@ -30,7 +30,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi TV
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0wj1KP42rhQ_sYWems9deJ/ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/700px-Channel9_bd.svg.png?20140315163348" , Channel 9
-http://xtv.ooo:8080/live/901289/345467/245902.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/240px-ATN_News_Logo_3.GIF" , ATN News
 http://128.0.104.39:8070/romaniamedia/8cc105f9f2/69342
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
@@ -131,10 +131,10 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
              TSports App
 
-#EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T spots 1 <web>
-
+#EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports App 
+https://fifabd.xyz/tttttt/play.php?id=1&q=720
 #EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
-
+https://fifabd.xyz/tttttt/play.php?id=2&q=720
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
