@@ -57,6 +57,12 @@ https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dKn9uiN.png" ,Star Sports 
+https://homeip.biz/S_Eng/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dKnHnr7.jpg" ,Star Sports 2
+http://humsab.xyz/st2INPK/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dKnHx29.png" ,Star Sports 3
+http://homeip.biz/IN_ST3_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK25ymP.png" , Discover Pakistan TV
 https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK25TUQ.jpg" ,Deen TV UK [Jagobd]
