@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://iili.io/dKd1cJf.png" ,BTV
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=630552&extension=ts
+#EXTINF:-1 tvg-logo="https://iili.io/dKd1cJf.png" ,BTV National 
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://iili.io/dKFBpa9.png" ,BTV World 
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=630552&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
