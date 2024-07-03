@@ -17,6 +17,7 @@ http://homeip.biz/IN_SNT2/index.m3u8
 http://homeip.biz/tenso3/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnx3cG.png" ,Sony Ten 5
 http://homeip.biz/livso/index.m3u8
-#EXTINF:-1 tvg-logo="" ,tata https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-fitness/index.ts
+#EXTINF:-1 tvg-logo="" ,tata play
+https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-fitness/index.ts
 #EXTINF:-1 tvg-logo="" ,btv
 https://bdix.proximitybd.xyz/%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE-cricket-team/curi.php
