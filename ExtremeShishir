@@ -6,7 +6,7 @@ http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" ,Btv world
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0QWUIaTh8EAkcG4JXwhFvX/ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
-https://its-nayeemparvez.xyz/bdcast/hls/index.m3u8?id=ae559a27
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1vo3tHHB3_NfponIfwbgKSg/ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
 https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="" ,Channel i int
@@ -60,7 +60,7 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" , Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png" ,Ekhon TV
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerow06cwRqD-qpn3h5nMUHE2lmEto-JYyz3VogLdbp14e/ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN Bangla
@@ -69,7 +69,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=13860&deviceMac=00:1A:79:00:37
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" , SATV
 http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,Ananda TV 
-https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
+http://starshare.live:8080/live/ashokkumar/ashokkumar/399.ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3wqlV58a5sqijh7hu-N0_M/ts
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
@@ -132,9 +132,9 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
              TSports App
 
 #EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports App 
-
-#EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
-
+https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-01
+#EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports App
+https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-02
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
@@ -150,9 +150,9 @@ http://starshare.live:8080/live/ashokkumar/ashokkumar/18452.ts
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,Toffee ban 1
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffe Eng 2 
-
+https://bds.bdsajibx.workers.dev/BD/toffe.m3u8?id=match-4
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://bangladeshpost.net/webroot/uploads/featureimage/2023-05/64774ae1ae25c.jpg" ,Toffe Copa America 
-
+https://bds.bdsajibx.workers.dev/BD/toffe.m3u8?id=match-2
 
 
 
