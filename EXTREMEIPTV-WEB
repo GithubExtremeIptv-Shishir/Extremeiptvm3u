@@ -74,11 +74,11 @@ http://homeip.biz/livso/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnEh5N.png" ,Hungama
 http://bdix.proximitybd.xyz/need.php?id=150480&e.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnG3Lg.png" ,Nick
-http://bdix.proximitybd.xyz/need.php?id=26187&e.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=1341&e=.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnED1j.png" ,Disney
 http://bdix.proximitybd.xyz/need.php?id=167551&e.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnGKBa.png" ,Pogo
-http://bdix.proximitybd.xyz/need.php?id=150483&e.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=559&e=.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK25ymP.png" , Discover Pakistan TV
 https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dK25TUQ.jpg" ,Deen TV UK [Jagobd]
