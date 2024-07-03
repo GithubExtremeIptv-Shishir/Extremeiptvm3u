@@ -15,6 +15,12 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
 http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/288269.m3u8
+#EXTINF:-1 tvg-logo="" ,Willow out
+https://jafupro.com:443/live/1234567890/1234567890/12997
+#EXTINF:-1 tvg-logo="" ,Willow with
+https://jafupro.com:443/live/1234567890/1234567890/12997.m3u8
+#EXTINF:-1 tvg-logo="" ,Willow ts
+https://jafupro.com:443/live/1234567890/1234567890/12997.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
