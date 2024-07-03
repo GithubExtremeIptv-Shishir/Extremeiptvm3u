@@ -1,11 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" ,T sports 1
+https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-01
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" ,T sports 2
+https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-02
 #EXTINF:-1 tvg-logo="https://iili.io/dKn9uiN.png" ,Star Sports 1
 https://homeip.biz/S_Eng/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnHnr7.jpg" ,Star Sports 2
 http://humsab.xyz/st2INPK/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnHx29.png" ,Star Sports 3
 http://homeip.biz/IN_ST3_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-02https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-02net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://homeip.biz/SPTEN1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
 http://homeip.biz/IN_SNT2/index.m3u8
