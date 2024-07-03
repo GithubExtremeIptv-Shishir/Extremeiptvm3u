@@ -1,73 +1,5 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://iili.io/dKd1cJf.png" ,BTV
-https://bdix.proximitybd.xyz/মায়েরদোয়া-cricket-team/curi.php?id=btv_ban
-#EXTINF:-1 tvg-logo="https://iili.io/dKFBpa9.png" ,BTV World 
-https://its-nayeemparvez.xyz/bdcast/hls/index.m3u8?id=71ad885a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla
-https://its-nayeemparvez.xyz/bdcast/hls/index.m3u8?id=ae559a27
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla  wil
-http://flbl16.112421.net:8082/4151859/mpegts?token=YCLJ8ENQ8D
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/414px-ATN_Bangla.svg.png" ,Atn bangla xtv
-http://xtv.ooo:8080/live/475483/2407516/245909.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" ,Channel i
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP0QWUIaTh8EAkcG4JXwhFvX/m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/400px-Ekushey_Television_Logo.svg.png" ,Ekushey (main server)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/400px-NTV_%28Bangladesh%29_logo.svg.png" ,ntv
-http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/288269.m3u8
-#EXTINF:-1 tvg-logo="" ,Willow out
-https://jafupro.com:443/live/1234567890/1234567890/12997
-#EXTINF:-1 tvg-logo="" ,Willow with
-https://jafupro.com:443/live/1234567890/1234567890/12997.m3u8
-#EXTINF:-1 tvg-logo="" ,Willow ts
-https://jafupro.com:443/live/1234567890/1234567890/12997.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png" ,RTV
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/528px-Boishakhi_TV_logo.svg.png?20140315164342" ,Boishakhi
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/240px-Banglavision.svg.png" ,Bangla Vision
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" ,Desh TV
-https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Maasranga
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKFApa4.png" ,Gazi TV
-https://bdix.proximitybd.xyz/মায়েরদোয়া-cricket-team/andro1.php?id=g_tv
-#EXTINF:-1 tvg-logo="https://iili.io/dKFYx94.png" ,T sports 
-https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" , Somoy News
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" , Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/380px-Ekattor_TV_logo.svg.png" , Ekattor
-https://raw.githubusercontent.com/gift4bd/ytm/main/EkattorTV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" ,Independent TV
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg?20140404111455" ,Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/400px-News24logo%28BD%29.jpg" ,News 24
-https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" , DBC News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" , Deepto TV
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" ,Green tv
-https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" , Bangla TV
-https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/440px-Ekhon_Logo.png" ,Ekhon TV
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1024px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png?20210320194152" , Nagorik TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" , SATV
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" ,Ananda TV 
-https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" ,Asian tv
-https://mtlivestream.site/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" ,Nexus
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKn9uiN.png" ,Star Sports 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://iili.io/dKn9uiN.png" ,Star Sports 1
 https://homeip.biz/S_Eng/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnHnr7.jpg" ,Star Sports 2
 http://humsab.xyz/st2INPK/index.m3u8
@@ -81,87 +13,294 @@ http://homeip.biz/IN_SNT2/index.m3u8
 http://homeip.biz/tenso3/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnx3cG.png" ,Sony Ten 5
 http://homeip.biz/livso/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKnEh5N.png" ,Hungama
-http://bdix.proximitybd.xyz/need.php?id=150480&e.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKnG3Lg.png" ,Nick
-https://madplay.live/hls/jiotv/stream.php?id=1341&e=.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKnED1j.png" ,Disney
-http://bdix.proximitybd.xyz/need.php?id=167551&e.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dKnGKBa.png" ,Pogo
-https://madplay.live/hls/jiotv/stream.php?id=559&e=.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK25ymP.png" , Discover Pakistan TV
-https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK25TUQ.jpg" ,Deen TV UK [Jagobd]
-https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK2TE91.jpg",Colosal TV
-https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK2alse.png",Channel Europe
-https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK2cIQ1.jpg",CGTN News
-https://livess.ncare.live/live-orgin/cgtn.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK2cm6g.png",CGTN Documentary
-https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK2lbb2.jpg",Biswa Bangla 24
-https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/dK20rkx.png" ,Bangla 24 Canada
-https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",ATN Music
-https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",ATN Islamic TV
-https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",ATN Bangla UK
-https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Amar Bangla
-https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Al Sunnah Al Nabawiyah TV
-https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Alpha TV Canada
-https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",AB TV USA
-https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Voice of America
-https://livess.ncare.live/live-orgin/voa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Varendra TV
-https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",V2BEAT TV
-https://livess.ncare.live/live-orgin/v2beattv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",TV ONE UK
-https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Times 24 TV
-https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Time Television US
-https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",The Channel TV
-https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Rajdhani TV
-https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",NTV Europe
-https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",NRB TV
-https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",NASA TV
-https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",NAN TV
-https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Movie Bangla
-https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Millennium TV USA
-https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Millennium TV 24
-https://livess.ncare.live/live-orgin/mnews24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Makkah TV
-https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",JonmoBhumi TV
-https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Jagoroni TV
-https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",JagoNews24 TV
-https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Islam TV
-https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Iqra Bangla
-https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",iON TV UK
-https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",DW News
-https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cL4xKsm/Liverpool-Football.jpg" ,Liverpool FC TV
+https://jafupro.com:443/Hockey123/Hockey123/201181
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lhfv8LB/Sky-Action.jpg" ,Sky Sports Action
+https://jafupro.com:443/Hockey123/Hockey123/12995
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5XyPyd/Sky-Arena.jpg" ,Sky Sports Arena
+https://jafupro.com:443/Hockey123/Hockey123/12996
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH1PrRb/Sky-Cricket.jpg" ,Sky Sports Cricket
+https://jafupro.com:443/Hockey123/Hockey123/12997
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdSkvzS/Sky-F1-Racing.jpg" ,Sky Sports F1
+https://jafupro.com:443/Hockey123/Hockey123/211508
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTSzjMZ/Sky-Football.jpg" ,Sky Sports Football
+https://jafupro.com:443/Hockey123/Hockey123/12999
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nn0wJR/Sky-Golf.jpg"Sky Sports Golf
+https://jafupro.com:443/Hockey123/Hockey123/13000
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3fphnHz/Sky-Main-Event.jpg" ,Sky Sports Main Event
+https://jafupro.com:443/Hockey123/Hockey123/13001
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxDN003/Sky-Sports-Mix.jpg"  ,Sky Sports Mix
+https://jafupro.com:443/Hockey123/Hockey123/13002
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HHdkmmm/Sky-News.jpg"  ,Sky Sports News
+https://jafupro.com:443/Hockey123/Hockey123/13003
+#EXTINF:-1  tvg-logo="https://i.ibb.co/S5vzqwx/Sky-Premier.jpg"  ,Sky Sports Premier League
+https://jafupro.com:443/Hockey123/Hockey123/13004
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hc3wD1J/Sky-Racing.jpg" ,Sky Sports Racing
+https://jafupro.com:443/Hockey123/Hockey123/13005
+#EXTINF:-1  tvg-logo="https://i.ibb.co/zFd47yX/TNT-Sports1.jpg"  ,TNT Sports 1
+https://jafupro.com:443/Hockey123/Hockey123/13006
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XFBrrjS/TNT-Sports2.jpg"  ,TNT Sports 2
+https://jafupro.com:443/Hockey123/Hockey123/13007
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bF5tpNQ/TNT-Sports3.jpg"  ,TNT Sports 3
+https://jafupro.com:443/Hockey123/Hockey123/13008
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJTDm3h/TNT-Sports.jpg" ,TNT Sports ESPN
+https://jafupro.com:443/Hockey123/Hockey123/13009
+#EXTINF:-1  tvg-logo="https://i.ibb.co/yWxGcNh/Super-Sport-Action.jpg" ,SuperSport Action
+https://jafupro.com:443/Hockey123/Hockey123/307
+#EXTINF:-1  tvg-logo="https://i.ibb.co/nkjF10m/Super-Sport-Blitz.jpg"  ,Supersport Blitz
+https://jafupro.com:443/Hockey123/Hockey123/308
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tQrZYpT/Super-Sport-Cricket.jpg"  ,SuperSport Cricket
+https://jafupro.com:443/Hockey123/Hockey123/309
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Gt9JRb6/Super-Sport-Football.jpg"  ,SuperSport Football
+https://jafupro.com:443/Hockey123/Hockey123/310
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hM9QY1x/Super-Sport-Golf.jpg"  ,SuperSport Golf
+https://jafupro.com:443/Hockey123/Hockey123/311
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ck7Fpr0/Super-Sport-Grandstand.jpg"  ,SuperSport Grandstand
+https://jafupro.com:443/Hockey123/Hockey123/313
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6PR2wMn/Super-Sport-La-Liga.jpg"  ,SuperSport LaLiga
+https://jafupro.com:443/Hockey123/Hockey123/312
+#EXTINF:-1  tvg-logo="https://i.ibb.co/x8BhbVk/Super-Sport-Motorsport.jpg"  ,SuperSport Motorsport
+https://jafupro.com:443/Hockey123/Hockey123/315
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ySK3fvn/Super-Sport-Maximo.jpg"  ,SuperSport MáXimo
+https://jafupro.com:443/Hockey123/Hockey123/314
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYkbwxp/Super-Sport-Premier-League.jpg" ,SuperSport Premier League
+https://jafupro.com:443/Hockey123/Hockey123/316
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPnDQVy/Super-Sport-PSL.jpg" ,SuperSport PSL
+https://jafupro.com:443/Hockey123/Hockey123/424724
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dfds11K/Super-Sport-Tennis.jpg" ,SuperSport Tennis
+https://jafupro.com:443/Hockey123/Hockey123/317
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/9vTrzYd/ARY-Digital.jpg" tvg-id="BARYD" ,ARY Digital
+https://jafupro.com:443/Hockey123/Hockey123/237010
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/zJBS2Jn/Colors.jpg" tvg-id="ETVKAN" ,Colors
+https://jafupro.com:443/Hockey123/Hockey123/237033
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/D70FVZm/Colors-Rishtey.jpg" tvg-id="COLRISH" ,Colors Rishtey
+https://jafupro.com:443/Hockey123/Hockey123/237036
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/93y3Yhz/HUM-tv.jpg" tvg-id="HUMTV" ,Hum TV
+https://jafupro.com:443/Hockey123/Hockey123/237011
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/wr81jL2/Sony-Sab.jpg" tvg-id="SAB" ,Sony SAB
+https://jafupro.com:443/Hockey123/Hockey123/237004
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/x7vCtw0/Sony-Set.jpg" tvg-id="SET" ,Sony SET
+https://jafupro.com:443/Hockey123/Hockey123/237003
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/rwtk5RW/Star-Gold.jpg" tvg-id="SGUS" ,Star Gold
+https://jafupro.com:443/Hockey123/Hockey123/237009
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/N2Rx3MX/Zee-Bollywood.jpg" tvg-id="ZBOLLC" ,Zee Bollywood
+https://jafupro.com:443/Hockey123/Hockey123/237007
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/bmC74FW/ZEE-Cinema.jpg" tvg-id="ZCIN" ,Zee Cinema
+https://jafupro.com:443/Hockey123/Hockey123/237006
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/0r5t6Gj/ZEE-tv.jpg" tvg-id="ZEETVH" ,Zee TV
+https://jafupro.com:443/Hockey123/Hockey123/237005
+#EXTINF:-1 group-title="Indian" tvg-id="FASHEUR" ,FTV
+https://jafupro.com:443/Hockey123/Hockey123/491734
+#EXTINF:-1 group-title="Indian" ,Colors Finity HD
+https://jafupro.com:443/Hockey123/Hockey123/491735
+#EXTINF:-1 group-title="Indian" ,Colors Infinity
+https://jafupro.com:443/Hockey123/Hockey123/491736
+#EXTINF:-1 group-title="Indian" tvg-id="COLOURS" ,Colors TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491737
+#EXTINF:-1 group-title="Indian" tvg-id="FLIX" ,flix HD
+https://jafupro.com:443/Hockey123/Hockey123/491738
+#EXTINF:-1  ,MAX HD
+https://jafupro.com:443/Hockey123/Hockey123/491739
+#EXTINF:-1  ,Nick+
+https://jafupro.com:443/Hockey123/Hockey123/491740
+#EXTINF:-1 group-title="Indian" ,Picture HD
+https://jafupro.com:443/Hockey123/Hockey123/491741
+#EXTINF:-1 group-title="Indian" ,Sony Entertainment HD
+https://jafupro.com:443/Hockey123/Hockey123/491742
+#EXTINF:-1 group-title="Indian" ,Sony Pix HD
+https://jafupro.com:443/Hockey123/Hockey123/491743
+#EXTINF:-1 group-title="Indian" ,Sony Six
+https://jafupro.com:443/Hockey123/Hockey123/491744
+#EXTINF:-1 group-title="Indian" ,Sony Ten 1 HD
+https://jafupro.com:443/Hockey123/Hockey123/491745
+#EXTINF:-1 group-title="Indian" ,Sony Ten 2 HD
+https://jafupro.com:443/Hockey123/Hockey123/491746
+#EXTINF:-1 group-title="Indian" ,Sony Ten 3 HD
+https://jafupro.com:443/Hockey123/Hockey123/491747
+#EXTINF:-1 group-title="Indian" tvg-id="STARBH" ,Star Bharat HD
+https://jafupro.com:443/Hockey123/Hockey123/491748
+#EXTINF:-1 group-title="Indian" ,Star Gold Select HD
+https://jafupro.com:443/Hockey123/Hockey123/491749
+#EXTINF:-1 group-title="Indian" ,STAR Movies Select HD
+https://jafupro.com:443/Hockey123/Hockey123/491750
+#EXTINF:-1 group-title="Indian" tvg-id="STARPLUS" ,Star Plus HD
+https://jafupro.com:443/Hockey123/Hockey123/491751
+#EXTINF:-1 group-title="Indian" ,Star Sports 1 HD
+https://jafupro.com:443/Hockey123/Hockey123/491752
+#EXTINF:-1 group-title="Indian" ,Star Sports 1 HD Hindi
+https://jafupro.com:443/Hockey123/Hockey123/491753
+#EXTINF:-1 group-title="Indian" ,Star Sports 2 HD
+https://jafupro.com:443/Hockey123/Hockey123/491754
+#EXTINF:-1 group-title="Indian" ,Star Sports Select 1 HD
+https://jafupro.com:443/Hockey123/Hockey123/491755
+#EXTINF:-1 group-title="Indian" ,Star Sports Select 2 HD
+https://jafupro.com:443/Hockey123/Hockey123/491756
+#EXTINF:-1 group-title="Indian" ,STAR Vijay TV  HD
+https://jafupro.com:443/Hockey123/Hockey123/491757
+#EXTINF:-1 group-title="Indian" tvg-id="ZBNGL" ,Zee Bangla HD
+https://jafupro.com:443/Hockey123/Hockey123/491758
+#EXTINF:-1 group-title="Indian" tvg-id="ZCIN" ,Zee Cinema HD
+https://jafupro.com:443/Hockey123/Hockey123/491759
+#EXTINF:-1 group-title="Indian" tvg-id="MRTHI" ,Zee Marathi HD
+https://jafupro.com:443/Hockey123/Hockey123/491760
+#EXTINF:-1 group-title="Indian" tvg-id="ZTAMIL" ,Zee Tamil HD
+https://jafupro.com:443/Hockey123/Hockey123/491761
+#EXTINF:-1 group-title="Indian" tvg-id="ZEE" ,Zee TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491762
+#EXTINF:-1 group-title="Indian" tvg-id="BBCKANZ" ,BBC Earth
+https://jafupro.com:443/Hockey123/Hockey123/491763
+#EXTINF:-1 group-title="Indian" ,Zee Cafe
+https://jafupro.com:443/Hockey123/Hockey123/491764
+#EXTINF:-1 group-title="Indian" ,Zee Anmol
+https://jafupro.com:443/Hockey123/Hockey123/491765
+#EXTINF:-1 group-title="Indian" ,Star Utsav IN
+https://jafupro.com:443/Hockey123/Hockey123/491766
+#EXTINF:-1 group-title="Indian" ,(STV) Republic Bharat
+https://jafupro.com:443/Hockey123/Hockey123/491767
+#EXTINF:-1 group-title="Indian" ,(STV) The Movie Club
+https://jafupro.com:443/Hockey123/Hockey123/491768
+#EXTINF:-1 group-title="Indian" tvg-id="ADTYA" ,Adithya TV
+https://jafupro.com:443/Hockey123/Hockey123/491769
+#EXTINF:-1 group-title="Indian" ,Chintu TV
+https://jafupro.com:443/Hockey123/Hockey123/491770
+#EXTINF:-1 group-title="Indian" ,Chutti TV
+https://jafupro.com:443/Hockey123/Hockey123/491771
+#EXTINF:-1 group-title="Indian" tvg-id="GCMDY" ,Gemini Comedy
+https://jafupro.com:443/Hockey123/Hockey123/491772
+#EXTINF:-1 group-title="Indian" ,Gemini Life
+https://jafupro.com:443/Hockey123/Hockey123/491773
+#EXTINF:-1 group-title="Indian" tvg-id="GEMNMV" ,Gemini Movies HD
+https://jafupro.com:443/Hockey123/Hockey123/491774
+#EXTINF:-1 group-title="Indian" tvg-id="GEMMUSC" ,Gemini Music HD
+https://jafupro.com:443/Hockey123/Hockey123/491775
+#EXTINF:-1 group-title="Indian" tvg-id="GEMITV" ,Gemini TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491776
+#EXTINF:-1 group-title="Indian" tvg-id="KTV" ,KTV HD
+https://jafupro.com:443/Hockey123/Hockey123/491777
+#EXTINF:-1 group-title="Indian" ,Kochu TV
+https://jafupro.com:443/Hockey123/Hockey123/491778
+#EXTINF:-1 group-title="Indian" ,Kushi TV
+https://jafupro.com:443/Hockey123/Hockey123/491779
+#EXTINF:-1 group-title="Indian" ,Sun Bangla
+https://jafupro.com:443/Hockey123/Hockey123/491780
+#EXTINF:-1 group-title="Indian" ,Sun Life
+https://jafupro.com:443/Hockey123/Hockey123/491781
+#EXTINF:-1 group-title="Indian" ,Sun Marathi
+https://jafupro.com:443/Hockey123/Hockey123/491782
+#EXTINF:-1 group-title="Indian" tvg-id="Sun Music" ,Sun Music HD
+https://jafupro.com:443/Hockey123/Hockey123/491783
+#EXTINF:-1 group-title="Indian" ,Sun News HD
+https://jafupro.com:443/Hockey123/Hockey123/491784
+#EXTINF:-1 group-title="Indian" tvg-id="SUNTV" ,Sun TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491785
+#EXTINF:-1 group-title="Indian" ,Surya Comedy
+https://jafupro.com:443/Hockey123/Hockey123/491786
+#EXTINF:-1 group-title="Indian" tvg-id="Surya Movies" ,Surya Movies
+https://jafupro.com:443/Hockey123/Hockey123/491787
+#EXTINF:-1 group-title="Indian" ,Surya Music
+https://jafupro.com:443/Hockey123/Hockey123/491788
+#EXTINF:-1 group-title="Indian" tvg-id="Surya TV" ,Surya TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491789
+#EXTINF:-1 group-title="Indian" ,Udaya Comedy
+https://jafupro.com:443/Hockey123/Hockey123/491790
+#EXTINF:-1 group-title="Indian" ,Udaya Movies
+https://jafupro.com:443/Hockey123/Hockey123/491791
+#EXTINF:-1 group-title="Indian" ,Udaya TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491793
+#EXTINF:-1 group-title="Indian" ,Sports 18 Khel
+https://jafupro.com:443/Hockey123/Hockey123/491794
+#EXTINF:-1 group-title="Indian" tvg-id="ASIA" ,TV Asia
+https://jafupro.com:443/Hockey123/Hockey123/491796
+#EXTINF:-1 group-title="Indian" ,Toronto 360
+https://jafupro.com:443/Hockey123/Hockey123/491797
+#EXTINF:-1 group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/The_Q_India.jpg/revision/latest?cb=20200314181125" ,The Q- India
+https://jafupro.com:443/Hockey123/Hockey123/491798
+#EXTINF:-1 group-title="Indian" ,The Q- Kahaniyan
+https://jafupro.com:443/Hockey123/Hockey123/491799
+#EXTINF:-1 group-title="Indian" tvg-logo="https://media.licdn.com/dms/image/D4D03AQGTYPnUHdc1pw/profile-displayphoto-shrink_200_200/0/1670731612413?e=2147483647&v=beta&t=U1yODDAYtJKrCbeXrMwHdIqz5_vFi8CtR73475T7mX8" ,D5
+https://jafupro.com:443/Hockey123/Hockey123/491800
+#EXTINF:-1 group-title="Indian" tvg-id="TETSD" ,Tamil Entertainment
+https://jafupro.com:443/Hockey123/Hockey123/491801
+#EXTINF:-1 ,Prime Asia
+https://jafupro.com:443/Hockey123/Hockey123/491802
+#EXTINF:-1  ,Punjab Today
+https://jafupro.com:443/Hockey123/Hockey123/491803
+#EXTINF:-1 ,TV Punjab
+https://jafupro.com:443/Hockey123/Hockey123/491804
+#EXTINF:-1  ,Pitaara Movies
+https://jafupro.com:443/Hockey123/Hockey123/491805
+#EXTINF:-1  ,Only Music
+https://jafupro.com:443/Hockey123/Hockey123/491806
+#EXTINF:-1 group-title="Indian" ,News Only
+https://jafupro.com:443/Hockey123/Hockey123/491807
+#EXTINF:-1 ,Just In
+https://jafupro.com:443/Hockey123/Hockey123/491808
+#EXTINF:-1  ,Gurkibani TV
+https://jafupro.com:443/Hockey123/Hockey123/491809
+#EXTINF:-1 ,Desi TV
+https://jafupro.com:443/Hockey123/Hockey123/491810
+#EXTINF:-1  ,Zing
+https://jafupro.com:443/Hockey123/Hockey123/491811
+#EXTINF:-1  ,Zee Tamil
+https://jafupro.com:443/Hockey123/Hockey123/491813
+#EXTINF:-1  ,Zee Talkies
+https://jafupro.com:443/Hockey123/Hockey123/491814
+#EXTINF:-1 ,Zee TV
+https://jafupro.com:443/Hockey123/Hockey123/491816
+#EXTINF:-1  ,Zee Punjabi
+https://jafupro.com:443/Hockey123/Hockey123/491817
+#EXTINF:-1  ,Zee Marathi
+https://jafupro.com:443/Hockey123/Hockey123/491818
+#EXTINF:-1  ,Zee Cinema
+https://jafupro.com:443/Hockey123/Hockey123/491819
+#EXTINF:-1  ,Zee Bollywood HD
+https://jafupro.com:443/Hockey123/Hockey123/491820
+#EXTINF:-1 ,Zee Bangla
+https://jafupro.com:443/Hockey123/Hockey123/491821
+#EXTINF:-1 ,Hum News
+https://jafupro.com:443/Hockey123/Hockey123/491822
+#EXTINF:-1  ,Hum TV
+https://jafupro.com:443/Hockey123/Hockey123/491823
+#EXTINF:-1 ,Aaj Tak
+https://jafupro.com:443/Hockey123/Hockey123/491824
+#EXTINF:-1  ,Colors TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491828
+#EXTINF:-1 ,Sony Six
+https://jafupro.com:443/Hockey123/Hockey123/491835
+#EXTINF:-1  ,Sony Ten 1 HD
+https://jafupro.com:443/Hockey123/Hockey123/491836
+#EXTINF:-1 ,Sony Ten 2 HD
+https://jafupro.com:443/Hockey123/Hockey123/491837
+#EXTINF:-1 ,Sony Ten 3 HD
+https://jafupro.com:443/Hockey123/Hockey123/491838
+#EXTINF:-1  ,Star Plus HD
+https://jafupro.com:443/Hockey123/Hockey123/491842
+#EXTINF:-1  ,Star Sports 1 HD
+https://jafupro.com:443/Hockey123/Hockey123/491843
+#EXTINF:-1 ,Star Sports 1 HD Hindi
+https://jafupro.com:443/Hockey123/Hockey123/491844
+#EXTINF:-1  ,Star Sports 2 HD
+https://jafupro.com:443/Hockey123/Hockey123/491845
+#EXTINF:-1  ,STAR Vijay TV  HD
+https://jafupro.com:443/Hockey123/Hockey123/491848
+#EXTINF:-1   ,Zee Cinema HD
+https://jafupro.com:443/Hockey123/Hockey123/491850
+#EXTINF:-1  ,Zee Marathi HD
+https://jafupro.com:443/Hockey123/Hockey123/491851
+#EXTINF:-1  ,Zee Tamil HD
+https://jafupro.com:443/Hockey123/Hockey123/491852
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXAcMlF5elcCECnyTZMwPOnhu-llUUkjddA&s" ,Gemini TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491867
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/K-TV.png" ,KTV HD
+https://jafupro.com:443/Hockey123/Hockey123/491868
+#EXTINF:-1 tvg-logo="https://img.huffingtonpost.com/asset/5cd5e3cf2100003100c32854.jpeg?ops=1200_630" ,Sun News HD
+https://jafupro.com:443/Hockey123/Hockey123/491875
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/SunTV.png" ,Sun TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491876
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGfMzhSH4iVtPmSIbk0dX_C1-b5kRLQq3paw&s" ,Surya TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491880
+#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/55fb00a38ead0e79178b5eb4/1565810342120/55fb00a38ead0e79178b5eb4.jpg?tx=w_350" ,Udaya TV HD
+https://jafupro.com:443/Hockey123/Hockey123/491884
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sports18_Khel.png/revision/latest?cb=20240321204446" ,Sports 18 Khel
+https://jafupro.com:443/Hockey123/Hockey123/491885
