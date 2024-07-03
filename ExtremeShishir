@@ -132,9 +132,9 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
              TSports App
 
 #EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports App 
-https://fifabd.xyz/tttttt/play.php?id=1&q=720
+
 #EXTINF:-1 group-title="T sports" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" ,T sports 2
-https://fifabd.xyz/tttttt/play.php?id=2&q=720
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" , Gazi TV WiFi 
 http://50.50.50.60:8088/106/index.m3u8
@@ -144,7 +144,7 @@ http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports WiFi
 http://50.50.50.60:8088/102/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://113.212.111.246:8080/hls/col12.m3u8
+http://starshare.live:8080/live/ashokkumar/ashokkumar/18452.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" ,Toffee Eng 1
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,Toffee ban 1
@@ -382,7 +382,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (opplex.tv)
 http://xtv.ooo:8080/live/475483/2407516/245901.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T sports tv (Tv.cloudcdn.me)
-http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqzCXY7T/fifa.png" ,Fifa+ 
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
