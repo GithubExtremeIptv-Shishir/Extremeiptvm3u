@@ -144,7 +144,7 @@ http://50.50.50.60:8088/101/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports WiFi
 http://50.50.50.60:8088/102/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T sports TV
-http://starshare.live:8080/live/ashokkumar/ashokkumar/18452.m3u8
+http://starshare.live:8080/live/ashokkumar/ashokkumar/18452.ts
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" ,Toffee Eng 1
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,Toffee ban 1
