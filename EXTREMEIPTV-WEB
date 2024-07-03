@@ -17,7 +17,8 @@ http://homeip.biz/IN_SNT2/index.m3u8
 http://homeip.biz/tenso3/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKnx3cG.png" ,Sony Ten 5
 http://homeip.biz/livso/index.m3u8
-
+#EXTINF:-1 tvg-logo="" ,Star hindi
+https://tgaadi-web.tech/5G/play.php?tv=586774
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cL4xKsm/Liverpool-Football.jpg" ,Liverpool FC TV
 https://jafupro.com:443/Hockey123/Hockey123/201181.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lhfv8LB/Sky-Action.jpg" ,Sky Sports Action
