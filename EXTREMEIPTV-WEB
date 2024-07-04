@@ -53,8 +53,8 @@ http://homeip.biz/IN_AC/index.m3u8
 https://jafupro.com:443/live/George12/George12/13001.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dFQfuLB.jpg" ,SuperSport Grandstand 
 http://homeip.biz/AF_S_G/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Bein Sports Eng
-https://jafupro.com:443/live/George12/George12/12997.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dK1XSpf.webp" ,Bein Sports Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKa51yb.png" ,Sony Tv
 http://humsab.xyz/IN_STVS/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKa5v9a.png" ,Sony max
