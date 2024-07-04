@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,Hindi
-http://vo01.mohdtv.com:8880/live/hdtv0405dda140a6/15954034/55273.m3u8
+#EXTINF:-1 tvg-logo="" ,Star Hindi new
+http://newlife3.wanicelife.com:8880/live/D12m3574/30870953/55273.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKc72YF.png" ,Euro 2024 (Tsports)
 https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-01
 #EXTINF:-1 tvg-logo="https://iili.io/dKcMx6J.png" ,LPL 2024 (Tsports)
