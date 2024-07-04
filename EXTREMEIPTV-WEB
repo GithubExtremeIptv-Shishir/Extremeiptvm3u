@@ -15,8 +15,8 @@ http://humsab.xyz/st2INPK/index.m3u8
 http://homeip.biz/IN_ST3_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKYmfqX.webp" ,Star Sports Hindi
 http://homeip.biz/In_Hin/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Star Sports Select 1
-http://103.120.172.74:1030
+#EXTINF:-1 tvg-logo="https://iili.io/dK0yROg.png" ,Star Sports Select 1
+http://humsab.xyz/SS1_IND/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKcz4qX.png" ,Star Sports Select 2
 http://homeip.biz/IND_SL2/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKYbaNp.png" , Sony Ten 1
@@ -41,8 +41,8 @@ http://homeip.biz/team_Cc/index.m3u8
 http://homeip.biz/AF_S_CR/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKaHo67.jpg" ,Willow Cricket 
 http://humsab.xyz/Wi_Cr/index.m3u8
-#EXTINF:-1 tvg-logo="" ,Sky Sports Football 
-http://homeip.biz/fotuk/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dK1dr3Q.jpg" ,Sky Sports Football 
+http://jafupro.com:80/live/1234567890/1234567890/12999.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKaJCOJ.webp" ,SuperSport Football 
 http://homeip.biz/AF_S_FOOTIMER/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKaR0IR.jpg" , Sky Sports Mix
@@ -50,8 +50,7 @@ http://homeip.biz/IN_mixsp/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dFQKhRj.jpg" ,Sky Sports Action 
 http://homeip.biz/IN_AC/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dFQfuLB.jpg" ,SuperSport Grandstand 
-http://145.239.5.177:8080/567/index.m3u8
-
+http://homeip.biz/AF_S_G/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKa51yb.png" ,Sony Tv
 http://humsab.xyz/IN_STVS/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKa5v9a.png" ,Sony max
