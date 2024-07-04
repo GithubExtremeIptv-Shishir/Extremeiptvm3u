@@ -15,6 +15,8 @@ http://humsab.xyz/st2INPK/index.m3u8
 http://homeip.biz/IN_ST3_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKYmfqX.webp" ,Star Sports Hindi
 http://homeip.biz/In_Hin/index.m3u8
+#EXTINF:-1 tvg-logo="" ,Star Sports Select 1
+http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://iili.io/dKcz4qX.png" ,Star Sports Select 2
 http://homeip.biz/IND_SL2/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/dKYbaNp.png" , Sony Ten 1
