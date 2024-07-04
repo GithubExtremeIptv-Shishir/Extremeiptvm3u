@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" ,Redirect 
+https://starsports-1.vercel.app/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png" ,Copa America (Toffee)
 https://bds.bdsajibx.workers.dev/BD/toffe.m3u8?id=match-4
 #EXTINF:-1 tvg-logo="https://iili.io/dKa2an4.png" ,T sports TV
