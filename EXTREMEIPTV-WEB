@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iili.io/dKc72YF.png" ,Euro 2024 (Tsports)
-https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-01
-#EXTINF:-1 tvg-logo="https://iili.io/dKcMx6J.png" ,LPL 2024 (Tsports)
-https://bds.bdsajibx.workers.dev/BD/tsports.php?id=live-02
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png" ,Copa America (Toffee)
 https://bds.bdsajibx.workers.dev/BD/toffe.m3u8?id=match-4
 #EXTINF:-1 tvg-logo="https://iili.io/dKa2an4.png" ,T sports TV
