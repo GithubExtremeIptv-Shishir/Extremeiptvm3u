@@ -182,13 +182,13 @@ http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" , Sony Ten 1
 http://xtv.ooo:8080/live/475483/2407516/109983.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" ,Sony Ten 2
-http://xtv.ooo:8080/live/475483/2407516/109984.ts
+http://193.151.109.30:8070/live/romaniamedia/8cc105f9f2/16621.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" , Sony Ten 3
-http://xtv.ooo:8080/live/475483/2407516/109985.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" , Sony Ten 4
 http://xtv.ooo:8080/live/475483/2407516/167595.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" ,Sony Ten 5
-http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/98870.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports" tvg-logo="https://icon2.cleanpng.com/20180607/hok/kisspng-2018-pakistan-super-league-youtube-ptv-sports-paki-foxtel-cup-5b195957a6d249.0868046415283879276833.jpg" ,Ptv sports 
 http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/300px-Sony_ESPN_logo.svg.png" ,ESPN
