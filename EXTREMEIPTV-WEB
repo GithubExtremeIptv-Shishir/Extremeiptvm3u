@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" ,star 1
-http://xtv.ooo:8080/live/901289/345467/220062.m3u8
-#EXTINF:-1 tvg-logo="" ,yay
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hOhYZBRpykcN9biGIee6kU/m3u8
-#EXTINF:-1 tvg-logo="" ,Super Hungama 
-http://starshare.live:8080/live/FvDYR9kyBK/8eBuhGcSbI/66162.m3u8
+
+#EXTINF:-1 tvg-logo="" ,Bad Newz
+
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png" ,Copa America (Toffee)
 https://bds.bdsajibx.workers.dev/BD/toffe.m3u8?id=match-4
 #EXTINF:-1 tvg-logo="https://iili.io/dKa2an4.png" ,T sports TV
