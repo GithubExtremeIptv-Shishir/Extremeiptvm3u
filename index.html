@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>DRM Protected Stream Player</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/3.2.1/shaka-player.compiled.js"></script>
+</head>
+<body>
+  <video id="video" width="640" controls></video>
+
+  <script>
+    // Initialize the Shaka Player
+    async function init() {
+      const video = document.getElementById('video');
+      const player = new shaka.Player(video);
+
+      // Listen for error events
+      player.addEventListener('error', onErrorEvent);
+
+      try {
+        // Configure DRM
+        player.configure({
+          drm: {
+            clearKeys: {
+              'ae26845bd33038a9c0774a0981007294': '63ac662dde310cfb4cc6f9b43b34196d'
+            }
+          }
+        });
+
+        // Load the manifest and start playback
+        await player.load('https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd');
+      } catch (error) {
+        onError(error);
+      }
+    }
+
+    function onErrorEvent(event) {
+      onError(event.detail);
+    }
+
+    function onError(error) {
+      console.error('Error code', error.code, 'object', error);
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>
